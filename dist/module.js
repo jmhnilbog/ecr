@@ -1,0 +1,1 @@
+(()=>{"use strict";Hooks.once("init",(async()=>{console.log("=============================HMR============================")})),Hooks.once("ready",(async()=>{}))})();
