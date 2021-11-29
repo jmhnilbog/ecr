@@ -1,12 +1,12 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
-  "version": "This is auto replaced",
+  "name": "ecr",
+  "title": "ECR Eternal Compass Rose",
+  "description": "EVERYTHING COUNTABLE, REALLY.",
+  "version": "0.0",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
   "authors": [
     {
       "name": "jmhnilbog",
@@ -23,18 +23,12 @@
       "discord": "discordID#0001"
     }
   ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-
-  ],
+  "dependencies": [],
+  "conflicts": [],
   "esmodules": [
     "module.ts"
   ],
-  "scripts": [
-
-  ],
+  "scripts": [],
   "styles": [
     "/styles/module.css",
     "/styles/module.scss"
@@ -44,6 +38,43 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "sotss-creatures",
+      "label": "Sailors on the Starless Sea: Creatures",
+      "path": "packs/adventures/sotss/creatures.db",
+      "module": "ecr",
+      "entity": "Actor"
+    },
+    {
+      "name": "sotss-items",
+      "label": "Sailors on the Starless Sea: Items",
+      "path": "packs/adventures/sotss/items.db",
+      "module": "ecr",
+      "entity": "Item"
+    },
+    {
+      "name": "sotss-journals",
+      "label": "Sailors on the Starless Sea: Journal Entries",
+      "path": "packs/adventures/sotss/journals.db",
+      "module": "ecr",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "sotss-rolltables",
+      "label": "Sailors on the Starless Sea: RollTables",
+      "path": "packs/adventures/sotss/rolltables.db",
+      "module": "ecr",
+      "entity": "RollTable"
+    },
+    {
+      "name": "sotss-scenes",
+      "label": "Sailors on the Starless Sea: Scenes",
+      "path": "packs/adventures/sotss/scenes.db",
+      "module": "ecr",
+      "entity": "Scene"
     }
   ],
   "url": "This is auto replaced",
