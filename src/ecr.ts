@@ -1,4 +1,5 @@
 import { TemplatePreloader } from "./module/helper/TemplatePreloader";
+import "./markdown.scss";
 
 Hooks.once("init", async () => {
     console.log("ECR: Init")

@@ -31,7 +31,7 @@
   "scripts": [],
   "styles": [
     "/styles/module.css",
-    "/styles/module.scss"
+    "/styles/main.css"
   ],
   "languages": [
     {
@@ -75,6 +75,13 @@
       "path": "packs/adventures/sotss/scenes.db",
       "module": "ecr",
       "entity": "Scene"
+    },
+    {
+      "name": "utility-tiles",
+      "label": "Utility: Tiles",
+      "path": "packs/utility/tiles.db",
+      "module": "ecr",
+      "entity": "Actor"
     }
   ],
   "url": "This is auto replaced",

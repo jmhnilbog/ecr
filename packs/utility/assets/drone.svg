@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"
+    viewBox="-1.2 -1.2 2.2 2.2">
+    <g fill="hsla(203, 85%, 95%, .6)" stroke="hsla(255,255%,255%,1)" stroke-width=".05">
+        <circle r=".95" />
+        <animateTransform attributeName="transform" type="rotate" dur="10s" values="0; 360" repeatCount="indefinite"
+            calcMode="spline" keySplines="0 0 0 0" />
+        <g id="prefix__a">
+            <path d="M0 1a1 1 0 010-2">
+                <animateTransform attributeName="transform" type="scale" dur="5s" values="-1 1; 1 1"
+                    repeatCount="indefinite" calcMode="spline" keySplines="0.64 0 0.36 1" />
+                <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
+            </path>
+            <path d="M0 1a1 1 0 010-2">
+                <animateTransform attributeName="transform" type="scale" begin="-2.5s" dur="5s" values="-1 1; 1 1"
+                    repeatCount="indefinite" calcMode="spline" keySplines="0.64 0 0.36 1" />
+                <animate attributeName="opacity" values="0;1;0" begin="-2.5s" dur="5s" repeatCount="indefinite" />
+            </path>
+        </g>
+        <use xlink:href="#prefix__a" transform="rotate(90)" />
+    </g>
+</svg>

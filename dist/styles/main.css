@@ -1,0 +1,8 @@
+.editor .aside, .chat-message .aside {
+  background-color: #ff0000cc;
+}
+.editor .readaloud, .chat-message .readaloud {
+  border: 1em solid red;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzL21haW4uY3NzIiwibWFwcGluZ3MiOiJBQUNJO0VBQ0k7QUFBUjtBQUdJO0VBQ0k7QUFEUixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcGxhY2Vob2xkZXIvLi9zcmMvbWFya2Rvd24uc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIuZWRpdG9yLCAuY2hhdC1tZXNzYWdlIHtcbiAgICAuYXNpZGUge1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmYwMDAwY2M7XG4gICAgfVxuXG4gICAgLnJlYWRhbG91ZCB7XG4gICAgICAgIGJvcmRlcjogMWVtIHNvbGlkIHJlZDtcbiAgICB9XG59XG5cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
