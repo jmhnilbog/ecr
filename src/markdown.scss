@@ -1,10 +1,76 @@
-.editor, .chat-message {
-    .aside {
-        background-color: #ff0000cc;
+body,
+.editor,
+.chat-message {
+    // .item::before {
+    //     content: 'ITEM';
+    //     position: absolute;
+    //     font-weight: bold;
+    //     font-size: 1.5em;
+    //     color: #2225;
+    //     top: -0.75em;
+    // }
+
+    .statblock {
+        padding: 1em;
+        margin: 1em;
+        background-color: #3332;
+        position: relative;
+
+        & > p:first-child {
+            font-weight: bold;
+        }
+
+        // &.creature::before {
+        //     content: 'CREATURE';
+        //     position: absolute;
+        //     font-weight: bold;
+        //     font-size: 1.5em;
+        //     color: #2225;
+        //     top: -0.75em;
+        // }
+    }
+
+    .creature {
+    }
+
+    .item {
+    }
+
+    .house-rule {
+    }
+
+    .lore {
+    }
+
+    .area {
     }
 
     .readaloud {
-        border: 1em solid red;
+        padding: 1em;
+        margin: 1em;
+        background-color: #3332;
+        position: relative;
+        border: 1em solid #f336;
+    }
+
+    dl {
+        & > dt {
+            font-size: 1.25em;
+            font-weight: bold;
+            margin-top: 1em;
+            padding: 0.25em 1em;
+            background-color: #3332;
+
+            border-left: 0.25em solid #3332;
+            border-top: 0.25em solid #3332;
+            border-right: 0.25em solid #3332;
+        }
+        & > dd {
+            margin: 0;
+            padding: 1em;
+            border-left: 0.25em solid #3332;
+            border-bottom: 0.25em solid #3332;
+            border-right: 0.25em solid #3332;
+        }
     }
 }
-

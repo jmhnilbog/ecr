@@ -1,63 +1,120 @@
-The wider circle
+# The Wider Circle
 
-#background
-
-When and Where
-
-It’s the morning of October 31, 1381, in a parallel England. Your characters are a mix of English drawn to the Goblin Market, to be held outside the village of Fulstow on Goshill Island (off the east coast of England, near Hull) for the next three nights. Most are villagers from Fulstow trying to make a buck off of visitors, some are ready to win some magic from the Goblins, some are just curious or in search of entertainment. None of them have any notable ‘adventuring’ skills, yet.
-Playstyle Expectations
+## Playstyle Expectations
 
 Your characters are out to survive and survive well. If they can convince others to run themselves through a meat grinder so they don’t have to personally, they are likely to and put off the consequences until later. They are unlikely to cooperate over the long term unless circumstances or interpersonal friendships make cooperation appropriate. The survivors of the current expedition don’t all have to become a band of wandering adventurers.
-Where To Buy Things
 
-Anything a neophyte adventurer might need can be bought at the Goblin Market, being held at Fulstow. Weapons and armor are not easily found in smaller villages, or even towns. Your best bet is the largest town on the island, Springwick, a day or so’s travel through forest. The nearest city is Kingston-Upon-Hull, about 15 miles away as the crow flies. You’ll need a boat or money for a ferry ride just to get to the mainland. You might need to go as far as Sheffield (80 miles) or London (215 miles) for really obscure or custom-fit items.
-Famous Magicians Include...
+* Combat is war. Avoid it when you can, do anything to win when you must. Learn when to run.
+* Mechanics are triggered by narrative. To do something, describe your character doing it. The Judge will let you know when you need to roll some dice. A character with low Intelligence score doesn't have to be played like a drooling idiot; successfully played, that character will avoid triggering mechanics that rely on high Intelligence scores to achieve.
+* Ask questions. No two people come to the game with identical assumptions, and your characters are as unfamiliar with the oddities of the adventuring life as you are. Assume that things are happenning for a reason and that reason is discoverable.
+* Play to 'win'. The emergence of an entertaining story out of the chaos of imagination and dice is the only true 'win' state of the game. Characters have setbacks, die, and are replaced. That is part of winning.
 
-The mightiest wizards are all fifth-dimensional lizard people, aka the English royal family. The Queen, Auria, is the mightiest among them. One of their courtiers, Phillip the Rebuker, is a great, ‘holy’, non-lizard person diabolist, certainly the most famous of those who openly deal with devils.
-Where the Prayers Go
+## Background
 
-The state religion is Englishism, basically Roman Catholicism except all the big players have been revealed as fifth-dimensional lizard people and prayers actually work. Humans are from the moon, which used to be the Garden of Eden. (The moon is now populated solely by various snakes and snake hybrids.) Hell is underneath the Sun, and Heaven is in the Castor Group (a seven-star system, brightest in the galaxy. It takes good souls 51 years to travel there, as they are made of light.
+### When and Where Am I?
 
-Every chartered city or town must enforce the state religion and include several churches. Smaller settlements must at least raise a cross at the major crossroads. The farther you get from London, the weirder the interpretations of Englishism get. While no other major religions reliably answer prayers, scattered shrines to genius loci, devils, demons, or ancestors show evidence that magic is not restricted solely to Englishism and the fifth-dimensional reptiles.
+It’s the morning of **October 31, 1381**, in **Angland**, which is almost England. You live on planet **Earf**. Welcome to it.
 
-Many common people subscribe more to cherry-picked local superstitions than Englishism in day-to-day lives, as clerics aren't present at all times to instruct and correct. Many invoke the Queen's name as a prayer.
+Your characters are a mix of Anglish folk drawn to the **Goblin Market**, to be held outside the village of **Fulstow** on **Goshill Island** (off the east coast of Angland, near **Hull**) for the next three nights. Most are villagers from Fulstow trying to make a buck off of visitors, some are ready to win some magic from the Goblins, some are just curious or in search of entertainment. 
 
-The Queen's men roam the countryside, armed warriors and English clerics. Even the Queen travels with them one-third of the year. Justice is meted out, court cases are heard, healing and instruction delivered, and children with the reptilian DNA are taken to be raised as nobility.
-English Heroes
+**None of them have any notable ‘adventuring’ skills, yet**. Your backstories are more "You bake good pies" and less "You long to avenge your master, torn apart by the minions of the great dragon Blablabbla".
 
-Famously great warriors still walking include your island’s own Rupert Bough-Breaker, who moved an entire forest on his back in order to create the land on which Springwick developed. Christian Man-Ossuary wears armor made of the bones of duelists who lost to him. (He requires at least a single bone from any opponent, even in duels not to the death.) St. Four-Toes is a possibly legendary warrior said to have driven more snakes into Ireland. Anything he plants in the ground causes some sort of growth, and some sort of harvest.
-Where Is the Money?
+### What Is the Goblin Market?
 
-The richest are all fifth-dimensional lizard people and you will probably never meet them. The richest person you know of in Fulstow is Willelmus Chandler, patriarch of the largest family in Fulstow. He credits his incredible fecundity, his friendship with the local Earl, and his untiring effort as the reason for his great success. He certainly has the nicest, stone house you’ve seen.
-Where Can I Get Healing?
+
+
+### Where Can I Shop?
+
+Anything a neophyte adventurer might need can be bought at the **Goblin Market**, being held at Fulstow. Weapons and armor are not easily found in smaller villages, or even towns. Your best bet is the largest town on the island, **Springwick**, a day or so’s travel through forest. 
+
+The nearest city is **Kingston-Upon-Hull**, about 15 miles away as the crow flies. You’ll need a boat or money for a ferry ride just to get to the mainland.
+
+You might need to go as far as **Sheffield** (80 miles) or even **London** (215 miles) for really obscure or custom-fit items.
+
+### Famous Magicians Include...
+
+The mightiest wizards are all fifth-dimensional lizard people, aka the Anglish royal family. **The Queen, Auria**, is the mightiest among them. 
+
+One of their courtiers, **Phillip the Rebuker**, is a great, ‘holy’, non-lizard person diabolist, certainly the most famous of those who openly deal with devils.
+
+### Where the Prayers Go
+
+The state religion is Anglican, basically Roman Catholicism except all the big players have been revealed as fifth-dimensional lizard people and prayers actually work. Humans are from the moon, which used to be the Garden of Eden. (The moon is now populated solely by various snakes and snake hybrids.) Hell is underneath the Sun, and Heaven is in the Castor Group (a seven-star system, brightest in the galaxy. It takes good souls 51 years to travel there, as they are made of light.
+
+Every chartered city or town must enforce the state religion and include several churches. Smaller settlements must at least raise a cross at the major crossroads. The farther you get from London, the weirder the interpretations of Anglican get. While no other major religions reliably answer prayers, scattered shrines to genius loci, devils, demons, or ancestors show evidence that holy magic is not restricted solely to Anglican and the fifth-dimensional reptiles.
+
+Many common people subscribe more to cherry-picked local superstitions than Anglican in day-to-day lives, as clerics aren't present at all times to instruct and correct. Many invoke the Queen's name as a prayer.
+
+The Queen's men roam the countryside--armed warriors and English clerics. Even the Queen travels with them one-third of the year. Justice is meted out, court cases are heard, healing and instruction delivered, and children with the reptilian DNA are taken to be raised as nobility.
+
+### Anglish Heroes You Know Of
+
+Famously great warriors still walking include your island’s own **Rupert Bough-Breaker**, who moved an entire forest on his back in order to create the land on which Springwick developed. 
+
+**Christian Man-Ossuary** wears armor made of the bones of duelists who lost to him. (He requires at least a single bone from any opponent, even in duels not to the death.) 
+
+**St. Four-Toes** is a possibly legendary warrior said to have driven additional snakes into Ireland. Anything he plants in the ground causes some sort of growth, and some sort of harvest.
+
+### Where Is the Money?
+
+The richest people are all fifth-dimensional lizards and you will probably never meet them. 
+
+The richest person *you* know of in Fulstow is **Willelmus Chandler**, patriarch of the largest family in Fulstow. He credits his incredible fecundity, his friendship with the local Earl, and his untiring effort as the reason for his great success. He certainly has the nicest, made-of-stone-and-not-mud house you’ve seen.
+
+### I'm hurt. Where Can I Get Healing?
 
 Magical healing can be found at scattered sacred springs or in any settlement large enough to have a cleric-staffed church of Englishism. Affirmation of the tenets of Englishism is always required before any magic is invoked, usually including a full round of Confession, Confirmation, and Communion. Snake handling is part of the Rite of Confirmation, and those not doing proper penance are often bit. Adventurers and other of dubious morality often find themselves turning to Diabolism for magical healing. Hermits, wise-women, and talking animals are other possibilities, should you become cursed or dead. Englishism saved many, many people from the Black Death in England, and turned many of those into zealots for life.
-Where Is The Magic?
+
+### Where Is The Magic?
 
 There are no ‘Magic Guilds’ or the like. If you want guaranteed access to magic, you’d better get access to the Englishist church or develop a relationship with a magically-inclined demon. Spells and prayers are functionally identical. Working spells cost RP; if you know a spell, you can cast it as many times as you like in a day until you roll poorly enough to block it for the rest of the day.
-Other Notable Types
 
-Thieves do have guilds of sorts. They are often the best source of information about finding experts in various fields, including mercenaries. Mercs can be found roving the countryside acting as police forces, and in large settlements where several will have small outposts.
-How To Get a Message From Here To There
+### What About...
+
+#### Thieves
+
+Thieves do have guilds of sorts. They are often the best source of information about finding experts in various fields, including mercenaries.
+
+#### Mercenaries
+Mercs can be found roving the countryside acting as police forces, and in large settlements where several will have small outposts.
+
+### How To Get a Message From Here To There
 
 Long-distance communication is dominated by Englishist church magic, which is monitored. Private long-distance communication is usually restricted to pigeon or horse.
-Where To Get Drunk
+
+### Where Can I Get Drunk?
 
 Fulstow has greatly ramped up ale, beer, mead, and wine production in advance of the Goblin Market. There are no taverns, but pavilion tents have been set up, loaded with rustic benches and tables. The Market is sure to have drink as well, but most prefer to deal with Goblins with faculties undulled.
-Any Famous Monsters Around?
 
-Fulstow Forest is populated with a staggering number or birds of huge variety. Some are famously tricky, some famously dangerous. The Fulstow Beast is blamed for many injuries and deaths, and said to be a huge mongoose. Mongeese have a bad rap in England, since they kill snakes.
-And Outside England's Borders....
+### Are There Any Famous Monsters Around?
 
-Even though it was only founded at the turn of the 13th century, Englishism is the only known ‘working’ religion and it has rapidly spread to the Continent. France and Spain desperately attempt to squash it. Instead of bringing the fight to England, they are on the brink of civil collapse. The Black Plague killed few in England, thanks to it. France and Spain are greatly depopulated. Ireland and Scotland have already become part of England in all but name.
-If You Just Want To Fight
+Fulstow Forest is populated with a staggering number of birds of huge variety. The **Tricky Tit** is a species known to disguise and throw its voice, and mimic sounds known to it. This can be dangerous should the Tit overhear the wrong snatches of incantations. 
+
+**The Fulstow Beast** is blamed for many injuries and deaths, and said to be a huge mongoose. Mongeese have a bad rap in England, since they kill snakes.
+
+### And Outside Angland's Borders....
+
+Even though it was only founded at the turn of the 13th century, Anglican is the only known ‘working’ religion and it has rapidly spread to the Continent. France and Spain desperately attempt to squash it. Instead of bringing the fight to Angland, they are on the brink of civil collapse. The Black Plague killed few in Angland, thanks to it. France and Spain are greatly depopulated. Ireland and Scotland have already become part of Angland in all but name.
+
+There are whispers of another 'working' religion's rise in the far east, named Mecha.
+
+### I JUST WANT TO PUNCH THINGS
 
 There are no gladiatorial arenas or anything like them. Boxing, animal baiting, wrestling, and other sport contests do exist in the countryside, and nobles and city folk may attend knightly tournaments.
-Things To Look For and Steal
 
-The Englishist Church craves treasures that prove its legitimacy as much as the Holy Roman Church craves opposing evidence. Find a nail of the True Cross with a shred of snake-skin or a grail full of anti-venom and you have a ready-made buyer.
-basilisk\*07/31/2017
-What Happened on Michaelmas, And What Is the Goblin Market
+Poaching is good way to kill things and subsequently be eaten by the local noble.
+
+Ruins, faerie-lands, cursed graveyards, and so on are good places to go and kill things without upsetting many people.
+
+### What Should I Look For, and Steal?
+
+The Anglican Church craves treasures that prove its legitimacy as much as the continental Holy Roman Church craves opposing evidence. Find a nail of the True Cross with a shred of snake-skin or a grail full of anti-venom and you have a ready-made buyer.
+
+Precious metals, gems, and other pretty things are just as valuable as you'd think.
+
+Never forget that each character in the world, including yours, has its own peccadillos and desires. Your pie baker might crave butter from a fairy cow, or some impossible fruit.
+
+### What Happened on Michaelmas, And What Is the Goblin Market?
 
 A short, ugly man with a strange cap appeared in the center of Fulstow at sundown. He waved his hat in the air and shouted, "Here, within the forest, at the clearing, the Goblin Market shall be held for three nights come All Hallows' Eve." Repeating this twice more, he walked away. While every villager in Fulstow can't have been within sight of the center of town at that moment, all remember being there.
 
@@ -65,7 +122,7 @@ A similar event ocurred in Hull, London, and scattered other small human settlem
 
 Everyone knows the Goblin Market is a great, though frightening, opportunity to trade with the magical races and experience the usually unknowable. It appears every few years at a different place without rhyme or reason. The villagers of Fulstow will likely receive a boon from the Market if they host it well, and there will be many visiting outsiders to extract what cash they can from. Wizards, priests, entertainers, pilgrims, curiosity-seekers will all be there to deal with the Market.
 
-While everyone knows about the Goblin Market, no one remembers anyone ever talking about the Goblin Market until that strange ugly man showed up.
+While everyone knows about the Goblin Market, no one remembers anyone ever talking about the Goblin Market until that strange ugly man showed up. Arguments continue regarding the exact type of cap he wore and other particulars of his ugliness, but everyone is sure they'd recognize him should they see himn again.
 
 # RULES
 
@@ -79,7 +136,7 @@ Use a + or - to indicate a trait is a positive or negative one. Each positive sy
 
 +strong, one positive syllable, means the character is stronger than about 66% of the human population. +very strong, three positive syllables, means they are stronger than 99.7% of the human population. (Being human imposes limitations.)
 
-Give your characters medieval English names: try something like https://donjon.bin.sh/fantasy/name/#type=medieval_europe;medieval_europe=English Male for examples. You only really need a first name at this point.
+Give your characters medieval English names: try something like [this](https://donjon.bin.sh/fantasy/name/#type=medieval_europe;medieval_europe=English%20Male) for examples. You only really need a first name at this point.
 basilisk\*07/31/2017
 Example Characters
 
