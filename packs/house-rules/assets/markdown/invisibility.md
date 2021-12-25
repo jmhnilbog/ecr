@@ -1,9 +1,10 @@
 ::: house-rule
   
   Invisibility
-  : **Invisible creatures receive +2 to attacks and are difficult to locate for sight-oriented creatures**, such as most player characters. 
-  
-    If the correct location of an invisible creature is targeted by an attack, it may be attacked normally, but a miss chance of up to 50% is applied even if that attack would otherwise hit.
+  : **Invisible creatures *usually* receive +2 to attacks and are difficult to locate.** These bonuses are reduced or eliminated against creatures not visually-oriented.
+  : **Illusions or mental affects that mask the presence of an item or creature are *not* invisibility.**
+  : **Visible light travels through invisible creatures without affecting them** in any way. 
+  : **If the correct location of an invisible creature is targeted by an attack, it may be attacked normally, but a miss chance of up to 50% is applied on too otherwise successful attacks.** 
     
     | Miss Chance | Example Circumstances |
     |--|--|

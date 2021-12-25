@@ -25,6 +25,12 @@ your meager weapons. The time for retribution has come.
 
 The PCs are free to enter as they see fit.
 
+::: aside
+**A Ticking Clock?**
+
+The adventure assumes that PCs will have a difficult enough time simply surviving until the end, but the Judge may wish to introduce time pressure as well. In that case, be sure to keep track of elapsed turns during play. The ritual continues at the ziggurat until the PCs interrupt it or dawn approaches at about (4:00am). The PCs arrive at mid-afternoon, about 3:00pm, if they elect to travel the causeway. Other approaches delay them until 5:00pm.
+:::
+
 | Approach | Details |
 |--|--
 | Up the road, from the south | This, the most obvious approach, takes them up the causeway (@Compendium[ecr.sotss-journals.The Devil's Causeway]). This is also the most dangerous. Wily characters will be rewarded for their suspicion, though hesitation should never be mistaken for caution. |
