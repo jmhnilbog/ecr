@@ -10,40 +10,66 @@ body,
     //     top: -0.75em;
     // }
 
-    .statblock {
-        padding: 1em;
-        margin: 1em;
-        background-color: #3332;
-        position: relative;
+    .encounter {
+        border: 1px solid blue;
+    }
 
-        & > p:first-child {
-            font-weight: bold;
+    .summary {
+        margin-left: 1em;
+        font-size: 0.8em;
+        width: 30%;
+        min-width: 20em;
+        float: right;
+        background-color: #00000011;
+
+        dl {
+            margin: 0;
+            padding: 0;
+            background-color: #00000011;
+            border-bottom: 1px solid #00000011;
+            & > dt {
+                font-weight: bold;
+                list-style-type: square;
+                //background-color: #00000011;
+                margin-left: 1em;
+            }
+            & > dd {
+                margin: 0;
+                padding: 0;
+                // background-color: #00000011;
+                margin-left: 2em;
+            }
         }
-
-        // &.creature::before {
-        //     content: 'CREATURE';
-        //     position: absolute;
-        //     font-weight: bold;
-        //     font-size: 1.5em;
-        //     color: #2225;
-        //     top: -0.75em;
-        // }
     }
 
-    .creature {
+    .main::after {
+        clear: both;
+
+        & > * {
+            display: table;
+            background-color: #f336;
+        }
     }
 
-    .item {
-    }
+    // .statblock {
+    //     padding: 1em;
+    //     margin: 1em;
+    //     background-color: #3332;
+    //     position: relative;
 
-    .house-rule {
-    }
+    //     & > p:first-child {
+    //         font-weight: bold;
+    //     }
 
-    .lore {
-    }
-
-    .area {
-    }
+    //     // &.creature::before {
+    //     //     content: 'CREATURE';
+    //     //     position: absolute;
+    //     //     font-weight: bold;
+    //     //     font-size: 1.5em;
+    //     //     color: #2225;
+    //     //     top: -0.75em;
+    //     // }
+    // }
 
     .readaloud {
         padding: 1em;
@@ -51,26 +77,27 @@ body,
         background-color: #3332;
         position: relative;
         border: 1em solid #f336;
+        display: table;
     }
 
-    dl {
-        & > dt {
-            font-size: 1.25em;
-            font-weight: bold;
-            margin-top: 1em;
-            padding: 0.25em 1em;
-            background-color: #3332;
+    // dl {
+    //     & > dt {
+    //         font-size: 1.25em;
+    //         font-weight: bold;
+    //         margin-top: 1em;
+    //         padding: 0.25em 1em;
+    //         background-color: #3332;
 
-            border-left: 0.25em solid #3332;
-            border-top: 0.25em solid #3332;
-            border-right: 0.25em solid #3332;
-        }
-        & > dd {
-            margin: 0;
-            padding: 1em;
-            border-left: 0.25em solid #3332;
-            border-bottom: 0.25em solid #3332;
-            border-right: 0.25em solid #3332;
-        }
-    }
+    //         border-left: 0.25em solid #3332;
+    //         border-top: 0.25em solid #3332;
+    //         border-right: 0.25em solid #3332;
+    //     }
+    //     & > dd {
+    //         margin: 0;
+    //         padding: 1em;
+    //         border-left: 0.25em solid #3332;
+    //         border-bottom: 0.25em solid #3332;
+    //         border-right: 0.25em solid #3332;
+    //     }
+    // }
 }

@@ -1,14 +1,8 @@
-
-
-::: readaloud 
-An old **dirt road**, now **overrun with weeds** and sickly vines, rises
-towards the ruined citadel. A grisly sight bars your way: **a pair of bodies, 
-secured to poles** by long ropey vines. The wicked **vines have wormed their way
-inside** the bodies’ eyes, ears, and mouths.   
-:::
+::::: encounter
 
 ::: summary
-Vine-animated corpses guard the path to the keep's gate.
+
+Vine-animated corpses guard the path to the keep's gate!
 
 Secrets
 : The corpses are not initially known to be dangerous.
@@ -17,8 +11,8 @@ Creatures
 : @Compendium[ecr.sotss-creatures.Vine Horror] (Keary)
   
   Treasure
-  : @Compendium[dcc-core-book.dcc-core-weapons.Short sword], a gift from Keary's father
-  : @Compendium[dcc-core-book.dcc-core-weapons.Dagger], a gift from Keary's father
+  : A @Compendium[dcc-core-book.dcc-core-weapons.Short sword] and a @Compendium[dcc-core-book.dcc-core-weapons.Dagger], a gifts from Keary's father
+
 : @Compendium[ecr.sotss-creatures.Vine Horror] (Alban)
 
   Treasure
@@ -26,6 +20,7 @@ Creatures
 
 :::
 
+:::: main
 ::: readaloud 
 An old **dirt road**, now **overrun with weeds** and sickly vines, rises
 towards the ruined citadel. A grisly sight bars your way: **a pair of bodies, 
@@ -40,7 +35,7 @@ To your horror, *you realize the
 bodies are still moving*.
 :::
 
-The vines unwind from the posts, freeing the
+ The vines unwind from the posts, freeing the
 horrors to shamble toward the PCs. 
 
 **Any PC from the village that gets a good look at the corpses recognizes them as the village blacksmith's children, Keary and Alban.** The brothers vanished from the village eleven days
@@ -49,3 +44,10 @@ with vine horrors to ward off any investigations from the
 townsfolk. 
 
 More information: @Compendium[ecr.sotss-journals.Vine Horrors]
+::::
+
+:::::
+
+
+
+
