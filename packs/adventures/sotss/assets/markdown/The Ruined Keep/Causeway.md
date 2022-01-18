@@ -1,13 +1,35 @@
 ::::: encounter
 
-::: summary
+# one
+
+## two
+
+### three
+
+#### four
+
+##### five
+
+###### six
+:::: summary
 
 Vine-animated corpses guard the path to the keep's gate!
 
-Secrets
-: The corpses are not initially known to be dangerous.
+- The corpses are not initially known to be dangerous. {.secret}
+- PCs from the village may recognize the dead!
+- @Compendium[ecr.sotss-creatures.Vine Horror] (Keary) {.foe}
+  - A @Compendium[dcc-core-book.dcc-core-weapons.Short sword] and a @Compendium[dcc-core-book.dcc-core-weapons.Dagger], gifts from Keary's father {.treasure}
+- @Compendium[ecr.sotss-creatures.Vine Horror] (Alban) {.foe}
+  - 5cp, hidden in Alban's right boot {.treasure}
 
-Creatures
+- A list!
+  ::: what
+  some stuff in a div
+  :::
+    - another
+- what?
+
+<!-- Creatures
 : @Compendium[ecr.sotss-creatures.Vine Horror] (Keary)
   
   Treasure
@@ -16,9 +38,9 @@ Creatures
 : @Compendium[ecr.sotss-creatures.Vine Horror] (Alban)
 
   Treasure
-  : 5cp, hidden in Alban's right boot
+  : 5cp, hidden in Alban's right boot -->
 
-:::
+::::
 
 :::: main
 ::: readaloud 

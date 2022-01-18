@@ -22,11 +22,12 @@
     "author": "Blackcloud010",
     "license": "MIT",
     "devDependencies": {
-        "@league-of-foundry-developers/foundry-vtt-types": "^0.7.9-5",
+        "@league-of-foundry-developers/foundry-vtt-types": "^9.238.1",
         "@types/marked": "^2.0.2",
         "@types/webpack-env": "^1.16.0",
         "@typescript-eslint/eslint-plugin": "^4.22.0",
         "@typescript-eslint/parser": "^4.22.0",
+        "bourbon": "^7.0.0",
         "clean-webpack-plugin": "^3.0.0",
         "copy-webpack-plugin": "^8.1.1",
         "css-loader": "^5.2.2",

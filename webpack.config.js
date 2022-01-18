@@ -87,6 +87,7 @@ module.exports = (env) => {
                             options: {
                                 sourceMap: isDevelopment,
                                 sassOptions: {
+                                    includePaths: require('bourbon').includePaths,
                                     importer: globImporter(),
                                 },
                             },

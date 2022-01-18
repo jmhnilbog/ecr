@@ -495,11 +495,11 @@ Portcullis: Atk portcullis -5 melee (1d6); SP AOE, Damage Over Time, Pinned.
 :::
 ::::
 
-#### After dropping the portcullis:
+#### After dropping the portcullis: {.after}
 
-The beastmen toll a great bell.
+The beastmen toll a great bell. 
 This alerts their brothers to the PCs’ presence. Their work
-done, the howling beastmen withdraw to area H.
+done, the howling beastmen withdraw to area H. {.after}
 
 @Compendium[ecr.sotss-creatures.Beastman] x2
 
