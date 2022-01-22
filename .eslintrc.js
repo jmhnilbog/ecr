@@ -11,8 +11,9 @@ module.exports = {
         es2020: true,
         node: true,
     },
-    plugins: ["@typescript-eslint"],
+    plugins: ["prettier", "@typescript-eslint"],
     rules: {
+        "prettier/prettier": "error",
         "@typescript-eslint/no-unused-vars": [1, { argsIgnorePattern: "^_" }],
         "@typescript-eslint/no-empty-function": [0],
         "@typescript-eslint/explicit-module-boundary-types": "off",

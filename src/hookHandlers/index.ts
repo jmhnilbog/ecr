@@ -1,0 +1,1 @@
+export { rollNPCTokenHitPoints } from './rollNPCTokenHitPoints';
