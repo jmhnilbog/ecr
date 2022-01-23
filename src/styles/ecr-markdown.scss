@@ -1,4 +1,12 @@
+@use "sass:math";
+
 @import 'bourbon';
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Fondamento:ital@0;1&family=Marcellus+SC&display=swap');
+
+// font-family: 'EB Garamond', serif;
+// font-family: 'Fondamento', cursive;
+// font-family: 'Marcellus SC', serif;
 
 // adapted from https://codepen.io/dpiron/pen/GgyJQd
 
@@ -92,7 +100,7 @@ html > :not(body.vtt) > div,
     h1 {
         @extend %headings-common;
         font-size: $h1-size;
-        line-height: $rhythm-size / $h1-size * 2;
+        line-height: math.div($rhythm-size, $h1-size) * 2;
         margin: $rhythm-size 0;
         margin-top: $rhythm-size;
         font-weight: bold;
@@ -105,7 +113,7 @@ html > :not(body.vtt) > div,
     h2 {
         @extend %headings-common;
         font-size: $h2-size;
-        line-height: $rhythm-size / $h2-size * 2 !important;
+        line-height: math.div($rhythm-size, $h2-size) * 2 !important;
         margin: $rhythm-size 0;
         font-weight: bold;
 
@@ -117,7 +125,7 @@ html > :not(body.vtt) > div,
     h3 {
         @extend %headings-common;
         font-size: $h3-size;
-        line-height: $rhythm-size / $h3-size;
+        line-height: math.div($rhythm-size, $h3-size);
         margin: $rhythm-size 0;
         font-weight: bold;
     }
@@ -125,7 +133,7 @@ html > :not(body.vtt) > div,
     h4 {
         @extend %headings-common;
         font-size: $h4-size;
-        line-height: $rhythm-size / $h4-size;
+        line-height: math.div($rhythm-size, $h4-size);
         margin: $rhythm-size 0;
         font-weight: bold;
     }
@@ -133,7 +141,7 @@ html > :not(body.vtt) > div,
     h5 {
         @extend %headings-common;
         font-size: $h5-size;
-        line-height: $rhythm-size / $h5-size;
+        line-height: math.div($rhythm-size, $h5-size);
         margin: $rhythm-size 0;
         font-weight: bold;
     }
@@ -141,7 +149,7 @@ html > :not(body.vtt) > div,
     h6 {
         @extend %headings-common;
         font-size: $h6-size;
-        line-height: $rhythm-size / $h6-size;
+        line-height: math.div($rhythm-size, $h6-size);
         margin: $rhythm-size 0;
         font-weight: bold;
     }
@@ -155,7 +163,7 @@ html > :not(body.vtt) > div,
         padding-top: 0.5 * $rhythm-size;
         padding-bottom: 0.5 * $rhythm-size;
         font-size: $bq-size;
-        line-height: $rhythm-size/ $bq-size;
+        line-height: math.div($rhythm-size, $bq-size);
         font-style: italic;
         > p {
             margin: 0;
@@ -179,7 +187,7 @@ html > :not(body.vtt) > div,
         margin: 0 auto;
         padding-bottom: $rhythm-size;
         font-size: $base-font-size;
-        line-height: $rhythm-size / $base-font-size;
+        line-height: math.div($rhythm-size, $base-font-size);
         max-width: 120ch;
 
         thead {
@@ -206,24 +214,24 @@ html > :not(body.vtt) > div,
         width: 35%;
         max-width: 50ch;
         float: right;
-        outline: $rhythm-size / 4 solid $bk-color;
-        outline-offset: $rhythm-size / -4;
-        border-radius: $rhythm-size / 4;
-        margin: 0 0 ($rhythm-size / 4) ($rhythm-size / 4);
-        padding: 0 $rhythm-size / 2 $rhythm-size / 2 $rhythm-size / 2;
+        outline: $rhythm-size * 0.25 solid $bk-color;
+        outline-offset: math.div($rhythm-size, -4);
+        border-radius: $rhythm-size * 0.25;
+        margin: 0 0 ($rhythm-size * 0.25) ($rhythm-size * 0.25);
+        padding: 0 $rhythm-size * 0.5 $rhythm-size * 0.5 $rhythm-size * 0.5;
         background-color: $bk-color;
         font-size: $aside-size;
-        line-height: $rhythm-size / $aside-size / 2;
+        line-height: math.div($rhythm-size, $aside-size) * 0.5;
 
         p {
-            margin: $rhythm-size/2 0;
+            margin: $rhythm-size*0.5 0;
         }
 
         div {
             background-color: $bk-color;
-            border-radius: $rhythm-size / 4;
-            padding: $rhythm-size $rhythm-size / 4 0 $rhythm-size / 4;
-            margin-bottom: $rhythm-size / 2;
+            border-radius: $rhythm-size * 0.25;
+            padding: $rhythm-size $rhythm-size * 0.25 0 $rhythm-size * 0.25;
+            margin-bottom: $rhythm-size * 0.5;
             position: relative;
         }
 
@@ -248,18 +256,18 @@ html > :not(body.vtt) > div,
         }
 
         li {
-            line-height: $rhythm-size / $aside-size / 2;
+            line-height: math.div($rhythm-size, $aside-size) * 0.5;
             background-color: $bk-color;
-            margin-bottom: $rhythm-size/2;
+            margin-bottom: $rhythm-size*0.5;
             // border-radius: $rhythm-size / 4;
 
             &:last-of-type {
-                margin-bottom: $rhythm-size/4;
+                margin-bottom: $rhythm-size*0.25;
             }
         }
 
         ul {
-            padding-bottom: $rhythm-size / 4;
+            padding-bottom: $rhythm-size * 0.25;
         }
     }
 
@@ -305,11 +313,11 @@ html > :not(body.vtt) > div,
     }
 
     .readaloud {
-        outline: $rhythm-size / 4 solid $bk-color;
-        outline-offset: $rhythm-size / -4;
-        border-radius: $rhythm-size / 4;
-        margin: 0 0 ($rhythm-size / 4) ($rhythm-size / 4);
-        padding: 0 $rhythm-size / 2 $rhythm-size / 2 $rhythm-size / 2;
+        outline: $rhythm-size * 0.25 solid $bk-color;
+        outline-offset: math.div($rhythm-size, -4);
+        border-radius: $rhythm-size * 0.25;
+        margin: 0 0 ($rhythm-size * 0.25) ($rhythm-size * 0.25);
+        padding: 0 $rhythm-size * 0.5 $rhythm-size * 0.5 $rhythm-size * 0.5;
         background-color: $bk-color;
         display: table;
         text-align: justify;
@@ -318,7 +326,7 @@ html > :not(body.vtt) > div,
 
         & > *:first-child::before {
             font-size: $h4-size;
-            line-height: $rhythm-size / $h4-size;
+            line-height: math.div($rhythm-size, $h4-size);
             content: 'Readaloud: ';
             margin-right: 2ch;
             color: green;

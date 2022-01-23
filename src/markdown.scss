@@ -1,10 +1,12 @@
+@use "sass:math";
+
 @import 'bourbon';
 
 // adapted from https://codepen.io/dpiron/pen/GgyJQd
 
 $base-font-size: 16px;
 $rhythm-size: round($base-font-size * 1.6);
-$base-line-height: $rhythm-size / $base-font-size;
+$base-line-height: math.div($rhythm-size, $base-font-size);
 
 $heading-color: #979;
 $base-color: #656;
@@ -81,7 +83,7 @@ article {
     h1 {
         @extend %headings-common;
         font-size: $h1-size;
-        line-height: $rhythm-size / $h1-size * 2;
+        line-height: math.div($rhythm-size, $h1-size) * 2;
         margin: $rhythm-size 0;
         margin-top: $rhythm-size;
         font-weight: bold;
@@ -94,7 +96,7 @@ article {
     h2 {
         @extend %headings-common;
         font-size: $h2-size;
-        line-height: $rhythm-size / $h2-size * 2 !important;
+        line-height: math.div($rhythm-size, $h2-size) * 2 !important;
         margin: $rhythm-size 0;
         font-weight: bold;
         letter-spacing: 0.1em;
@@ -106,7 +108,7 @@ article {
     h3 {
         @extend %headings-common;
         font-size: $h3-size;
-        line-height: $rhythm-size / $h3-size;
+        line-height: math.div($rhythm-size, $h3-size);
         margin: $rhythm-size 0;
         font-weight: bold;
         letter-spacing: 0.1em;
@@ -115,7 +117,7 @@ article {
     h4 {
         @extend %headings-common;
         font-size: $h4-size;
-        line-height: $rhythm-size / $h4-size;
+        line-height: math.div($rhythm-size, $h4-size);
         margin: $rhythm-size 0;
         font-weight: bold;
         letter-spacing: 0.1em;
@@ -124,7 +126,7 @@ article {
     h5 {
         @extend %headings-common;
         font-size: $h5-size;
-        line-height: $rhythm-size / $h5-size;
+        line-height: math.div($rhythm-size, $h5-size);
         margin: $rhythm-size 0;
         font-weight: bold;
         letter-spacing: 0.1em;
@@ -133,7 +135,7 @@ article {
     h6 {
         @extend %headings-common;
         font-size: $h6-size;
-        line-height: $rhythm-size / $h6-size;
+        line-height: math.div($rhythm-size, $h6-size);
         margin: $rhythm-size 0;
         font-weight: bold;
         letter-spacing: 0.1em;
@@ -148,7 +150,7 @@ article {
         padding-top: 0.5 * $rhythm-size;
         padding-bottom: 0.5 * $rhythm-size;
         font-size: $bq-size;
-        line-height: $rhythm-size/ $bq-size;
+        line-height: math.div($rhythm-size, $bq-size);
         font-style: italic;
         > p {
             margin: 0;
@@ -170,24 +172,24 @@ article {
         width: 35%;
         min-width: 15em;
         float: right;
-        outline: $rhythm-size / 4 solid $bk-color;
-        outline-offset: $rhythm-size / -4;
-        border-radius: $rhythm-size / 4;
-        margin: 0 0 ($rhythm-size / 4) ($rhythm-size / 4);
-        padding: 0 $rhythm-size / 2 $rhythm-size / 2 $rhythm-size / 2;
+        outline: $rhythm-size * 0.25 solid $bk-color;
+        outline-offset: math.div($rhythm-size, -4);
+        border-radius: $rhythm-size * 0.25;
+        margin: 0 0 ($rhythm-size * 0.25) ($rhythm-size * 0.25);
+        padding: 0 $rhythm-size * 0.5 $rhythm-size * 0.5 $rhythm-size * 0.5;
         background-color: $bk-color;
         font-size: $aside-size;
-        line-height: $rhythm-size / $aside-size / 2;
+        line-height: math.div($rhythm-size, $aside-size) * 0.5;
 
         p {
-            margin: $rhythm-size/2 0;
+            margin: $rhythm-size*0.5 0;
         }
 
         div {
             background-color: $bk-color;
-            border-radius: $rhythm-size / 4;
-            padding: $rhythm-size $rhythm-size / 4 0 $rhythm-size / 4;
-            margin-bottom: $rhythm-size / 2;
+            border-radius: $rhythm-size * 0.25;
+            padding: $rhythm-size $rhythm-size * 0.25 0 $rhythm-size * 0.25;
+            margin-bottom: $rhythm-size * 0.5;
             position: relative;
         }
 
@@ -212,18 +214,18 @@ article {
         }
 
         li {
-            line-height: $rhythm-size / $aside-size / 2;
+            line-height: math.div($rhythm-size, $aside-size) * 0.5;
             background-color: $bk-color;
-            margin-bottom: $rhythm-size/2;
+            margin-bottom: $rhythm-size*0.5;
             // border-radius: $rhythm-size / 4;
 
             &:last-of-type {
-                margin-bottom: $rhythm-size/4;
+                margin-bottom: $rhythm-size*0.25;
             }
         }
 
         ul {
-            padding-bottom: $rhythm-size / 4;
+            padding-bottom: $rhythm-size * 0.25;
         }
         //     div & {
         //         background-color: $bk-color;
@@ -262,9 +264,9 @@ article {
                 font-weight: bold;
                 content: 'NOTES';
                 opacity: 0.6;
-                line-height: $rhythm-size / $aside-size;
+                line-height: math.div($rhythm-size, $aside-size);
                 display: block;
-                margin: 0 0 $rhythm-size/-4 0;
+                margin: 0 0 math.div($rhythm-size, -4) 0;
                 position: absolute;
                 top: 0;
                 // font-size: $aside-size;

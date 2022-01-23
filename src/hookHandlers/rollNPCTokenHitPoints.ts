@@ -1,18 +1,5 @@
 import { logger } from '../logger';
 
-// We don't have types for DCC system yet, but this is true enough for now.
-type DCCNPCActorData = {
-    attributes: {
-        hp: {
-            max: number | null;
-            value: number | null;
-        };
-        hitDice: {
-            value: string;
-        };
-    };
-};
-
 export const rollNPCTokenHitPoints = async (tokenDoc: TokenDocument) => {
     logger('rollNPCTokenHitPoints', tokenDoc);
     const actor = tokenDoc.actor;

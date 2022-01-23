@@ -14,6 +14,7 @@ debug/
 docs/
 node_modules/
 obj/
+out/
 
 # If you add foundry.js for autocomplete
 foundry.js

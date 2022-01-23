@@ -5,8 +5,8 @@
   "version": "0.0",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
+  "minimumCoreVersion": "0.9",
+  "compatibleCoreVersion": "0.9",
   "authors": [
     {
       "name": "jmhnilbog",
@@ -40,50 +40,7 @@
       "path": "languages/en.json"
     }
   ],
-  "packs": [
-    {
-      "name": "sotss-creatures",
-      "label": "Sailors on the Starless Sea: Creatures",
-      "path": "packs/adventures/sotss/creatures.db",
-      "module": "ecr",
-      "entity": "Actor"
-    },
-    {
-      "name": "sotss-items",
-      "label": "Sailors on the Starless Sea: Items",
-      "path": "packs/adventures/sotss/items.db",
-      "module": "ecr",
-      "entity": "Item"
-    },
-    {
-      "name": "sotss-journals",
-      "label": "Sailors on the Starless Sea: Journal Entries",
-      "path": "packs/adventures/sotss/journals.db",
-      "module": "ecr",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "sotss-rolltables",
-      "label": "Sailors on the Starless Sea: RollTables",
-      "path": "packs/adventures/sotss/rolltables.db",
-      "module": "ecr",
-      "entity": "RollTable"
-    },
-    {
-      "name": "sotss-scenes",
-      "label": "Sailors on the Starless Sea: Scenes",
-      "path": "packs/adventures/sotss/scenes.db",
-      "module": "ecr",
-      "entity": "Scene"
-    },
-    {
-      "name": "utility-tiles",
-      "label": "Utility: Tiles",
-      "path": "packs/utility/tiles.db",
-      "module": "ecr",
-      "entity": "Actor"
-    }
-  ],
+  "packs": [],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",

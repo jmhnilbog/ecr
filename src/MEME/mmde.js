@@ -1,29 +1,16 @@
+/* eslint-disable @typescript-eslint/no-this-alias */
+/* global TextEditor, Hooks, FilePicker, CONFIG, game, ui */
 import EasyMDE from 'easymde';
 
-const md = require('markdown-it')({
+import MarkdownIt from 'markdown-it';
+
+const md = MarkdownIt({
     html: true,
     linkify: true,
 });
 export const markdownIt = md;
 
-// import 'codemirror/keymap/vim.js';
-
-export const markdownItContainer = require('markdown-it-container');
-
-// md.use(markdownItContainer, 'secret', {
-//     validate: function (_params) {
-//         return true;
-//     },
-//     marker: '$',
-//     render: function (tokens, idx) {
-//         if (tokens[idx].nesting > 0)
-//             // opening tag
-//             return '<section class="secret">';
-//         else return '</section>';
-//     },
-// });
-
-md.renderer.rules['heading_open'] = function (tokens, idx /*, options, env */) {
+md.renderer.rules['heading_open'] = function (tokens, idx, _options, _env) {
     const token = tokens[idx],
         nextToken = tokens[idx + 1],
         link = nextToken.content; //.replace(/\s/g, '_');
@@ -31,7 +18,6 @@ md.renderer.rules['heading_open'] = function (tokens, idx /*, options, env */) {
 };
 
 export class Meme extends EasyMDE {
-
     constructor(options = {}) {
         super({ ...Meme.defaultOptions, ...options });
     }

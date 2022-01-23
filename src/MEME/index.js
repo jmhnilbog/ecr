@@ -1,4 +1,11 @@
-import { Meme, ChatMeme, markdownIt, markdownItContainer } from './mmde';
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-undef */
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* global Handlebars, Hooks, FormApplication, $ */
+
+import { Meme, ChatMeme, markdownIt } from './mmde';
+
+import markdownItContainer from "markdown-it-container";
 
 import './scss';
 
@@ -11,9 +18,7 @@ const MEME = {
 window.MEME = MEME;
 
 Hooks.on('init', function () {
-
-
-    //activateRichTextFeatures();
+    activateRichTextFeatures();
 
     // Hooks.on('renderChatLog', (app, html, options) => {
     //     const chat = html[0].querySelector('#chat-message');
@@ -26,19 +31,30 @@ Hooks.on('init', function () {
     //     app.editor = new MEME.ChatMeme(editorOptions);
     // });
 
-    activateMarkdownItContainer();
+    markdownIt.use(markdownItContainer, 'any', {
+        validate: function (_params) {
+            return true;
+        },
+        render: function (tokens, idx, options, _env, self) {
+            const m = tokens[idx].info.trim().match(/^(.*)$/);
 
-    activateMarkdownItDeflist();
+            if (tokens[idx].nesting === 1) {
+                tokens[idx].attrPush(['class', m[1]]);
+            }
 
-    activateMarkdownItAttrs();
+            return self.renderToken(tokens, idx, options);
+        },
+    });
 
+    markdownIt.use(require('markdown-it-deflist'));
+    markdownIt.use(require('markdown-it-attrs'));
 });
 
 function activateRichTextFeatures() {
     Handlebars.unregisterHelper('editor');
     Handlebars.registerHelper('editor', function (options) {
         let target = options.hash['target'],
-            content = options.hash['content'] || '',
+            //content = options.hash['content'] || '',
             button = Boolean(options.hash['button']),
             owner = Boolean(options.hash['owner']),
             editable = Boolean(options.hash['editable']);
@@ -126,40 +142,11 @@ function activateRichTextFeatures() {
     };
 
     FormApplication.prototype._onEditorSave = function (
-        target,
-        element,
-        content
+        _target,
+        _element,
+        _content
     ) {
         let event = new Event('memesave');
         return this._onSubmit(event);
     };
-}
-
-function activateMarkdownItContainer() {
-    markdownIt.use(markdownItContainer, 'any', {
-        validate: function (params) {
-            return true;
-        },
-        render: function (tokens, idx, options, _env, self) {
-            const m = tokens[idx].info.trim().match(/^(.*)$/);
-
-            if (tokens[idx].nesting === 1) {
-                tokens[idx].attrPush(['class', m[1]]);
-            }
-
-            return self.renderToken(tokens, idx, options);
-        },
-    });
-}
-
-function activateMarkdownItDeflist() {
-    const markdownItDeflist = require('markdown-it-deflist');
-
-    markdownIt.use(markdownItDeflist);
-}
-
-function activateMarkdownItAttrs() {
-    const markdownItAttrs = require('markdown-it-attrs');
-
-    markdownIt.use(markdownItAttrs);
 }

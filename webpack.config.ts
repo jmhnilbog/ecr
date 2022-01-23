@@ -91,6 +91,7 @@ const configuration = (env: any) => {
                                 sourceMap: isDevelopment,
                                 sassOptions: {
                                     includePaths:
+                                        // eslint-disable-next-line @typescript-eslint/no-var-requires
                                         require('bourbon').includePaths,
                                     importer: globImporter(),
                                 },
