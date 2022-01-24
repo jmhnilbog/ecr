@@ -4,9 +4,9 @@
     "description": "Everything Countable, Really",
     "private": true,
     "scripts": {
-        "build": "webpack",
-        "build:production": "webpack --mode production --env mode=production",
-        "start": "webpack serve --hot"
+        "build": "cd main; webpack; cd ../macros; tsc",
+        "build:production": "cd main; webpack --mode production --env mode=production; cd ../macros; tsc",
+        "start": "cd main; webpack serve --hot"
     },
     "repository": {},
     "author": "jmhnilbog",
@@ -52,5 +52,8 @@
         "webpack-dev-server": "^4.7.2",
         "webpack-env": "^0.8.0",
         "webpack-import-glob-loader": "^1.6.3"
+    },
+    "dependencies": {
+        "jsonlines-processor": "^0.6.1"
     }
 }

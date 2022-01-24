@@ -11,7 +11,7 @@ import glob from 'glob';
 
 const allTemplates = () => {
     return glob
-        .sync('**/*.html', { cwd: path.join(__dirname, 'static/templates') })
+        .sync('**/*.html', { cwd: path.join(__dirname, '../static/templates') })
         .map((file) => `"modules/template/templates/${file}"`)
         .join(', ');
 };
@@ -36,7 +36,7 @@ const configuration = (env: any) => {
         },
         output: {
             filename: 'module.js',
-            path: path.resolve(__dirname, 'dist'),
+            path: path.resolve(__dirname, '../dist'),
             publicPath: '',
         },
         devServer: {
@@ -109,7 +109,7 @@ const configuration = (env: any) => {
             new CopyPlugin({
                 patterns: [
                     {
-                        from: 'static',
+                        from: '../static',
                         noErrorOnMissing: true,
                     },
                 ],

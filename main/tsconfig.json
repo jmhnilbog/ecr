@@ -29,7 +29,8 @@
         "allowSyntheticDefaultImports": true,
         "outDir": "out"
     },
-    "exclude": ["node_modules", "dist", "out"],
+    "include": ["./src/**/*", "../typeDefinitions/**/*"],
+    "exclude": ["../node_modules", "../dist", "out"],
     "ts-node": {
         "compilerOptions": {
             "module": "CommonJS"

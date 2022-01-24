@@ -1,11 +1,37 @@
+/* eslint-disable @typescript-eslint/no-namespace */
+
 console.log('LOADING ECR INDEX');
 
 import { TemplatePreloader } from './module/helper/TemplatePreloader';
-import { rollNPCTokenHitPoints } from './hookHandlers';
+import { rollNPCTokenHitPoints } from './misc';
 import { logger } from './logger';
 
-import './MEME';
+import * as lighting from './vision/lightSources';
+import * as visionTypes from './vision/visionTypes';
+
+// import './MEME';
 import './styles/ecr-markdown.scss';
+
+// import Game from '@league-of-foundry-developers/foundry-vtt-types';
+// declare module '@league-of-foundry-developers/foundry-vtt-types' {
+//     export namespace Game {
+//         export let ECR: Ecr;
+//     }
+// }
+
+// declare global {
+//     namespace Game {
+//         export let ECR: Ecr;
+//     }
+// }
+
+// type IsEmpty<T extends Record<PropertyKey, any>> = keyof T extends never
+//     ? true
+//     : false;
+
+// function isGame(game: {} | Game): game is Game {
+//     return Object.keys(game).length !== 0;
+// }
 
 Hooks.once('init', async () => {
     logger('Init hook called.');
@@ -105,6 +131,12 @@ Hooks.once('ready', async () => {
 
         logger('Sources updated');
     }
+
+    game.ECR = {
+        rollNPCTokenHitPoints,
+        lighting,
+        visionTypes,
+    };
 });
 
 Hooks.on('createToken', rollNPCTokenHitPoints);

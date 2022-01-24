@@ -41,3 +41,7 @@ Hot Reload force refreshes my page!
 # Credits:
 Used webpack and setup files as reference: https://github.com/anvil-vtt/FateX   
 Used github workflow and template reference: https://github.com/League-of-Foundry-Developers/FoundryVTT-Module-Template   
+
+# NOTES
+
+./node_modules/.bin/jlp bin/extract-actors.js < ../foundrydata/Data/worlds/earf-production/data/actors.db > temp/actors.db
