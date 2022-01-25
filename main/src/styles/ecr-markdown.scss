@@ -1,4 +1,4 @@
-@use "sass:math";
+@use 'sass:math';
 
 @import 'bourbon';
 
@@ -53,10 +53,7 @@ $bk-color: rgba(55, 55, 55, 0.1);
 
 // we're adding the selectors VScode uses for markdown so preview is easier to deal with.
 
-html > :not(body.vtt) > div,
-.EasyMDEContainer .cm-s-easymde,
-.EasyMDEContainer .editor-preview-active,
-.EasyMDEContainer .editor-preview-active-side {
+.ecr {
     padding-top: 0;
     color: $base-color;
 
@@ -224,7 +221,7 @@ html > :not(body.vtt) > div,
         line-height: math.div($rhythm-size, $aside-size) * 0.5;
 
         p {
-            margin: $rhythm-size*0.5 0;
+            margin: $rhythm-size * 0.5 0;
         }
 
         div {
@@ -258,11 +255,11 @@ html > :not(body.vtt) > div,
         li {
             line-height: math.div($rhythm-size, $aside-size) * 0.5;
             background-color: $bk-color;
-            margin-bottom: $rhythm-size*0.5;
+            margin-bottom: $rhythm-size * 0.5;
             // border-radius: $rhythm-size / 4;
 
             &:last-of-type {
-                margin-bottom: $rhythm-size*0.25;
+                margin-bottom: $rhythm-size * 0.25;
             }
         }
 

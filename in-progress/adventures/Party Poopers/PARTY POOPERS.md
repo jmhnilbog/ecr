@@ -79,3 +79,182 @@ SCANTRON-IOWA
 Me.
 
 It turns and walks away, taking PBJ-14’s wagon handle to pull it along and out of the explosion radius. A SPACE-BASED MASER incinerates the entire party zone. The smoke from the resulting crater forms into cartoon cloud letters reading “PARTY POOPERS”
+
+
+>BEGIN TITLES
+
+…as public domain scenes of destruction play intercut with fun party scenes.
+
+The words pulse as the Party Poopers Rap begins over the
+credits. The rap has a very "The Message"/Grandmaster Flash
+thing going on with it.
+
+RAPPER
+(rapping)
+Par-ty Poo-pers
+Par-ty Poo-pers
+Hey party people in the place to be!
+Think you're a party pooping person with a pedigree?
+Put that aside a second, maybe two or maybe three.
+Cause I'm rapping' about this story's poopers and we better all agree.
+
+>ULTRA SLOW MOTION:
+An incredibly angry BRIDE, her white dress irredeemably
+stained with WET POOP, is barging out of the church doors,
+chasing a terrified LITTLE PENELOPE. Little Penelope runs
+around the corner and hides poorly behind a bush, wrapping
+her arms around her shins.
+
+RAPPER
+Penelope is a just a little girl
+All alone in the girl girl girl
+She didn't love her mom or even like her dad
+She threw wet human doo-doo and made everybody sad.
+
+>CLOSE UP:
+Little Penelope notices the camera and smiles
+warmly as her credit appears.
+
+>AND THEN:
+Grown-up PENELOPE appears briefly for her
+credit. She is looking away, concerned.
+
+>ULTRA SLOW MOTION:
+INT. OFFICE CHRISTMAS PARTY - NIGHT
+
+A late 80's office Christmas party gone wrong. MR. CHOW is
+being screamed at by his BOSS in front of everyone. All the
+computer monitors scroll endless loops of "DAD'S BOSS SUX!"
+in the telltale Commodore 64 font. LITTLE BLAINE, whiz kid
+asian stereotype, hides behind a COPY MACHINE wired to some
+sort of KID INVENTION; he slips a slice of pizza into the
+copy machine and plugs it in. SLICES OF PIZZA shoot out of
+the copy machine, splattering against the boss and knocking
+him back and down.
+
+RAPPER
+Blaine is a little man with the master plan.
+I heard one of his ancestors is friends with Charlie Chan.
+Kung-Fu brains in a pizza-craving fellow
+But he's not part tortoise so don't call him Donatello.
+
+>CLOSE UP:
+Little Blaine looks into the camera and
+gives a kawaii salute as his credit
+appears.
+
+>AND THEN:
+Grown-up BLAINE, a white man in a polo
+shirt, appears for his credit. He is
+checking his phone. In the unclear
+distance, OLD MR. CHOW hangs by a noose,
+swinging, like the rumored munchkin.
+
+>ULTRA SLOW MOTION:
+An ENDLESS LIMOUSINE drives by. Each window is filled with a
+disgusted face. We see LITTLE KING NUTLEY is mooning them
+from LITTLE GREASY's mom's car, driving alongside.
+
+RAPPER
+King Nutley and Greasy are a hell of a pair.
+One knows how to drive and the other takes all dares.
+Cruising avenues is the thing they like to do.
+They bother everyone who ain't inside their crew.
+
+EXT. STREETS OF NUTLEY - NIGHT
+>CLOSE UP:
+LITTLE KING NUTLEY'S ACNE'D BUTTHOLE WINKS FOR HIS CREDIT.
+LITTLE GREASY STARTS TO PANIC AS HIS CAR BEGINS A FRONTAL
+COLLISION--
+
+>AND THEN:
+GROWN UP KING NUTLEY APPEARS FOR HIS CREDIT, LEAVING A ROSE
+ON GREASY'S GRAVE.
+
+>ULTRA SLOW MOTION
+LITTLE TINY LOOKS ECSTATIC AS A GANG OF NYMPHETS BEAT THE
+BLOODY SHIT OUT OF HIM WITH ANYTHING AT HAND. LITTLE SPEEDO
+FLEES THE ROOM WITH HANDFULS OF STOLEN UNDERWEAR, PUSHING A
+MOM DOWN A FLIGHT OF STAIRS.
+
+RAPPER
+Tiny and Speedo are the slumber party
+masters.
+When it comes to raiding panties, there are
+no fasters
+It was socially acceptable in the late
+eighties.
+I was paid to rap this stuff, I apologize,
+ladies.
+
+>CLOSE UP:
+LITTLE TINY SMILES FOR HIS CREDIT AS A CHAIR IS BROKEN OVER
+HIS HEAD. LITTLE SPEEDO SHAKES HIS HEAD WATCHING THE MOM
+FALL.
+
+>AND THEN:
+TINY, SCARRED AND WEARING AN EYEPATCH, SNOOZES, DROOLING,
+NEXT TO A POOL. SPEEDO IS DIVING.
+
+>ULTRA FUCKING SLOW-MO:
+PRINCIPAL SHUBUBBA yells as he pulls his hand from his
+MAILBOX, which was filled with SNAPPING MOUSETRAPS. Forehead
+and neck veins bulge. LITTLE VICTORIA, tomboy, watches from
+inside the house, ecstatic. LITTLE RICHIE, melted-eared
+little sneak, sneaks in the front door...FLAMES appear in one
+of the second floor windows as the Principal looks in the
+wrong direction.
+
+EXT. PRINCIPAL SHUBUBBA'S FRONT YARD - DAY
+
+RAPPER
+Victoria and Richie Ditch,
+a flammable boy and an inflammable witch.
+They held a grudge and burnt it down.
+And made the principal move out of town.
+
+>CLOSE UP:
+Little Victoria pumps her fist as her credit appears; Little
+Richie brings his hand down closer and closer to his
+lighter's flame.
+
+>AND THEN THE SCREEN SPLITS:
+On the left: Adult VICTORIA frowns at a SALAD, wearing a
+dingy bathrobe.
+On the right: Adult RICHIE wakes up in bed, as if from a
+terrible nightmare, SALAD spread on the pillow next to him.
+
+>END TITLES, CUT TO:
+
+INT. PENELOPE'S BATHROOM - PRE-DAWN
+Penelope is showering behind a MILDEWED SHOWER CURTAIN. On
+the tiled floor near the toilet are RIPPED HOTEL SOAP
+WRAPPERS. Something gummy (yams?) is mashed into the DINGY FUZZY
+BATHMAT. A STINK BUG bats against a wall, stupidly, a few
+times before entering the shower. Penelope YELLS and slips in
+the shower.
+
+>END TITLES
+
+INT. BLAIR’S MOM’S CAR - AFTERNOON
+
+BLAIR is too tall, 16.5 years old, and drove her mom’s car to school today. 1994. KING NUTLEY, 15 and fat, is in the back seat. They’re parked in the high school parking lot.
+
+BLAIR
+Ready?
+
+KING NUTLEY
+Get us behind the library.
+
+BLAIR
+You mean the other side of this parking lot?
+
+KING NUTLEY
+Behind the library. And this, track three.
+
+He hands over a CD-R. Blair takes it, fumblingly dealing with starting the car, getting the CD-R into her DISCMAN, adjusting the CASSETTE ADAPTER. Industrial music plays.
+
+KING NUTLEY
+Track three, Blair.
+
+Track three is indistinguishable industrial music.

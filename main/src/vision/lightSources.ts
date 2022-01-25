@@ -67,3 +67,10 @@ export const lightSource = {
         lightAnimation: lightAnimation['enclosed flame'],
     },
 } as const;
+
+export default {
+    lightAnimation,
+    lightColors,
+    lightDuration,
+    lightSource,
+};
