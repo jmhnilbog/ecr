@@ -1,0 +1,41 @@
+{
+	"_id": "c55iSsyB2YqCcw28",
+	"name": "Molan's Iron Plate",
+	"type": "armor",
+	"img": "icons/commodities/metal/mail-plate-steel.webp",
+	"data": {
+		"description": {
+			"value": "When suffering a Critical Hit, a successful DC 20 Fort save turns it into a miss.",
+			"chat": "",
+			"unidentified": "",
+			"summary": "DC 20 Fort avoids Critical Hits"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 30,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"acBonus": 6,
+		"checkPenalty": -6,
+		"speed": "-5'",
+		"fumbleDie": "d16"
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 900000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-armor.rSmRJ83AQaWLcPFO"
+		}
+	}
+}

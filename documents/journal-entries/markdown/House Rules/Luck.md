@@ -1,6 +1,9 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
+
 ::: house-rules
+
 # Regarding Luck
+
 The character with the lowest Luck is usually the target of bad things.
 
 The character with the highest Luck is usually the target of good things.

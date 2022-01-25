@@ -1,0 +1,322 @@
+{
+	"_id": "sw1P5dG1WvZdt7Dj",
+	"name": "Flying Beastman",
+	"type": "NPC",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastmen/flying/humanoid-bat.webp",
+	"data": {
+		"abilities": {
+			"str": {
+				"label": "DCC.AbilityStr",
+				"value": 10,
+				"max": 10
+			},
+			"agl": {
+				"label": "DCC.AbilityAgl",
+				"value": 10,
+				"max": 10
+			},
+			"sta": {
+				"label": "DCC.AbilitySta",
+				"value": 10,
+				"max": 10
+			},
+			"per": {
+				"label": "DCC.AbilityPer",
+				"value": 10,
+				"max": 10
+			},
+			"int": {
+				"label": "DCC.AbilityInt",
+				"value": 10,
+				"max": 10
+			},
+			"lck": {
+				"label": "DCC.AbilityLck",
+				"value": 10,
+				"max": 10
+			}
+		},
+		"attributes": {
+			"ac": {
+				"value": 13,
+				"checkPenalty": 0,
+				"speedPenalty": 0,
+				"fumbleDie": "1d4"
+			},
+			"actionDice": {
+				"value": "1d20",
+				"options": [
+					"1d20"
+				]
+			},
+			"critical": {
+				"die": "1d4",
+				"table": "M"
+			},
+			"fumble": {
+				"die": "1d4"
+			},
+			"hitDice": {
+				"value": "1d6"
+			},
+			"hp": {
+				"value": 2,
+				"min": 0,
+				"max": 2,
+				"temp": 0,
+				"tempmax": 0
+			},
+			"init": {
+				"die": "1d20",
+				"value": 1
+			},
+			"speed": {
+				"value": "30'",
+				"base": 30,
+				"special": "",
+				"other": "Fly 30'"
+			},
+			"special": {
+				"value": "Unarmed, flying."
+			}
+		},
+		"details": {
+			"level": {
+				"value": 0
+			},
+			"alignment": "c",
+			"attackBonus": "+0",
+			"languages": "",
+			"occupation": "",
+			"title": "",
+			"notes": {
+				"value": "Beastman: Init +1; Atk spear +0 melee (1d6); AC 12; HD 1d8; hp 3; MV 30’; Act 1d20; SV Fort +1, Ref +1, Will -1; AL C."
+			}
+		},
+		"saves": {
+			"frt": {
+				"label": "DCC.SavesFortitude",
+				"value": 1
+			},
+			"ref": {
+				"label": "DCC.SavesReflex",
+				"value": 1
+			},
+			"wil": {
+				"label": "DCC.SavesWill",
+				"value": -1
+			}
+		},
+		"currency": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"attackBonusMode": "flat",
+			"actionDice": "1d20",
+			"capLevel": false,
+			"maxLevel": 10,
+			"rollAttackBonus": false,
+			"computeAC": false,
+			"baseACAbility": "agl",
+			"computeSpeed": false,
+			"computeCheckPenalty": false,
+			"sortInventory": true,
+			"removeEmptyItems": true,
+			"showSpells": false,
+			"showSkills": false,
+			"showMaxAbilities": true,
+			"showBackstab": false
+		},
+		"class": {
+			"spellCheck": 1,
+			"spellCheckAbility": "int"
+		}
+	},
+	"token": {
+		"flags": {},
+		"name": "Flying Beastman",
+		"displayName": 30,
+		"img": "modules/ecr/packs/adventumodules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastmen/*flying*.webpres/sotss/assets/tokens/beastman%20(winged%20flying%20humanoid).jpg",
+		"tint": null,
+		"width": 1,
+		"height": 1,
+		"scale": 1,
+		"mirrorX": false,
+		"mirrorY": false,
+		"lockRotation": true,
+		"rotation": 0,
+		"vision": false,
+		"dimSight": 0,
+		"brightSight": 0,
+		"dimLight": 0,
+		"brightLight": 0,
+		"sightAngle": 0,
+		"lightAngle": 0,
+		"lightColor": null,
+		"lightAlpha": 1,
+		"lightAnimation": {
+			"speed": 5,
+			"intensity": 5
+		},
+		"actorId": "dKwly5HfZvKJErrn",
+		"actorLink": false,
+		"disposition": -1,
+		"displayBars": 40,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "abilities.lck.value"
+		},
+		"randomImg": true,
+		"alpha": 1,
+		"x": null,
+		"y": null,
+		"elevation": null,
+		"light": {
+			"alpha": 0.5,
+			"angle": 0,
+			"bright": 0,
+			"coloration": 1,
+			"dim": 0,
+			"gradual": true,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"color": null
+		}
+	},
+	"items": [
+		{
+			"_id": "2k3vdjm485LiRjcA",
+			"name": "grab (subdue)",
+			"type": "weapon",
+			"data": {
+				"description": {
+					"value": "On a successful grab, can fly at half-speed holding a small creature. The creature will be dropped from a height. A grabbed creature may attack or otherwise attempt escape; they are not grappled.",
+					"chat": "",
+					"unidentified": "",
+					"summary": "smaller creatures only"
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": "0",
+					"ep": "0",
+					"gp": "0",
+					"sp": "0",
+					"cp": "0"
+				},
+				"config": {
+					"inheritActionDie": true,
+					"inheritCritRange": true
+				},
+				"actionDie": "1d20",
+				"toHit": "+0",
+				"damage": "1",
+				"range": "",
+				"twoHanded": false,
+				"melee": true,
+				"shortRangeStrength": 0,
+				"subdual": 0,
+				"backstab": false,
+				"backstabDamage": null,
+				"doubleIfMounted": 0,
+				"critRange": 20
+			},
+			"sort": 200000,
+			"flags": {},
+			"img": "icons/commodities/claws/claw-bird-pink.webp",
+			"effects": [],
+			"folder": null,
+			"permission": {
+				"default": 0
+			}
+		},
+		{
+			"_id": "VJQS4pFhsRU9TNUo",
+			"name": "claw",
+			"type": "weapon",
+			"data": {
+				"description": {
+					"value": "",
+					"chat": "",
+					"unidentified": "",
+					"summary": ""
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": "0",
+					"ep": "0",
+					"gp": "0",
+					"sp": "0",
+					"cp": "0"
+				},
+				"config": {
+					"inheritActionDie": true,
+					"inheritCritRange": true
+				},
+				"actionDie": "1d20",
+				"toHit": "+0",
+				"damage": "1d4",
+				"range": "",
+				"twoHanded": false,
+				"melee": true,
+				"shortRangeStrength": 0,
+				"subdual": 0,
+				"backstab": false,
+				"backstabDamage": null,
+				"doubleIfMounted": 0,
+				"critRange": 20
+			},
+			"sort": 100000,
+			"flags": {
+				"journal-links": {
+					"references": {}
+				},
+				"core": {
+					"sourceId": "Item.2iF7bVeJNvcjRmvy"
+				}
+			},
+			"img": "icons/commodities/claws/claw-bird-pink.webp",
+			"effects": [],
+			"folder": null,
+			"permission": {
+				"default": 0
+			}
+		}
+	],
+	"effects": [],
+	"folder": "lAw9YR4f54qZbJz6",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Actor.dKwly5HfZvKJErrn"
+		},
+		"cf": null
+	}
+}

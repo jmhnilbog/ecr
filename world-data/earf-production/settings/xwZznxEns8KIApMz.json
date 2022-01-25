@@ -1,0 +1,5 @@
+{
+	"_id": "xwZznxEns8KIApMz",
+	"key": "foundryvtt-simple-calendar.time-configuration",
+	"value": "{\"id\":\"b63cfc53\",\"hoursInDay\":24,\"minutesInHour\":60,\"secondsInMinute\":60,\"secondsInCombatRound\":10,\"gameTimeRatio\":0.1,\"unifyGameAndClockPause\":true,\"updateFrequency\":10}"
+}

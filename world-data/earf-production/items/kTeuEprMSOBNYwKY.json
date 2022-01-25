@@ -1,0 +1,50 @@
+{
+	"_id": "kTeuEprMSOBNYwKY",
+	"name": "Lighting Bolt",
+	"type": "weapon",
+	"img": "icons/magic/symbols/symbol-lightning-bolt.webp",
+	"data": {
+		"description": {
+			"value": "Felan's revenge! The @JournalEntry[Curse of Storm and Hate]",
+			"chat": "",
+			"unidentified": "",
+			"summary": "The Curse of Storm"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+1",
+		"damage": "2d10",
+		"range": "",
+		"twoHanded": false,
+		"melee": false,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "JqggWbIvMZYAT59n",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

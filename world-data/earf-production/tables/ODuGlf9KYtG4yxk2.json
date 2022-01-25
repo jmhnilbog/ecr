@@ -1,0 +1,103 @@
+{
+	"_id": "ODuGlf9KYtG4yxk2",
+	"name": "Quadrupedal Animal Names",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Just random quadrupedal names, in Title Case. Suitable for use with Token Mold.",
+	"results": [
+		{
+			"_id": "lWRdaK5iHIBX8Dgs",
+			"flags": {},
+			"type": 0,
+			"text": "Horse",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"rangeL": 1,
+			"rangeH": 1
+		},
+		{
+			"_id": "34UJX5RtMz0amkPY",
+			"flags": {},
+			"type": 0,
+			"text": "Sheep",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false,
+			"rangeL": 2,
+			"rangeH": 2
+		},
+		{
+			"_id": "th9Vt0s0G1zwhVav",
+			"flags": {},
+			"type": 0,
+			"text": "Cow",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false,
+			"rangeL": 3,
+			"rangeH": 3
+		},
+		{
+			"_id": "8OxZRSK4emDsML11",
+			"flags": {},
+			"type": 0,
+			"text": "Rhino",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false,
+			"rangeL": 4,
+			"rangeH": 4
+		},
+		{
+			"_id": "fQSXehV3V8r3klkN",
+			"flags": {},
+			"type": 0,
+			"text": "Elephant",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false,
+			"rangeL": 5,
+			"rangeH": 5
+		}
+	],
+	"formula": "1d5",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "pTkdcUmYCUn7OMzl",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"better-rolltables": {
+			"table-type": "none",
+			"table-currency-string": "",
+			"loot-amount-key": "",
+			"loot-actor-name": ""
+		},
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.yYZMQ1wMuXoyCBpS"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "New Macro",
+	"type": "chat",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/dice-target.svg",
+	"scope": "global",
+	"command": "",
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {},
+	"_id": "rw0lL8ze1R9gGGkF"
+}

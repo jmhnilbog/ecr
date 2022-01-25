@@ -1,0 +1,232 @@
+{
+	"_id": "LZwSMvDFqse10X3H",
+	"name": "Fireplace-Sized Flame",
+	"type": "NPC",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large.gif",
+	"data": {
+		"abilities": {
+			"str": {
+				"label": "DCC.AbilityStr",
+				"value": 10,
+				"max": 10
+			},
+			"agl": {
+				"label": "DCC.AbilityAgl",
+				"value": 10,
+				"max": 10
+			},
+			"sta": {
+				"label": "DCC.AbilitySta",
+				"value": 10,
+				"max": 10
+			},
+			"per": {
+				"label": "DCC.AbilityPer",
+				"value": 10,
+				"max": 10
+			},
+			"int": {
+				"label": "DCC.AbilityInt",
+				"value": 10,
+				"max": 10
+			},
+			"lck": {
+				"label": "DCC.AbilityLck",
+				"value": 10,
+				"max": 10
+			}
+		},
+		"attributes": {
+			"ac": {
+				"value": 10,
+				"checkPenalty": 0,
+				"speedPenalty": 0
+			},
+			"actionDice": {
+				"value": "1d20",
+				"options": [
+					"1d20"
+				]
+			},
+			"critical": {
+				"die": "1d4",
+				"table": "M"
+			},
+			"fumble": {
+				"die": "1d4"
+			},
+			"hitDice": {
+				"value": "1d6"
+			},
+			"hp": {
+				"value": 10,
+				"min": 0,
+				"max": 10,
+				"temp": 0,
+				"tempmax": 0
+			},
+			"init": {
+				"die": "1d20",
+				"value": 0
+			},
+			"speed": {
+				"value": "30'",
+				"base": 30,
+				"special": "",
+				"other": ""
+			},
+			"special": {
+				"value": ""
+			}
+		},
+		"details": {
+			"level": {
+				"value": 0
+			},
+			"alignment": "l",
+			"attackBonus": "+0",
+			"languages": "",
+			"occupation": "",
+			"title": "",
+			"notes": {
+				"value": ""
+			}
+		},
+		"saves": {
+			"frt": {
+				"label": "DCC.SavesFortitude",
+				"value": 0
+			},
+			"ref": {
+				"label": "DCC.SavesReflex",
+				"value": 0
+			},
+			"wil": {
+				"label": "DCC.SavesWill",
+				"value": 0
+			}
+		},
+		"currency": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"attackBonusMode": "flat",
+			"actionDice": "1d20",
+			"capLevel": false,
+			"maxLevel": 10,
+			"rollAttackBonus": false,
+			"computeAC": false,
+			"baseACAbility": "agl",
+			"computeSpeed": false,
+			"computeCheckPenalty": false,
+			"sortInventory": true,
+			"removeEmptyItems": true,
+			"showSpells": false,
+			"showSkills": false,
+			"showMaxAbilities": true,
+			"showBackstab": false
+		},
+		"class": {
+			"spellCheck": 1,
+			"spellCheckAbility": "int"
+		}
+	},
+	"token": {
+		"_id": "tW1YIUiRoPx0dmkV",
+		"name": "Fireplace-Sized Flame",
+		"displayName": 10,
+		"actorId": "YRpOX9biA6W6H7qS",
+		"actorLink": false,
+		"actorData": {},
+		"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+		"tint": null,
+		"width": 1,
+		"height": 1,
+		"scale": 2,
+		"mirrorX": false,
+		"mirrorY": false,
+		"x": null,
+		"y": null,
+		"elevation": null,
+		"lockRotation": true,
+		"rotation": 0,
+		"effects": [],
+		"alpha": 0.9,
+		"hidden": false,
+		"vision": false,
+		"dimSight": 0,
+		"brightSight": 0,
+		"sightAngle": 0,
+		"light": {
+			"alpha": 0.25,
+			"angle": 0,
+			"bright": 25,
+			"color": "#fff70f",
+			"coloration": 1,
+			"dim": 50,
+			"gradual": true,
+			"luminosity": 0.5,
+			"saturation": 0.25,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"speed": 1,
+				"intensity": 3,
+				"reverse": false,
+				"type": "torch"
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"disposition": 0,
+		"displayBars": 0,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "abilities.lck.value"
+		},
+		"flags": {
+			"token-independence": {
+				"ActorName": "Flame"
+			},
+			"token-attacher": {
+				"pos": {
+					"base_id": "tW1YIUiRoPx0dmkV",
+					"xy": {
+						"x": 399,
+						"y": 3135
+					},
+					"center": {
+						"x": 427.5,
+						"y": 3163.5
+					},
+					"rotation": 0,
+					"hidden": false,
+					"elevation": 0
+				}
+			}
+		},
+		"tokenId": null,
+		"randomImg": false
+	},
+	"items": [],
+	"effects": [],
+	"folder": "Nxz0F15WQP6h0UxO",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Actor.YRpOX9biA6W6H7qS"
+		},
+		"cf": null
+	}
+}

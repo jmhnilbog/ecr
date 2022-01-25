@@ -1,5 +1,7 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
+
 ::: house-rules
+
 # Regarding Exploration
 
 ## Searching

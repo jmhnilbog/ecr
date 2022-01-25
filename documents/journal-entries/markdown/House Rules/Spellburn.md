@@ -1,4 +1,5 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
+
 ::: house-rule
 # Regarding Spellburn
 Characters that can spellburn **must research, meditate, or otherwise discover the appropriate form their next spellburn must take**. This is reflected by a roll on the appropriate **Spellburn Actions** table. Any preparations or actions the result indicates must be performed before the spellburnt casting takes effect.

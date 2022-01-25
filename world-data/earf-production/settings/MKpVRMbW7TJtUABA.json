@@ -1,0 +1,5 @@
+{
+	"_id": "MKpVRMbW7TJtUABA",
+	"key": "core.sheetClasses",
+	"value": "{\"Actor\":{\"Player\":\"dcc.DCCActorSheet\"},\"Item\":{\"weapon\":\"dcc.DCCItemSheet\"}}"
+}

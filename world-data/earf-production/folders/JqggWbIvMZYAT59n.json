@@ -1,0 +1,12 @@
+{
+	"_id": "JqggWbIvMZYAT59n",
+	"name": "Traps",
+	"type": "Item",
+	"parent": "NZvrLfMNeKib7Gxt",
+	"sorting": "a",
+	"sort": 300000,
+	"color": null,
+	"flags": {
+		"textColour": ""
+	}
+}

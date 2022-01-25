@@ -1,0 +1,32 @@
+{
+	"_id": "WDXahqDezDgyTzWn",
+	"name": "Stone Idol",
+	"type": "treasure",
+	"img": "icons/commodities/treasure/figurine-idol.webp",
+	"data": {
+		"description": {
+			"value": "This looks old and creepy.",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"isCoins": false,
+		"weight": 1
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1200000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

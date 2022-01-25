@@ -1,0 +1,38 @@
+{
+	"_id": "gdjKg0m21akrLnNq",
+	"name": "Green Cloak",
+	"type": "equipment",
+	"img": "icons/equipment/back/cloak-layered-green-grey.webp",
+	"data": {
+		"description": {
+			"value": "A cloak found hidden under the floor of a ruined keep.",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 1,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 600000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "Hidden in the hem is a @Item[Vellum Map]! It will eventually be found if the cloak is worn."
+		}
+	}
+}

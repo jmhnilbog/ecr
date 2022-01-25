@@ -181,6 +181,7 @@ $bk-color: rgba(55, 55, 55, 0.1);
     table {
         border-top: none;
         border-bottom: none;
+        border-spacing: 0;
         margin: 0 auto;
         padding-bottom: $rhythm-size;
         font-size: $base-font-size;
@@ -188,6 +189,9 @@ $bk-color: rgba(55, 55, 55, 0.1);
         max-width: 120ch;
 
         thead {
+            background: rgba(0, 0, 0, 0.5);
+            color: var(--color-text-light-highlight);
+            text-shadow: 1px 1px var(--color-shadow-dark);
             border-bottom: none;
         }
 

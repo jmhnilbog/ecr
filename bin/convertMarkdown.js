@@ -11,11 +11,17 @@ const md = MarkdownIt({
 //     return `<${token.tag} name='${token.markup}${link}'>`;
 // };
 const containerOpts = {
-    validate: () => true,
+    validate: (params) => {
+        console.log("validating", params); return true
+    },
     render: (tokens, idx, options, _env, self) => {
         const m = tokens[idx].info.trim().match(/^(.*)$/);
+
+        console.log('m', m);
+        console.log('token', tokens[idx]);
         if (tokens[idx].nesting === 1 && m && m[1]) {
             tokens[idx].attrPush(['class', m[1]]);
+            console.log('applied', m[1]);
         }
         return self.renderToken(tokens, idx, options);
     },

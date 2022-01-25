@@ -1,0 +1,738 @@
+{
+	"_id": "1X4q0C9ZwrM3vjZl",
+	"name": "Obscuring Vines",
+	"type": "NPC",
+	"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+	"data": {
+		"abilities": {
+			"str": {
+				"label": "DCC.AbilityStr",
+				"value": 10,
+				"max": 10
+			},
+			"agl": {
+				"label": "DCC.AbilityAgl",
+				"value": 10,
+				"max": 10
+			},
+			"sta": {
+				"label": "DCC.AbilitySta",
+				"value": 10,
+				"max": 10
+			},
+			"per": {
+				"label": "DCC.AbilityPer",
+				"value": 10,
+				"max": 10
+			},
+			"int": {
+				"label": "DCC.AbilityInt",
+				"value": 10,
+				"max": 10
+			},
+			"lck": {
+				"label": "DCC.AbilityLck",
+				"value": 10,
+				"max": 10
+			}
+		},
+		"attributes": {
+			"ac": {
+				"value": 10,
+				"checkPenalty": 0,
+				"speedPenalty": 0
+			},
+			"actionDice": {
+				"value": "1d20",
+				"options": [
+					"1d20"
+				]
+			},
+			"critical": {
+				"die": "1d4",
+				"table": "M"
+			},
+			"fumble": {
+				"die": "1d4"
+			},
+			"hitDice": {
+				"value": "1d6"
+			},
+			"hp": {
+				"value": 10,
+				"min": 0,
+				"max": 10,
+				"temp": 0,
+				"tempmax": 0
+			},
+			"init": {
+				"die": "1d20",
+				"value": 0
+			},
+			"speed": {
+				"value": "30'",
+				"base": 30,
+				"special": "",
+				"other": ""
+			},
+			"special": {
+				"value": ""
+			}
+		},
+		"details": {
+			"level": {
+				"value": 0
+			},
+			"alignment": "l",
+			"attackBonus": "+0",
+			"languages": "",
+			"occupation": "",
+			"title": "",
+			"notes": {
+				"value": ""
+			}
+		},
+		"saves": {
+			"frt": {
+				"label": "DCC.SavesFortitude",
+				"value": 0
+			},
+			"ref": {
+				"label": "DCC.SavesReflex",
+				"value": 0
+			},
+			"wil": {
+				"label": "DCC.SavesWill",
+				"value": 0
+			}
+		},
+		"currency": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"attackBonusMode": "flat",
+			"actionDice": "1d20",
+			"capLevel": false,
+			"maxLevel": 10,
+			"rollAttackBonus": false,
+			"computeAC": false,
+			"baseACAbility": "agl",
+			"computeSpeed": false,
+			"computeCheckPenalty": false,
+			"sortInventory": true,
+			"removeEmptyItems": true,
+			"showSpells": false,
+			"showSkills": false,
+			"showMaxAbilities": true,
+			"showBackstab": false
+		},
+		"class": {
+			"spellCheck": 1,
+			"spellCheckAbility": "int"
+		}
+	},
+	"token": {
+		"_id": "9EiY8ViFhUArGuLw",
+		"name": "Obscuring Vines",
+		"displayName": 0,
+		"actorId": "1X4q0C9ZwrM3vjZl",
+		"actorLink": false,
+		"actorData": {
+			"data": {
+				"attributes": {
+					"hp": {
+						"value": 1,
+						"max": 1
+					}
+				}
+			}
+		},
+		"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+		"tint": null,
+		"width": 1,
+		"height": 1,
+		"scale": 1,
+		"mirrorX": false,
+		"mirrorY": false,
+		"x": null,
+		"y": null,
+		"elevation": 0,
+		"lockRotation": false,
+		"rotation": 230,
+		"effects": [],
+		"alpha": 1,
+		"hidden": false,
+		"vision": false,
+		"dimSight": 0,
+		"brightSight": 0,
+		"sightAngle": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 0,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"gradual": true,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"disposition": 0,
+		"displayBars": 0,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": ""
+		},
+		"flags": {
+			"token-attacher": {
+				"pos": {
+					"base_id": "9EiY8ViFhUArGuLw",
+					"xy": {
+						"x": 5084,
+						"y": 1612
+					},
+					"center": {
+						"x": 5146,
+						"y": 1674
+					},
+					"rotation": 230,
+					"hidden": false,
+					"elevation": 0
+				},
+				"prototypeAttached": {
+					"Wall": [
+						{
+							"c": [
+								5136.358185854702,
+								1662.5093333532154,
+								5191.522646138457,
+								1656.6884810443228
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -9.641814145297758,
+										"y": -17.31151895567723,
+										"rot": 230,
+										"centerX": 17.94041599657976,
+										"centerY": -14.401092801230789,
+										"offRot": 0,
+										"c": [
+											-9.641814145297758,
+											-11.490666646784575,
+											45.522646138457276,
+											-17.31151895567723
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5191.522646138457,
+								1656.6884810443228,
+								5199.9583953919555,
+								1690.077672926309
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": 45.522646138457276,
+										"y": -17.31151895567723,
+										"rot": 230,
+										"centerX": 49.740520765206384,
+										"centerY": -0.6169230146840619,
+										"offRot": 0,
+										"c": [
+											45.522646138457276,
+											-17.31151895567723,
+											53.95839539195549,
+											16.077672926309106
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5113.816873009814,
+								1660.5372240182962,
+								5092.68439221773,
+								1658.6883715168099
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -53.31560778226958,
+										"y": -15.311628483190134,
+										"rot": 230,
+										"centerX": -42.74936738622819,
+										"centerY": -14.387202232446953,
+										"offRot": 0,
+										"c": [
+											-32.18312699018588,
+											-13.462775981703771,
+											-53.31560778226958,
+											-15.311628483190134
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5129.894545936123,
+								1606.5788286263405,
+								5173.568339573094,
+								1610.3997904627463
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -16.105454063877005,
+										"y": -67.42117137365949,
+										"rot": 230,
+										"centerX": 5.731442754607997,
+										"centerY": -65.5106904554566,
+										"offRot": 0,
+										"c": [
+											-16.105454063877005,
+											-67.42117137365949,
+											27.56833957309391,
+											-63.600209537253704
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5147.972109334919,
+								1651.4586871551119,
+								5173.568339573094,
+								1610.3997904627463
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": 1.9721093349189687,
+										"y": -63.600209537253704,
+										"rot": 230,
+										"centerX": 14.770224454006893,
+										"centerY": -43.070761191070915,
+										"offRot": 0,
+										"c": [
+											1.9721093349189687,
+											-22.541312844888125,
+											27.56833957309391,
+											-63.600209537253704
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5199.9583953919555,
+								1690.077672926309,
+								5136.358185854702,
+								1662.5093333532154
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -9.641814145297758,
+										"y": -11.490666646784575,
+										"rot": 230,
+										"centerX": 22.158290623328867,
+										"centerY": 2.293503139762379,
+										"offRot": 0,
+										"c": [
+											53.95839539195549,
+											16.077672926309106,
+											-9.641814145297758,
+											-11.490666646784575
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5112.610808118014,
+								1682.4357492534982,
+								5113.816873009814,
+								1660.5372240182962
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -33.389191881986335,
+										"y": -13.462775981703771,
+										"rot": 230,
+										"centerX": -32.786159436085654,
+										"centerY": -2.5135133641028915,
+										"offRot": 0,
+										"c": [
+											-33.389191881986335,
+											8.435749253498216,
+											-32.18312699018588,
+											-13.462775981703771
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5092.68439221773,
+								1658.6883715168099,
+								5112.610808118014,
+								1682.4357492534982
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -53.31560778226958,
+										"y": -15.311628483190134,
+										"rot": 230,
+										"centerX": -43.35239983212796,
+										"centerY": -3.437939614846073,
+										"offRot": 0,
+										"c": [
+											-53.31560778226958,
+											-15.311628483190134,
+											-33.389191881986335,
+											8.435749253498216
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5129.894545936123,
+								1606.5788286263405,
+								5147.972109334919,
+								1651.4586871551119
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -16.105454063877005,
+										"y": -67.42117137365949,
+										"rot": 230,
+										"centerX": -7.066672364479018,
+										"centerY": -44.98124210927381,
+										"offRot": 0,
+										"c": [
+											-16.105454063877005,
+											-67.42117137365949,
+											1.9721093349189687,
+											-22.541312844888125
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5153.669704810379,
+								1708.031979491673,
+								5149.8487429739735,
+								1751.705773128644
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": 3.848742973973458,
+										"y": 34.03197949167293,
+										"rot": 230,
+										"centerX": 5.759223892176124,
+										"centerY": 55.86887631015861,
+										"offRot": 0,
+										"c": [
+											7.669704810378789,
+											34.03197949167293,
+											3.848742973973458,
+											77.70577312864407
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5149.8487429739735,
+								1751.705773128644,
+								5133.743288910096,
+								1684.2846017549846
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -12.256711089903547,
+										"y": 10.284601754984578,
+										"rot": 230,
+										"centerX": -4.203984057965499,
+										"centerY": 43.99518744181432,
+										"offRot": 0,
+										"c": [
+											3.848742973973458,
+											77.70577312864407,
+											-12.256711089903547,
+											10.284601754984578
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						},
+						{
+							"c": [
+								5133.743288910096,
+								1684.2846017549846,
+								5153.669704810379,
+								1708.031979491673
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"dir": 0,
+							"door": 0,
+							"ds": 0,
+							"flags": {
+								"token-attacher": {
+									"parent": "9EiY8ViFhUArGuLw",
+									"offset": {
+										"x": -12.256711089903547,
+										"y": 10.284601754984578,
+										"rot": 230,
+										"centerX": -2.2935031397628336,
+										"centerY": 22.158290623328867,
+										"offRot": 0,
+										"c": [
+											-12.256711089903547,
+											10.284601754984578,
+											7.669704810378789,
+											34.03197949167293
+										],
+										"size": {
+											"widthBase": 1,
+											"heightBase": 1
+										},
+										"elevation": {
+											"flags": {}
+										}
+									}
+								}
+							}
+						}
+					]
+				},
+				"grid": {
+					"size": 124,
+					"w": 124,
+					"h": 124
+				}
+			},
+			"monks-little-details": {
+				"token-highlight": "",
+				"bloodsplat-colour": ""
+			}
+		},
+		"tokenId": null,
+		"randomImg": false
+	},
+	"items": [],
+	"effects": [],
+	"folder": "aRKAQXJMFx8fEDJM",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

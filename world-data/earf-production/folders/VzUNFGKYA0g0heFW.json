@@ -1,0 +1,12 @@
+{
+	"name": "Welcome",
+	"type": "Scene",
+	"parent": null,
+	"sorting": "a",
+	"sort": 0,
+	"color": null,
+	"flags": {
+		"textColour": ""
+	},
+	"_id": "VzUNFGKYA0g0heFW"
+}

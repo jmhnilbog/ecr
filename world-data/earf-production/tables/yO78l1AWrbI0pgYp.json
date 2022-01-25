@@ -1,0 +1,74 @@
+{
+	"_id": "yO78l1AWrbI0pgYp",
+	"name": "Amphibious Animal Names",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Just the names of amphibious animals, in Title Case.",
+	"results": [
+		{
+			"_id": "b0LBKxMkLlQw2axT",
+			"flags": {},
+			"type": 0,
+			"text": "Newt",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false
+		},
+		{
+			"_id": "21BMyj6ElDp4Dj5l",
+			"flags": {},
+			"type": 0,
+			"text": "Frog",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false
+		},
+		{
+			"_id": "SSPCiTO4qn15qnPj",
+			"flags": {},
+			"type": 0,
+			"text": "Mudskipper",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false
+		},
+		{
+			"_id": "gQrvgoG6fwXaBeJo",
+			"flags": {},
+			"type": 0,
+			"text": "Toad",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false
+		}
+	],
+	"formula": "1d4",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "pTkdcUmYCUn7OMzl",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.Ubj6BWNJym5bFDBo"
+		}
+	}
+}

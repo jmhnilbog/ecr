@@ -1,0 +1,12 @@
+{
+	"_id": "rf79yDR8T5OuVC0R",
+	"name": "SotSS State",
+	"content": "This journal entry is used to store adventure-specific data in its flags.\n\n**randomEncounterRollFormula**: starts at 1d6, goes up and down to make random encounters more or less likely in response to events.\n\n**sinkholeRadius**: starts",
+	"folder": "Ztc5KPd7NWGZhWrI",
+	"sort": 500000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

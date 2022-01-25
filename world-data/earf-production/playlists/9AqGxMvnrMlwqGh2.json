@@ -1,0 +1,29 @@
+{
+	"_id": "9AqGxMvnrMlwqGh2",
+	"name": "Ritual",
+	"description": "",
+	"sounds": [
+		{
+			"_id": "946rvyvl2gcGR8ij",
+			"name": "tabletop rpg musicmusic/DarkRitual",
+			"description": "",
+			"path": "other/tabletop-rpg-music/music/DarkRitual.mp3",
+			"playing": false,
+			"pausedTime": null,
+			"repeat": false,
+			"volume": 0.35355339059327373,
+			"sort": 0,
+			"flags": {}
+		}
+	],
+	"mode": 0,
+	"playing": false,
+	"folder": null,
+	"sorting": "m",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

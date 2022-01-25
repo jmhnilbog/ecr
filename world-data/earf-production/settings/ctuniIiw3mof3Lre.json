@@ -1,0 +1,5 @@
+{
+	"_id": "ctuniIiw3mof3Lre",
+	"key": "foundryvtt-simple-calendar.weekday-config",
+	"value": "[{\"abbreviation\":\"Su\",\"id\":\"97a367fd\",\"name\":\"Sunday\",\"numericRepresentation\":1},{\"abbreviation\":\"Mo\",\"id\":\"70a7e2af\",\"name\":\"Monday\",\"numericRepresentation\":2},{\"abbreviation\":\"Tu\",\"id\":\"be127b14\",\"name\":\"Tuesday\",\"numericRepresentation\":3},{\"abbreviation\":\"We\",\"id\":\"30b20ade\",\"name\":\"Wednesday\",\"numericRepresentation\":4},{\"abbreviation\":\"Th\",\"id\":\"9e0b9e8c\",\"name\":\"Tharsday\",\"numericRepresentation\":5},{\"abbreviation\":\"Fr\",\"id\":\"17f025bd\",\"name\":\"Friday\",\"numericRepresentation\":6},{\"abbreviation\":\"Sa\",\"id\":\"f25a88f4\",\"name\":\"Saturday\",\"numericRepresentation\":7}]"
+}

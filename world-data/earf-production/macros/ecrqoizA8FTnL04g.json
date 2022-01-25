@@ -1,0 +1,16 @@
+{
+	"_id": "ecrqoizA8FTnL04g",
+	"name": "Reset Random Encounter Clock",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/dice-target.svg",
+	"scope": "global",
+	"command": "// every 6 turns (1 hour)...\n(async () => {\n    let interval = null;\n    if (interval !== null) {\n        clearInterval(interval);\n        interval = null;\n    }\n    // @ts-ignore\n    interval = game.Gametime.doEvery({ minute: 60 }, async () => {\n        const table = await game.tables.getName('The Ruined Keep: Random Encounter Check').draw();\n        console.log(\"I'd roll on  a table if I knew how\");\n    });\n})();",
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

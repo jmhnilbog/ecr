@@ -1,0 +1,52 @@
+{
+	"_id": "FhuhzcREbg7gTT1k",
+	"name": "The Ruined Keep: Random Encounter Check",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Check for random encounters in the Ruined Keep.",
+	"results": [
+		{
+			"_id": "Gu8h0KdbqE3Szyae",
+			"type": 1,
+			"text": "The Ruined Keep: Random Encounters",
+			"img": "icons/svg/d20-grey.svg",
+			"collection": "RollTable",
+			"resultId": "vs3XcYCxNLeBbF4v",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"flags": {},
+			"rangeL": 1,
+			"rangeH": 1
+		},
+		{
+			"_id": "GL6REO5HDT4KddMh",
+			"type": 0,
+			"text": "Nothing seems to happen.",
+			"collection": null,
+			"weight": 1,
+			"range": [
+				2,
+				30
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"resultId": null,
+			"rangeL": 2,
+			"rangeH": 30
+		}
+	],
+	"formula": "1d6",
+	"replacement": true,
+	"displayRoll": false,
+	"folder": "mhWYMWCGWXoggWQK",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

@@ -1,0 +1,54 @@
+{
+	"_id": "hi5w1wDud3HkMalG",
+	"name": "Felan's Axe",
+	"type": "weapon",
+	"img": "icons/weapons/axes/axe-double-jagged-black.webp",
+	"data": {
+		"description": {
+			"value": "- Requires 16 STR\n- +1 Crit range\n- made of meteoric iron",
+			"chat": "",
+			"unidentified": "",
+			"summary": "Well-feared axe of a Chaos Lord!"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 20,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+0",
+		"damage": "1d10",
+		"range": "",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 500000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "Bears the @JournalEntry[Curse of Storm and Hate]!"
+		}
+	}
+}

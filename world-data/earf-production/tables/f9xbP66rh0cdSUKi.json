@@ -1,0 +1,87 @@
+{
+	"_id": "f9xbP66rh0cdSUKi",
+	"name": "Beastman Chatter",
+	"img": "icons/commodities/biological/tongue-violet.webp",
+	"description": "Things beastmen say.",
+	"results": [
+		{
+			"_id": "8CxIbRKXpW4Tpx3d",
+			"flags": {},
+			"type": 0,
+			"text": "*pant*",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false
+		},
+		{
+			"_id": "J9mXRTelU5Btdg2e",
+			"flags": {},
+			"type": 0,
+			"text": "*drool*",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false
+		},
+		{
+			"_id": "QCxSSLthylRyMfZP",
+			"flags": {},
+			"type": 0,
+			"text": "???",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false
+		},
+		{
+			"_id": "pyQLe66cSstylacA",
+			"flags": {},
+			"type": 0,
+			"text": "...",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false
+		},
+		{
+			"_id": "VbZ0crjWdt4awu9o",
+			"flags": {},
+			"type": 0,
+			"text": "awOOooOOo",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false
+		}
+	],
+	"formula": "1d5",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "mhWYMWCGWXoggWQK",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.9O7pfWBin3wsMH8a"
+		}
+	}
+}

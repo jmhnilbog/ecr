@@ -1,0 +1,41 @@
+{
+	"_id": "VjoqSSD4sEcYEdUJ",
+	"name": "Blackened Chainmail",
+	"type": "armor",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/chain-mail.svg",
+	"data": {
+		"description": {
+			"value": "Burnt and roughed up, this armor still seems useful. You found it in a horrible, burnt chapel.",
+			"chat": "",
+			"unidentified": "",
+			"summary": "It's burnt."
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "150",
+			"sp": "0",
+			"cp": "0"
+		},
+		"acBonus": 5,
+		"checkPenalty": -5,
+		"speed": "-5'",
+		"fumbleDie": "d12"
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 175000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-armor.bL1bmQBZxZ7ukuuV"
+		}
+	}
+}

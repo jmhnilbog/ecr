@@ -1,0 +1,166 @@
+{
+	"_id": "vs3XcYCxNLeBbF4v",
+	"name": "The Ruined Keep: Random Encounters",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Random encounters.",
+	"results": [
+		{
+			"_id": "fJVvtqkrtYrY1iX0",
+			"type": 0,
+			"text": "[[1d3+4]] @Actor[Beastman]{Beastmen} carrying sacks, at limit of sight, approaching the keep. 1 sack holds a @Actor[Villager]{child}, [[1d4]] hold frantically scrambling pets and small animals, the rest are filled with miscellaneous items worth [[/r 1d6]] gp.",
+			"weight": 2,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 1,
+			"rangeH": 1,
+			"collection": null,
+			"resultId": null
+		},
+		{
+			"_id": "BUyhk4LT32HPY7hx",
+			"type": 0,
+			"text": "[[1]] @Actor[Flying Beastman], in the air. If it gains surprise (50% in daylight, 100% in full night) it makes one attempt to grab a small PC or whatever the most vaulable item a character has is and flies down into the sinkhole laughing.",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 2,
+			"rangeH": 2,
+			"collection": null,
+			"resultId": null
+		},
+		{
+			"_id": "JtJB2bYXnjpAETxY",
+			"type": 0,
+			"text": "[[1d4]] @Actor[Villager]{villagers} in hiding, desperate to escape. They have nothing but the rags they wear but can become additional characters if any players have lost too many.",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 3,
+			"rangeH": 3,
+			"collection": null,
+			"resultId": null
+		},
+		{
+			"_id": "vqwkFvb18oxo7fjA",
+			"type": 0,
+			"text": "[[1]] @Actor[Beastman Champion] following [[3]] tracking @Actor[Beastman]{beastmen} (wolf, dog, manta ray with a huge nose and centipede legs) on chain leashes. On surprise, he closes on the party, drops the chains, and all four attack at once. He has 3 spears and a longbow.",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 4,
+			"rangeH": 4,
+			"collection": null,
+			"resultId": null
+		},
+		{
+			"_id": "qIkI6z1riQNgnfnV",
+			"type": 0,
+			"text": "The well emits a pillar of disturbing light, which flashes three times before going out. This is followed by a deep bass rumble below the keep. -1D when rolling for random nstead of 1d6 for future random encounters in the keep, and roll for another random encounter now.",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 5,
+			"rangeH": 5,
+			"collection": null,
+			"resultId": null
+		},
+		{
+			"_id": "3Fzc2tE7tifMkNZc",
+			"type": 0,
+			"text": "Over the course of a turn, the mist around the sinkhole becomes becomes thicker, forming physical tentacles at the edges. These wrap around the stones (and PCs failing a DC 10 Reflex save who stand at the edge) and yank several in, widening the pit slightly.",
+			"weight": 1,
+			"range": [
+				6,
+				6
+			],
+			"drawn": false,
+			"flags": {
+				"better-rolltables": {
+					"brt-result-formula": {
+						"formula": ""
+					}
+				}
+			},
+			"img": "icons/svg/d20-black.svg",
+			"rangeL": 6,
+			"rangeH": 6,
+			"collection": null,
+			"resultId": null
+		}
+	],
+	"formula": "1d6",
+	"replacement": true,
+	"displayRoll": false,
+	"folder": "YZ9gkEDlvz5PmrGz",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"better-rolltables": {
+			"table-type": "better",
+			"table-currency-string": "",
+			"loot-amount-key": "1",
+			"loot-actor-name": ""
+		},
+		"core": {
+			"sourceId": "RollTable.8E2gU3VmBpX16vxg"
+		},
+		"cf": null
+	}
+}

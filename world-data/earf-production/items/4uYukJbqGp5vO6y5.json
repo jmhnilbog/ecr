@@ -1,0 +1,40 @@
+{
+	"_id": "4uYukJbqGp5vO6y5",
+	"name": "Glowing Skull",
+	"type": "equipment",
+	"img": "other/milbys-maps-free/art/tokens/flameskull.png",
+	"data": {
+		"description": {
+			"value": "A faintly-glowing, angry-looking human-ish skull.",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 2.5,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-items.FbEZy53r8vuB3aVJ"
+		},
+		"gm-notes": {
+			"notes": "- The **skull flares** in the **presence of Molan**.\n- The **skull glows brighter** as it **approaches Molan.**\n- **Thrown at Molan (DC 10 Agility)**, the skull shatters and **erupts in flame** doing **[[/r 1d6+1]] damage** and **half that to adjacent targets failing a (DC 12 Reflex) save**."
+		}
+	}
+}

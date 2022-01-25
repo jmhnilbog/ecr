@@ -1,4 +1,5 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
+
 :::: encounter
 # The road to the keep is overrun with weeds...and horror!
 ::: summary

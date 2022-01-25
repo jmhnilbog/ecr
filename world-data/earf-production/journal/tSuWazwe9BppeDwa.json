@@ -1,0 +1,16 @@
+{
+	"_id": "tSuWazwe9BppeDwa",
+	"name": "Invisibility",
+	"content": "::: house-rule\n  \n  Regarding Invisibility\n  : Invisible creatures *usually* receive **+2 to attacks and are difficult to locate.** These bonuses are reduced or eliminated against creatures not visually-oriented.\n  : Illusions or mental affects that mask the presence of an item or creature are ***not*** invisibility.\n  : Visible **light travels through invisible creatures** without affecting them in any way. \n  : If the correct location of an invisible creature is targeted by an attack, it may be attacked normally, but **a miss chance of up to 50% is applied** on otherwise successful attacks.\n    \n    | Miss Chance | Example Circumstances |\n    |--|--|\n    | 0% | An explosion larger that the guessed location; a successful **Mighty Deed** |\n    | 10% | The attack of a giant naked mole rat; a powerful blind swordsman's attack |\n    | 25% | A cloud of flour gives away the outline of the invisible creature; the attack of a blind ooze |\n    | 50% | Normal attacks without mitigating circumstances |\n:::",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"monks-enhanced-journal": {
+			"scrollPos": "{\".description\":0}"
+		}
+	}
+}

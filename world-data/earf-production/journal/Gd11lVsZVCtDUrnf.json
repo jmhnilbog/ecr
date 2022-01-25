@@ -1,0 +1,12 @@
+{
+	"_id": "Gd11lVsZVCtDUrnf",
+	"name": "Arcane Effects of the Well",
+	"content": "Within 50' of the well:\n\n- Arcane spells cast receive a +10 bonus to the caster’s spell check *and* automatically incur corruption.\n- Attempts to invoke lawful patrons within the well’s sphere of influence always fail.",
+	"folder": "soZ8PpCQO8ijckdv",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

@@ -1,0 +1,53 @@
+{
+	"_id": "sFWfR7lAjnnMjqoi",
+	"name": "Blackened Flail",
+	"type": "weapon",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/flail.svg",
+	"data": {
+		"description": {
+			"value": "It's burnt and blackened like the horrible chapel it was found within.",
+			"chat": "",
+			"unidentified": "",
+			"summary": "It's burnt. *whap!*"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "6",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d6",
+		"range": "-",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 2200000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.F7WXejEWcIGNmrZT"
+		}
+	}
+}

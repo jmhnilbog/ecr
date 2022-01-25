@@ -1,0 +1,10 @@
+{
+	"_id": "fwWoguE22YzdKjRo",
+	"name": "Creatures",
+	"type": "Actor",
+	"parent": "sBjk9ZAjqx3WpyFR",
+	"sorting": "a",
+	"sort": 100000,
+	"color": "#309bb5",
+	"flags": {}
+}

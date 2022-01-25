@@ -1,0 +1,13 @@
+{
+	"_id": "CtgNgj1LquVZunZ4",
+	"name": "The Devil's Causeway",
+	"content": ":::: encounter\n# The road to the keep is overrun with weeds...and horror!\n::: summary\n\n#### Summary\n\nThe two bodies here are @Token[Keary] and Alban, children of the village blacksmith. They have been changed into @Actor[Vine Horror]{Vine Horrors}, which spill thousands of horrid @Actor[Awful Seeds] when dispatched.\n\nThey have a pitiful amount of treasure on them.\n:::\n\n::: main\n\n::: readaloud \n\nAn old **dirt road**, now **overrun with weeds** and sickly vines, rises\ntowards the ruined citadel. A grisly sight bars your way: **a pair of bodies, \nsecured to poles** by long ropey vines. The wicked **vines have wormed their way\ninside** the bodies’ eyes, ears, and mouths.   \n:::\n\n::: handout\nShould they approach further, show the @JournalEntry[Bodies on the Causeway] handout, then...\n:::\n\n::: readaloud\nTo your horror, *you realize the\nbodies are still moving*!\n:::\n\n The vines unwind from the posts, freeing the\nhorrors to shamble toward the PCs. \n\n**Any PC from the village that gets a good look at the corpses recognizes them as the village blacksmith's children, Keary and Alban.** The brothers vanished from the village eleven days\nago. The beastmen killed the brothers and seeded their corpses\nwith vine horrors to ward off any investigations from the\ntownsfolk.\n\nThe bodies fall apart upon 'death', releasing piles of @Actor[Awful Seeds]. They hold a tiny amount of treasure as described in the summary above.\n\nMore information: @JournalEntry[Vine Horrors]\n\n::::",
+	"img": null,
+	"folder": "rTWTUx1GEeNRMiWQ",
+	"sort": 200000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

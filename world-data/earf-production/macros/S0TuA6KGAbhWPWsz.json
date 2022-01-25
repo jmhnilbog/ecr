@@ -1,0 +1,19 @@
+{
+	"name": "(TA)Mount Up!",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/up.svg",
+	"scope": "global",
+	"command": "(async () => {\n\tlet targets = Array.from(game.user.targets);\n\tif(targets.length > 0){\n\t\tif(targets.length > 1) return ui.notification.error(\"Can't mount more then one token!\");\n\t\tlet mount = targets[0];\n\t\tlet newCoords = {x:token.x, y:token.y};\n\t\tif(mount.x+mount.w-token.w < token.x) newCoords.x = mount.x+mount.w-token.w;\n\t\telse if(mount.x > token.x) newCoords.x = mount.x;\n\n\t\tif(mount.y+mount.h-token.h < token.y) newCoords.y = mount.y+mount.h-token.h;\n\t\telse if(mount.y > token.y) newCoords.y = mount.y;\n\t\tawait token.update({x: newCoords.x, y: newCoords.y});\n\t\tui.chat.processMessage(`I mount this ${targets[0].name}`);\n\t\tawait tokenAttacher.attachElementToToken(token, targets[0], true);\n\t\tawait tokenAttacher.setElementsLockStatus(token, false, true);\n\t}\n})();",
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.zsfgPtRL0r8sLXaP"
+		}
+	},
+	"_id": "S0TuA6KGAbhWPWsz"
+}

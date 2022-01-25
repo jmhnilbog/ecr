@@ -1,0 +1,40 @@
+{
+	"_id": "WaVKTPYLAVgbZAnM",
+	"name": "Golden Censer",
+	"type": "equipment",
+	"img": "moulinette/images/gameicons/incense-%23ffdd00-%23787878.svg",
+	"data": {
+		"description": {
+			"value": "It's got a small amount of unburnt incense in it when you find it.",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1700000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-items.RcepYY5XRZ2y7C6J"
+		},
+		"gm-notes": {
+			"notes": "- Worth about **65gp**.\n- If incense sanctified to Chaos is burnt within it, the smoke stupefies some creatures, including the @Actor[Tar Ooze] and @Actor[Chaos Leviathan]. The incense burns very quickly: **1 cone/30 seconds**."
+		}
+	}
+}

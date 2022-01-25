@@ -1,0 +1,12 @@
+{
+	"_id": "Vkbj8S9v2AE9qaOZ",
+	"name": "Black Lotus Oil",
+	"content": "# Drinking Black Lotus Oil\nEach dose is a tiny sip. Taking more one or two doses at once has the same effect as one dose.\n\nGain [[/r 1d10]] hp for 1 hour, then lose it again. Lose [[/r 1d4]] hp additionally on a failed **DC 10 Fort** save.",
+	"folder": "Ztc5KPd7NWGZhWrI",
+	"sort": 600000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

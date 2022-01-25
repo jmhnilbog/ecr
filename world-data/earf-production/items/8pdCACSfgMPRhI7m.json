@@ -1,0 +1,56 @@
+{
+	"_id": "8pdCACSfgMPRhI7m",
+	"name": "The Fiend-Blade",
+	"type": "weapon",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/sword-fiend-blade-glow.webp",
+	"data": {
+		"description": {
+			"value": "You went through a lot to get this thing. It keeps talking in your head.",
+			"chat": "",
+			"unidentified": "",
+			"summary": "devil? demon-thing?"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "15",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d10",
+		"range": "-",
+		"twoHanded": true,
+		"melee": true,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1500000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.jpo6chqnT2dV1L3d"
+		},
+		"gm-notes": {
+			"notes": "This sword contains an evil entity from elsewhere that revels in destruction.\n\nThe sword must be Mastered by a new wielder before they may use it, and again if it put aside for any length of time. An attempt to wield the sword before this does [[/r 1d10]] damage.\n\nMastery requires a DC 15 PER check or [[/r 1d3]] PER damage.\n\nA fumbled Mastery check gives control of the wielder to the sword. Should the wielder ever have 3 or fewer PER, the sword likewise gains control. It remains in control until the wielder is slain or disarmed.\n\nAdditional attempts at Mastery compel additional powers from the sword:\n- DC 20 PER or [[/r 1d5]] PER damage allows one of these benefits:\n\t- applies +1 to hit and damage for 1 battle\n\t- casts @Compendium[dcc-core-book.dcc-core-spell-journals.Magic Shield] at [[/r 1d20]] spell check\n\t- grants +3 to a single saving throw\n- DC 25 PER or [[/r 2d5]] PER damage allows one of these benefits:\n\t- applies +3 to hit and damage for 1 battle\n\t- casts @Compendium[dcc-core-book.dcc-core-spell-journals.Magic Missile] at [[/r 1d24]] spell check\n\t- turn a critical hit into a miss\n- DC 30 PER or [[/r 3d5]] PER damage allows one of these benefits:\n\t- applies +5 to hit and damage for 1 battle\n\t- casts @Compendium[dcc-core-book.dcc-core-spell-journals.Dispel Magic] at [[/r 1d30]] spell check\n\t- heal wielder by [[/r 1d5]] hit dice\n\nThe wielder may use the sword to heal PER damage by causing havoc and ruin. Each sentient killed by the wielder heals 1 PER point; more terrible deeds give more aid.\n\nThe sword may communicate telepathically within 20'.\n\nChaotic wielders cause the sword to blaze with blue-green flame adding [[/r 1d3]] damage to each hit.\n\nThe sword may hit magical, ethereal, and astral creatures."
+		}
+	}
+}

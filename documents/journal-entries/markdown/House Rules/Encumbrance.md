@@ -1,5 +1,6 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
-::: house-rule
+
+::: house-rules
 
 # Regarding Encumbrance
 
@@ -47,4 +48,5 @@ Round Move to the nearest 5'.
 These effects apply to pack animals and vehicles as well, though Encumbrance points may be reduced by expert packing, specific animal abilities, and so on.
 
 :::
+
 </div>

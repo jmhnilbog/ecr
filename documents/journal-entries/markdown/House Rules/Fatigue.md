@@ -1,7 +1,8 @@
 <div class="ecr ecr-wrapper ecr-markeddown">
+
 ::: house-rules
 
-Regarding Fatigue
+# Regarding Fatigue
 
 - @Item[Fatigue] sits in your inventory, and @JournalEntry[Encumbrance]{encumbers} the holder.
 - Forced marches, radiation poisoning, constant prayer, lengthy rituals, lack of sleep, etc. gives you Fatigue.

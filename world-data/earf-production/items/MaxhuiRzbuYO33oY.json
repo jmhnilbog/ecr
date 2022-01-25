@@ -1,0 +1,50 @@
+{
+	"_id": "MaxhuiRzbuYO33oY",
+	"name": "Molan's Spiked Flail",
+	"type": "weapon",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/handouts/molan.webp",
+	"data": {
+		"description": {
+			"value": "The weilder may order it to burst into flames once per day, lasting for three rounds. The flames do an additional [[/r 1d6]] damage while present.\n\nThis is a +1 weapon.",
+			"chat": "",
+			"unidentified": "",
+			"summary": "flames 1/day 3 rounds"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 7,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+1",
+		"damage": "1d6+1",
+		"range": "",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1400000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

@@ -1,0 +1,56 @@
+{
+	"_id": "fWWE7dAB94yJjRdy",
+	"name": "Fur-Tufted Longbow",
+	"type": "weapon",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/heavy-arrow.svg",
+	"data": {
+		"description": {
+			"value": "It's old and was found under a big rock. Should you even use it?",
+			"chat": "",
+			"unidentified": "",
+			"summary": "An old bow"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "40",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d6",
+		"range": "70/140/210",
+		"twoHanded": true,
+		"melee": false,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 2100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.T2WpkkUKUoowGYL1"
+		},
+		"gm-notes": {
+			"notes": "On a **natural 1 or 2**, the bow snaps and does [[/r 1d2]] damage to the weilder.\n\nThis is obvious to a **hunter** or **forester**."
+		}
+	}
+}

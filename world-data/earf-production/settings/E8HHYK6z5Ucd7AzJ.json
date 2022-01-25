@@ -1,0 +1,5 @@
+{
+	"_id": "E8HHYK6z5Ucd7AzJ",
+	"key": "weather-control.weatherData",
+	"value": "{\"version\":1,\"currentDate\":{\"raw\":{\"year\":1081,\"month\":9,\"weekdays\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Tharsday\",\"Friday\",\"Saturday\"],\"currentWeekdayIndex\":0,\"day\":28,\"hour\":10,\"minute\":26,\"second\":23},\"display\":{\"fullDate\":\"October 29, 1081\",\"time\":\"10:26:23\"}},\"climate\":{\"isVolcanic\":false,\"name\":\"temperate\",\"humidity\":0,\"baseTemperature\":0,\"temperatureRange\":{\"max\":100,\"min\":-5}},\"tempRange\":{\"max\":90,\"min\":-20},\"temp\":83,\"lastTemp\":83,\"precipitation\":\"Torrential rains today.\"}"
+}

@@ -1,0 +1,12 @@
+{
+	"_id": "4LLIyQ5rcgnlG6Po",
+	"name": "The Ruined Wall",
+	"content": "::::: encounter\n\n::: summary\nThe rubble is simple to climb, but a wrong move could bring it tumbling down on the party!\n\n- The rubble is dangerous! {.trap\n- Miners and dwarves **automatically** get a **DC 8 INT check** to notice the danger. {.note}\n- Should an avalance be triggered, a passageway down to the @JournalEntry[Tomb of the Fallen]! {.secret}\n- The rubble is within the magic-boosting/corrupting radius of the @JournalEntry[Well of Souls]. {.note}\n- Everything is harder if it's dark! {.note}\n\n:::\n\n:::: main\n\n::: readaloud\nThe keep’s **massive wall has collapsed here**, spilling cyclopean stone blocks down the rocky slope. The blocks are **precariously balanced** atop one another, like a titan’s game of dice. \n::: \n\nSeveral of the blocks are poised to shift if disturbed. Those\nascending the slope without noting the danger inevitably trigger a slide. One\nfalse step and massive granite blocks tumble down the slope, crushing all in\ntheir path...\n\n::: readaloud\n\nClouds of choking dust fill the air along with the screams of the\ndying and the deafening crash of stone against stone.\n\n:::\n\n::: statblock trap\nUnstable Rubble: Atk avalanche +5 melee\n([[/r 1d10]]); SP Detectable, Triggerable, AOE, Destruction, LOUD, Reveal.\n\nDetectable\n    : **The trap is safe if detected and triggered if not detected.**\n    : Miners and dwarves **AUTOMATICALLY CHECK DC 8 INT** to recognize the unstable stones.\n    : **DC 10 INT** for all others.\n\nTriggerable\n    : Miners and dwarves can trigger the avalanche safely with a **DC 10 STR** check from the top of the pile.\n    : **DC 20 STR** for all others.\n    : Attempts to trigger the avalanche *unsafely* automatically succeed.\n\nAOE\n    : Every character on or below the rubble is subject to the avalanche attack when triggered. (+\n\nDestruction\n    : All items carried by creatures killed by the avalanche are destroyed.\n\nLOUD\n    : Surprise is out of the question and immediately roll for a Random Encounter.\n\nReveal\n    : Any search of the rubble after the avalanche has been triggered locates a narrow, rocky shaft descending 14 feet to the @JournalEntry[Tomb of the Fallen].\n\n:::\n\nIf the trap is triggered, there's no way the party is surprising anyone. Some beastmen may investigate.\n\n\nThe trap can be triggered by the @Actor[Trap Triggerer!]\n\n:::::",
+	"folder": "rTWTUx1GEeNRMiWQ",
+	"sort": 300000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

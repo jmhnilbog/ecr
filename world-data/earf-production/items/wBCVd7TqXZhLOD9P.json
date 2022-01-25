@@ -1,0 +1,53 @@
+{
+	"_id": "wBCVd7TqXZhLOD9P",
+	"name": "Milky Steel Longsword",
+	"type": "weapon",
+	"img": "icons/weapons/swords/greatsword-blue.webp",
+	"data": {
+		"description": {
+			"value": "",
+			"chat": "",
+			"unidentified": "",
+			"summary": "It looks a bit milky."
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "10",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d8",
+		"range": "-",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 2300000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.1suOc89pnOxGWzBL"
+		}
+	}
+}

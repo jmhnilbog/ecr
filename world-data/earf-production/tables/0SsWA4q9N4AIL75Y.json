@@ -1,0 +1,113 @@
+{
+	"_id": "0SsWA4q9N4AIL75Y",
+	"name": "Icky Names",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Just random 'icky' names, in Title Case. Suitable for use with Token Mold.",
+	"results": [
+		{
+			"_id": "1vThSLOeSlxRmCGj",
+			"flags": {},
+			"type": 0,
+			"text": "Hunchbacked",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false
+		},
+		{
+			"_id": "s1H62QM7cW2YLxEF",
+			"flags": {},
+			"type": 0,
+			"text": "Moist",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false
+		},
+		{
+			"_id": "jig9WsJh0Z01FOGb",
+			"flags": {},
+			"type": 0,
+			"text": "Drippy",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false
+		},
+		{
+			"_id": "w2kVmOIGkwJpz5oW",
+			"flags": {},
+			"type": 0,
+			"text": "Unfinished",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false
+		},
+		{
+			"_id": "DON90N08OQj8knfr",
+			"flags": {},
+			"type": 0,
+			"text": "Scarred",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false
+		},
+		{
+			"_id": "auBZBGcZkJ2a65Bj",
+			"flags": {},
+			"type": 0,
+			"text": "Wilted",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				6,
+				6
+			],
+			"drawn": false
+		},
+		{
+			"_id": "SeVrph1NZnClmlQq",
+			"flags": {},
+			"type": 0,
+			"text": "Rotten",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				7,
+				7
+			],
+			"drawn": false
+		}
+	],
+	"formula": "1d7",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "LjP47xVuIpyartEu",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.vmzpvevAr107IVde"
+		}
+	}
+}

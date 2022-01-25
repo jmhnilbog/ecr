@@ -1,0 +1,22 @@
+{
+	"_id": "AEHrHASDqzYUdnHf",
+	"type": 3,
+	"user": "oVvfrcHQErm1ON0p",
+	"timestamp": 1642801124662,
+	"content": "Attacks with their Hammer (as club) and hits AC <a class=\"inline-roll inline-result\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221d20%20+%200%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22Die%22%2C%22options%22%3A%7B%22dcc%22%3A%7B%22upperThreshold%22%3A20%7D%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%2C%22faces%22%3A20%2C%22modifiers%22%3A%5B%5D%2C%22results%22%3A%5B%7B%22result%22%3A7%2C%22active%22%3Atrue%7D%5D%7D%2C%7B%22class%22%3A%22OperatorTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22operator%22%3A%22+%22%7D%2C%7B%22class%22%3A%22NumericTerm%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A0%7D%5D%2C%22total%22%3A7%2C%22evaluated%22%3Atrue%7D\" title=\"1d20 + 0\"><i class=\"fas fa-dice-d20\"></i> 7</a> for <a class=\"inline-roll inline-result damage-applyable\" data-roll=\"%7B%22class%22%3A%22Roll%22%2C%22options%22%3A%7B%7D%2C%22dice%22%3A%5B%5D%2C%22formula%22%3A%221d5%22%2C%22terms%22%3A%5B%7B%22class%22%3A%22Die%22%2C%22options%22%3A%7B%7D%2C%22evaluated%22%3Atrue%2C%22number%22%3A1%2C%22faces%22%3A5%2C%22modifiers%22%3A%5B%5D%2C%22results%22%3A%5B%7B%22result%22%3A5%2C%22active%22%3Atrue%7D%5D%7D%5D%2C%22total%22%3A5%2C%22evaluated%22%3Atrue%7D\" data-damage=\"5\" title=\"1d5\"><i class=\"fas fa-dice-d20\"></i> 5</a> points of damage!",
+	"speaker": {
+		"scene": null,
+		"actor": "vwOLffqYjKtbQEYR",
+		"token": null,
+		"alias": "Blacksmith"
+	},
+	"whisper": [],
+	"blind": false,
+	"sound": "sounds/dice.wav",
+	"emote": false,
+	"flags": {
+		"core": {
+			"canPopout": true
+		}
+	}
+}

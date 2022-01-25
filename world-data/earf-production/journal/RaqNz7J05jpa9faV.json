@@ -1,0 +1,12 @@
+{
+	"_id": "RaqNz7J05jpa9faV",
+	"name": "Movement",
+	"content": "::: house-rule\n\n## Regarding Overland Movement\n\n- You can march (Move * 6 / 10) miles per day in good conditions. If on foot, add your Stamina modifier in miles.\n- You can travel an additional 50% of that distance with a forced march of 12 hours. Each day of forced march performed after the first inflicts [[/r 1d6]] damage on the characters, and also inflicts this damage on animals from the first day. An animal that suffers 5 or 6 points of damage in this manner dies at the end of a day’s journey.\n\n### Terrain and Weather Effects on Movement\n\n| Terrain | Modifier |\n|--|--|\n| Jungle, Mountains, Swamp | × ⅓ |\n| Desert, Forest, Hills | × ½ |\n| Clear, Plains, Trail | × ⅔ |\n| Road | × 1 |\n\n| Weather | Modifier |\n|--|--|\n| High Winds or Precipitation |  × ½ |\n| Storm Conditions  | × ⅓ |\n\n:::",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

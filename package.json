@@ -56,6 +56,10 @@
     },
     "dependencies": {
         "glob": "^7.2.0",
-        "jsonlines-processor": "^0.6.1"
+        "jsonlines-processor": "^0.6.1",
+        "mkdirp": "^1.0.4",
+        "ndjson": "^2.0.0",
+        "ndjson-fe": "^1.2.10",
+        "quicktype": "^15.0.260"
     }
 }

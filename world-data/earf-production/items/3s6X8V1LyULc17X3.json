@@ -1,0 +1,42 @@
+{
+	"_id": "3s6X8V1LyULc17X3",
+	"name": "Felan's Armor",
+	"type": "armor",
+	"img": "icons/commodities/leather/fur-white.webp",
+	"data": {
+		"description": {
+			"value": "- Armor to strike fear in many!\n- made of basilisk and polar worm hide\n- previously worn by the long-dead Chaos Lord Felan!",
+			"chat": "",
+			"unidentified": "",
+			"summary": "Basilisk leather and polar worm fur!"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 20,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"acBonus": 4,
+		"checkPenalty": -4,
+		"speed": "-0'",
+		"fumbleDie": "1d8"
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 400000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "- Subject to the @JournalEntry[Curse of Storm and Hate]."
+		}
+	}
+}

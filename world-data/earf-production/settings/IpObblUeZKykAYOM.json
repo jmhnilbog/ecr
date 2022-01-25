@@ -1,0 +1,5 @@
+{
+	"key": "foundryvtt-simple-calendar.moon-configuration",
+	"value": "[{\"id\":\"84ec676a\",\"name\":\"Moon\",\"cycleLength\":29.53059,\"firstNewMoon\":{\"yearReset\":\"none\",\"yearX\":0,\"year\":2000,\"month\":1,\"day\":6},\"phases\":[{\"name\":\"New Moon\",\"length\":1,\"icon\":\"new\",\"singleDay\":true},{\"name\":\"Waxing Crescent\",\"length\":6.3826,\"icon\":\"waxing-crescent\",\"singleDay\":false},{\"name\":\"First Quarter\",\"length\":1,\"icon\":\"first-quarter\",\"singleDay\":true},{\"name\":\"Waxing Gibbous\",\"length\":6.3826,\"icon\":\"waxing-gibbous\",\"singleDay\":false},{\"name\":\"Full Moon\",\"length\":1,\"icon\":\"full\",\"singleDay\":true},{\"name\":\"Waning Gibbous\",\"length\":6.3826,\"icon\":\"waning-gibbous\",\"singleDay\":false},{\"name\":\"Last Quarter\",\"length\":1,\"icon\":\"last-quarter\",\"singleDay\":true},{\"name\":\"Waning Crescent\",\"length\":6.3826,\"icon\":\"waning-crescent\",\"singleDay\":false}],\"color\":\"#ffffff\",\"cycleDayAdjust\":0.5}]",
+	"_id": "IpObblUeZKykAYOM"
+}

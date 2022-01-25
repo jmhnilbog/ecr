@@ -1,0 +1,25 @@
+{
+	"_id": "ibjwAhu054XPAFcx",
+	"type": 5,
+	"user": "oVvfrcHQErm1ON0p",
+	"timestamp": 1642737401382,
+	"flavor": "Draws a result from the The Ruined Keep: Random Encounter Check table.",
+	"content": "<div class=\"table-draw\" data-table-id=\"FhuhzcREbg7gTT1k\">\n    <div class=\"table-description\">Check for random encounters in the Ruined Keep.</div>\n    \n    <ol class=\"table-results\">\n        <li class=\"table-result flexrow\" data-result-id=\"GL6REO5HDT4KddMh\">\n            <img class=\"result-image\" src=\"icons/svg/d20-black.svg\" />\n            <div class=\"result-text\">Nothing seems to happen.</div>\n        </li>\n    </ol>\n</div>",
+	"speaker": {
+		"scene": null,
+		"actor": null,
+		"token": null,
+		"alias": "Gamemaster"
+	},
+	"whisper": [],
+	"blind": false,
+	"roll": "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}",
+	"sound": "sounds/dice.wav",
+	"emote": false,
+	"flags": {
+		"core": {
+			"RollTable": "FhuhzcREbg7gTT1k",
+			"canPopout": true
+		}
+	}
+}
