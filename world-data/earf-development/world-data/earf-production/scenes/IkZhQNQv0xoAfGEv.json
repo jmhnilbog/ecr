@@ -1,0 +1,8428 @@
+{
+	"_id": "IkZhQNQv0xoAfGEv",
+	"name": "The Ruined Keep",
+	"active": false,
+	"navigation": true,
+	"navOrder": -200000,
+	"navName": "The Ruined Keep",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/maps/the-ruined-keep.webp",
+	"foreground": null,
+	"thumb": "worlds/earf-alpha/scenes/thumbs/IkZhQNQv0xoAfGEv.png",
+	"width": 2657,
+	"height": 4128,
+	"padding": 0.05,
+	"initial": {
+		"x": 1801,
+		"y": 2195,
+		"scale": 0.27
+	},
+	"backgroundColor": "#ffaf24",
+	"gridType": 1,
+	"grid": 57,
+	"shiftX": 8,
+	"shiftY": 34,
+	"gridColor": "#000000",
+	"gridAlpha": 0,
+	"gridDistance": 5,
+	"gridUnits": "ft",
+	"tokenVision": true,
+	"fogExploration": false,
+	"fogReset": 1639590606993,
+	"globalLight": true,
+	"globalLightThreshold": null,
+	"darkness": 1,
+	"drawings": [],
+	"tokens": [
+		{
+			"_id": "U9cQugG7Xdr3d8Gb",
+			"name": "Torch-Sized Universal Flame",
+			"displayName": 0,
+			"actorId": "FTz7f4oKXgFGgbbz",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 878.7386516283266,
+			"y": 2776.0035628979426,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Torch-Sized Universal Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "U9cQugG7Xdr3d8Gb",
+						"xy": {
+							"x": 878.7386516283266,
+							"y": 2776.0035628979426
+						},
+						"center": {
+							"x": 907.2386516283266,
+							"y": 2804.5035628979426
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"DFwc9sJ2VXB6KJAA"
+						],
+						"Tile": [
+							"aDMIH2ryMaTx6pjo"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "K005GWxv9OjgMcfb",
+			"name": "Torch-Sized Universal Flame",
+			"displayName": 0,
+			"actorId": "FTz7f4oKXgFGgbbz",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 2,
+							"max": 2
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 629.6263232386164,
+			"y": 2777.413881887344,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Torch-Sized Universal Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "K005GWxv9OjgMcfb",
+						"xy": {
+							"x": 629.6263232386164,
+							"y": 2777.413881887344
+						},
+						"center": {
+							"x": 658.1263232386164,
+							"y": 2805.913881887344
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"XVyYet4O8zZFGmM2"
+						],
+						"Tile": [
+							"4qyXCDvHrRkKVAms"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "Debu9JVpvyODWJKS",
+			"name": "Torch-Sized Universal Flame",
+			"displayName": 0,
+			"actorId": "FTz7f4oKXgFGgbbz",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1185.564014605224,
+			"y": 2766.609352505068,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Torch-Sized Universal Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "Debu9JVpvyODWJKS",
+						"xy": {
+							"x": 1185.564014605224,
+							"y": 2766.609352505068
+						},
+						"center": {
+							"x": 1214.064014605224,
+							"y": 2795.109352505068
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"Fv6kVBVVk3qAODfN"
+						],
+						"Tile": [
+							"wITTMV58hrsGnqap"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "87nmicQRWlFLpDOu",
+			"name": "Torch-Sized Universal Flame",
+			"displayName": 0,
+			"actorId": "FTz7f4oKXgFGgbbz",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1453.7800283194358,
+			"y": 2759.9281889597237,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Torch-Sized Universal Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "87nmicQRWlFLpDOu",
+						"xy": {
+							"x": 1453.7800283194358,
+							"y": 2759.9281889597237
+						},
+						"center": {
+							"x": 1482.2800283194358,
+							"y": 2788.4281889597237
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"njHCRODnmCIpvOJL"
+						],
+						"Tile": [
+							"rvjjtqxaNLcw5TfW"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "rmAx1Am3GcIhTmps",
+			"name": "Torch-Sized Universal Flame",
+			"displayName": 0,
+			"actorId": "FTz7f4oKXgFGgbbz",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 6,
+							"max": 6
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 449.32060647250523,
+			"y": 2636.699240287211,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Torch-Sized Universal Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "rmAx1Am3GcIhTmps",
+						"xy": {
+							"x": 449.32060647250523,
+							"y": 2636.699240287211
+						},
+						"center": {
+							"x": 477.82060647250523,
+							"y": 2665.199240287211
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"VsZ33z8u5i3vGlYS"
+						],
+						"Tile": [
+							"BLaSjn2sH7FRyztb"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "O025EddIpUC5raJ8",
+			"name": "Keary",
+			"displayName": 20,
+			"actorId": "5bmlHKmGzxIcGRZp",
+			"actorLink": false,
+			"actorData": {
+				"name": "Keary",
+				"itemUpdates": {
+					"puz9h9sp2808upmw": {
+						"name": "vine",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d4",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/vine-horrors/common/humanoid-restrained.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1254,
+			"y": 3534,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "O025EddIpUC5raJ8",
+						"xy": {
+							"x": 1254,
+							"y": 3534
+						},
+						"center": {
+							"x": 1282.5,
+							"y": 3562.5
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/vine-horrors/common/humanoid-restrained.webp"
+		},
+		{
+			"_id": "OFDcx5YwyAQdRCkO",
+			"name": "Alban",
+			"displayName": 20,
+			"actorId": "5bmlHKmGzxIcGRZp",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				},
+				"itemUpdates": {
+					"puz9h9sp2808upmw": {
+						"name": "vine",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d4",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				},
+				"name": "Alban"
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/vine-horrors/common/humanoid-restrained.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1332.1021795411498,
+			"y": 3517.9239279218973,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "OFDcx5YwyAQdRCkO",
+						"xy": {
+							"x": 1332.1021795411498,
+							"y": 3517.9239279218973
+						},
+						"center": {
+							"x": 1360.6021795411498,
+							"y": 3546.4239279218973
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/vine-horrors/common/humanoid-restrained.webp"
+		},
+		{
+			"_id": "1b7PYXNWcDkAXuY1",
+			"name": "Champion",
+			"displayName": 30,
+			"actorId": "cMHK1DGWgwzAPHyx",
+			"actorLink": false,
+			"actorData": {
+				"itemUpdates": {
+					"gpnCqtrI765ghGos": {
+						"name": "handaxe",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d6+2",
+							"description": {
+								"summary": ""
+							}
+						}
+					},
+					"e1d4o06ng5glpxeb": {
+						"name": "handaxe",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d3",
+							"range": ""
+						}
+					},
+					"a20ii4av55ae5a3c": {
+						"name": "Handaxe",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d6+2",
+							"description": {
+								"summary": ""
+							}
+						}
+					},
+					"lsn51lrncweutumk": {
+						"name": "Handaxe",
+						"data": {
+							"toHit": "+2",
+							"damage": "1d6+2",
+							"range": "10/20/30"
+						}
+					}
+				},
+				"data": {
+					"details": {
+						"notes": {
+							"value": "Beastman Champion: Init +1; Atk axe +2 melee (1d6+2); AC 12; HD 2d8; hp 8; MV 30’; Act 1d20; SV Fort +2, Ref +1, Will -1; AL C.\n\nMore info at @JournalEntry[Beastmen]."
+						}
+					}
+				},
+				"items": [
+					{
+						"_id": "dvdaWxF3adzmrfNN",
+						"name": "Silver Torc with Skulls",
+						"type": "treasure",
+						"img": "icons/equipment/neck/choker-simple-carved-stone.webp",
+						"data": {
+							"description": {
+								"value": "A large silver torc hung with bleached skulls. Each skull  is  branded  with  a  chaos  rune.  By  virtue of the craftsmanship and precious metal, the torc is worth 100 gp.",
+								"chat": "",
+								"unidentified": "",
+								"summary": ""
+							},
+							"source": "",
+							"value": {
+								"pp": "0",
+								"ep": "0",
+								"gp": "100",
+								"sp": "0",
+								"cp": "0"
+							},
+							"isCoins": false,
+							"weight": null
+						},
+						"effects": [],
+						"folder": null,
+						"sort": 0,
+						"permission": {
+							"default": 0,
+							"2O2Bl1dRg3oSt8Kc": 3,
+							"C3mdR4yXO0ayyVJB": 3
+						},
+						"flags": {
+							"journal-links": {
+								"references": {}
+							},
+							"gm-notes": {
+								"notes": "**When donned by a chaotic or evil wizard**, the torc  grants  a  +1  bonus  to  all  spell  checks.  \n\n**Destroying  the  torc**  grants lawful aligned PCs a bonus of +1 XP, while earning them the notice (and perhaps enmity) of the gods of Chaos."
+							},
+							"core": {
+								"sourceId": "Compendium.ecr.sotss-items.Cgo7OLc5aTblxISf"
+							}
+						}
+					},
+					{
+						"_id": "lsn51lrncweutumk",
+						"name": "Handaxe",
+						"type": "weapon",
+						"img": "modules/dcc-core-book/assets/svg/game-icons-net/wood-axe.svg",
+						"data": {
+							"description": {
+								"value": "",
+								"chat": "",
+								"unidentified": "",
+								"summary": ""
+							},
+							"source": "",
+							"quantity": 1,
+							"weight": 0,
+							"equipped": false,
+							"identified": true,
+							"value": {
+								"pp": 0,
+								"ep": 0,
+								"gp": 4,
+								"sp": 0,
+								"cp": 0
+							},
+							"config": {
+								"inheritActionDie": true,
+								"inheritCritRange": true
+							},
+							"actionDie": "",
+							"toHit": "+2",
+							"damage": "1d6+2",
+							"range": "10/20/30",
+							"twoHanded": false,
+							"melee": false,
+							"shortRangeStrength": true,
+							"subdual": false,
+							"backstab": false,
+							"backstabDamage": null,
+							"doubleIfMounted": false,
+							"critRange": 20
+						},
+						"effects": [],
+						"folder": null,
+						"sort": 0,
+						"permission": {
+							"oVvfrcHQErm1ON0p": 3
+						},
+						"flags": {
+							"core": {
+								"sourceId": "Item.TDZtxjfiMwyZCSpi"
+							}
+						}
+					},
+					{
+						"_id": "a20ii4av55ae5a3c",
+						"name": "Handaxe",
+						"type": "weapon",
+						"img": "modules/dcc-core-book/assets/svg/game-icons-net/wood-axe.svg",
+						"data": {
+							"description": {
+								"value": "",
+								"chat": "",
+								"unidentified": "",
+								"summary": ""
+							},
+							"source": "",
+							"quantity": 1,
+							"weight": 0,
+							"equipped": false,
+							"identified": true,
+							"value": {
+								"pp": 0,
+								"ep": 0,
+								"gp": 4,
+								"sp": 0,
+								"cp": 0
+							},
+							"config": {
+								"inheritActionDie": true,
+								"inheritCritRange": true
+							},
+							"actionDie": "",
+							"toHit": "+2",
+							"damage": "1d6+2",
+							"range": "10/20/30",
+							"twoHanded": false,
+							"melee": true,
+							"shortRangeStrength": true,
+							"subdual": false,
+							"backstab": false,
+							"backstabDamage": null,
+							"doubleIfMounted": false,
+							"critRange": 20
+						},
+						"effects": [],
+						"folder": null,
+						"sort": 0,
+						"permission": {
+							"oVvfrcHQErm1ON0p": 3
+						},
+						"flags": {
+							"core": {
+								"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.Dhzt7hORaFq9wkmg"
+							}
+						}
+					}
+				]
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastmen/champion/humanoid-bull.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1.2,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2105,
+			"y": 2598,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Beastman Champion"
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": "#e51f1f"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "1b7PYXNWcDkAXuY1",
+						"xy": {
+							"x": 2105,
+							"y": 2598
+						},
+						"center": {
+							"x": 2133.5,
+							"y": 2626.5
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "WRpSBulyMR9v1VWO",
+			"name": "Roach-faced Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-insect.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2247,
+			"y": 2776,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "WRpSBulyMR9v1VWO",
+						"xy": {
+							"x": 2247,
+							"y": 2776
+						},
+						"center": {
+							"x": 2275.5,
+							"y": 2804.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-insect.webp"
+		},
+		{
+			"_id": "BTjPBP2lJIz9uuXb",
+			"name": "Lobster Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 7,
+							"max": 7
+						}
+					}
+				},
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-swollen.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2376,
+			"y": 2793,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "BTjPBP2lJIz9uuXb",
+						"xy": {
+							"x": 2376,
+							"y": 2793
+						},
+						"center": {
+							"x": 2404.5,
+							"y": 2821.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-swollen.webp"
+		},
+		{
+			"_id": "PTBKjYYJ8WWimbUl",
+			"name": "Doggy Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-rhino.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2318,
+			"y": 2774,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "PTBKjYYJ8WWimbUl",
+						"xy": {
+							"x": 2318,
+							"y": 2774
+						},
+						"center": {
+							"x": 2346.5,
+							"y": 2802.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-rhino.webp"
+		},
+		{
+			"_id": "5g7616CD7tnJ3b9Q",
+			"name": "Simian Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 7,
+							"max": 7
+						}
+					}
+				},
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-gorilla.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2431,
+			"y": 2743,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "5g7616CD7tnJ3b9Q",
+						"xy": {
+							"x": 2431,
+							"y": 2743
+						},
+						"center": {
+							"x": 2459.5,
+							"y": 2771.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-gorilla.webp"
+		},
+		{
+			"_id": "svMh6MEfterRFScB",
+			"name": "Greasy Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-swollen.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2397,
+			"y": 2669,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "svMh6MEfterRFScB",
+						"xy": {
+							"x": 2397,
+							"y": 2669
+						},
+						"center": {
+							"x": 2425.5,
+							"y": 2697.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-swollen.webp"
+		},
+		{
+			"_id": "XCzqdoRHsw3dl6Cf",
+			"name": "Swollen Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 1,
+							"max": 1
+						}
+					}
+				},
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-elephant.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2186,
+			"y": 2744,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "XCzqdoRHsw3dl6Cf",
+						"xy": {
+							"x": 2186,
+							"y": 2744
+						},
+						"center": {
+							"x": 2214.5,
+							"y": 2772.5
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-elephant.webp"
+		},
+		{
+			"_id": "H3FmZkQlKucr68Pa",
+			"name": "Tar Ooze",
+			"displayName": 0,
+			"actorId": "Ka9XBKR0HEwWkMct",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 8,
+							"max": 8
+						},
+						"init": {
+							"value": null
+						}
+					}
+				},
+				"itemUpdates": {
+					"lvjntk1zzjpgs53u": {
+						"name": "pseudopod",
+						"data": {
+							"toHit": "+4",
+							"damage": "1d4",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/tar-ooze.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2090.1378074468566,
+			"y": 1965.8996312341026,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "H3FmZkQlKucr68Pa",
+						"xy": {
+							"x": 2090.1378074468566,
+							"y": 1965.8996312341026
+						},
+						"center": {
+							"x": 2118.6378074468566,
+							"y": 1994.3996312341026
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": false
+				}
+			}
+		},
+		{
+			"_id": "CSXKEq97gOYg5EAT",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {},
+			"img": "moulinette/images/gameicons/fanged-skull-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2063.4898217962696,
+			"y": 2076.33812530281,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 23,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "CSXKEq97gOYg5EAT",
+						"xy": {
+							"x": 2063.4898217962696,
+							"y": 2076.33812530281
+						},
+						"center": {
+							"x": 2091.9898217962696,
+							"y": 2104.83812530281
+						},
+						"rotation": 23,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "cwiDvnwc8xJun0Ls",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 2,
+							"max": 2
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/skeletal-hand-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1938,
+			"y": 2109,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 348,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "cwiDvnwc8xJun0Ls",
+						"xy": {
+							"x": 1938,
+							"y": 2109
+						},
+						"center": {
+							"x": 1966.5,
+							"y": 2137.5
+						},
+						"rotation": 348,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "E3vE7GluQsyIY0Jv",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 6,
+							"max": 6
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/skeleton-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1995,
+			"y": 2166,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 21,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "E3vE7GluQsyIY0Jv",
+						"xy": {
+							"x": 1995,
+							"y": 2166
+						},
+						"center": {
+							"x": 2023.5,
+							"y": 2194.5
+						},
+						"rotation": 21,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "2d2fDVGrYcDJ3W5V",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 6,
+							"max": 6
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/skeleton-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1938,
+			"y": 1881,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 54,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "E3vE7GluQsyIY0Jv",
+						"xy": {
+							"x": 1938,
+							"y": 1881
+						},
+						"center": {
+							"x": 1966.5,
+							"y": 1909.5
+						},
+						"rotation": 54,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "Uzgw4Wy4QybZxAsc",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {},
+			"img": "moulinette/images/gameicons/fanged-skull-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2052,
+			"y": 2166,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 23,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "CSXKEq97gOYg5EAT",
+						"xy": {
+							"x": 2052,
+							"y": 2166
+						},
+						"center": {
+							"x": 2080.5,
+							"y": 2194.5
+						},
+						"rotation": 23,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "WbApN18ZjrN0ftet",
+			"name": "Charred Bones",
+			"displayName": 30,
+			"actorId": "fasTJNaw9bURePRY",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/skeletal-hand-%23700000-transparent.svg",
+			"tint": "#1c0202",
+			"width": 1,
+			"height": 1,
+			"scale": 0.8,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1995,
+			"y": 1995,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 317,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "WbApN18ZjrN0ftet",
+						"xy": {
+							"x": 1995,
+							"y": 1995
+						},
+						"center": {
+							"x": 2023.5,
+							"y": 2023.5
+						},
+						"rotation": 317,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "6I0tCDnq65NWbJs1",
+			"name": "Jawless Freak",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 6,
+							"max": 6
+						}
+					}
+				},
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-insect.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 855,
+			"y": 2679,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"df-qol": {
+					"locked": false
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "6I0tCDnq65NWbJs1",
+						"xy": {
+							"x": 855,
+							"y": 2679
+						},
+						"center": {
+							"x": 883.5,
+							"y": 2707.5
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-humanoid-insect.webp"
+		},
+		{
+			"_id": "A0Zjbf8DllNgBh0w",
+			"name": "Leathery Beastman",
+			"displayName": 30,
+			"actorId": "vUwktKEPBtR8mdPE",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				},
+				"itemUpdates": {
+					"xZaVgFzzudbWuK4R": {
+						"name": "spear",
+						"data": {
+							"toHit": "+0",
+							"damage": "1d6",
+							"description": {
+								"summary": ""
+							}
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-rhino.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 912,
+			"y": 2736,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": true,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": "#c01b1b"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "A0Zjbf8DllNgBh0w",
+						"xy": {
+							"x": 912,
+							"y": 2736
+						},
+						"center": {
+							"x": 940.5,
+							"y": 2764.5
+						},
+						"rotation": 0,
+						"hidden": true,
+						"elevation": 0
+					}
+				}
+			},
+			"alternateImages": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/beastman-common-quadrupedal-rhino.webp"
+		}
+	],
+	"lights": [
+		{
+			"_id": "4akNy4OtlKgwxQhL",
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"x": 2238.421219675164,
+			"y": 1106.9065005653783,
+			"hidden": false,
+			"rotation": 0,
+			"dim": 50,
+			"bright": 40,
+			"angle": 0,
+			"darknessThreshold": 0,
+			"tintColor": "#b03db7",
+			"tintAlpha": 0.64,
+			"lightAnimation": {
+				"type": "fog",
+				"speed": 2,
+				"intensity": 7,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0.5,
+				"max": 1
+			},
+			"config": {
+				"dim": 60,
+				"bright": 40,
+				"angle": 0,
+				"color": "#b03db7",
+				"alpha": 0.15,
+				"animation": {
+					"type": "fog",
+					"speed": 1,
+					"intensity": 9,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"coloration": 2,
+				"gradual": true,
+				"luminosity": 0.1,
+				"saturation": -0.6,
+				"contrast": 0.55,
+				"shadows": 0.8
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "BDk4rFvhbHYrlmSC",
+			"x": 912,
+			"y": 1568,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0,
+				"angle": 0,
+				"bright": 9,
+				"coloration": 1,
+				"dim": 10,
+				"gradual": true,
+				"luminosity": 0.25,
+				"saturation": 0.15,
+				"contrast": 0.15,
+				"shadows": 0.6,
+				"animation": {
+					"speed": 2,
+					"intensity": 1,
+					"reverse": true,
+					"type": "witchwave"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#423a37"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "DFwc9sJ2VXB6KJAA",
+			"x": 908.7386516283266,
+			"y": 2825.0035628979426,
+			"rotation": 180,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#FFF70F"
+			},
+			"hidden": false,
+			"flags": {
+				"token-attacher": {
+					"parent": "U9cQugG7Xdr3d8Gb",
+					"offset": {
+						"x": 1.5,
+						"y": 20.5,
+						"rot": 180,
+						"centerX": 1.5,
+						"centerY": 20.5,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 15
+							},
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "XVyYet4O8zZFGmM2",
+			"x": 659.6263232386164,
+			"y": 2826.413881887344,
+			"rotation": 180,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#FFF70F"
+			},
+			"hidden": false,
+			"flags": {
+				"token-attacher": {
+					"parent": "K005GWxv9OjgMcfb",
+					"offset": {
+						"x": 1.5,
+						"y": 20.5,
+						"rot": 180,
+						"centerX": 1.5,
+						"centerY": 20.5,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 15
+							},
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Fv6kVBVVk3qAODfN",
+			"x": 1215.564014605224,
+			"y": 2815.609352505068,
+			"rotation": 180,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#FFF70F"
+			},
+			"hidden": false,
+			"flags": {
+				"token-attacher": {
+					"parent": "Debu9JVpvyODWJKS",
+					"offset": {
+						"x": 1.5,
+						"y": 20.5,
+						"rot": 180,
+						"centerX": 1.5,
+						"centerY": 20.5,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 15
+							},
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "njHCRODnmCIpvOJL",
+			"x": 1483.7800283194358,
+			"y": 2808.9281889597237,
+			"rotation": 180,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#FFF70F"
+			},
+			"hidden": false,
+			"flags": {
+				"token-attacher": {
+					"parent": "87nmicQRWlFLpDOu",
+					"offset": {
+						"x": 1.5,
+						"y": 20.5,
+						"rot": 180,
+						"centerX": 1.5,
+						"centerY": 20.5,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 15
+							},
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "VsZ33z8u5i3vGlYS",
+			"x": 479.32060647250523,
+			"y": 2685.699240287211,
+			"rotation": 180,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0.5,
+					"max": 1
+				},
+				"color": "#FFF70F"
+			},
+			"hidden": false,
+			"flags": {
+				"token-attacher": {
+					"parent": "rmAx1Am3GcIhTmps",
+					"offset": {
+						"x": 1.5,
+						"y": 20.5,
+						"rot": 180,
+						"centerX": 1.5,
+						"centerY": 20.5,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 15
+							},
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "pjVvkx6g1RFwHTSt",
+			"x": 2195,
+			"y": 1995,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 8,
+				"coloration": 7,
+				"dim": 10,
+				"gradual": true,
+				"luminosity": 0.1,
+				"saturation": 0.3,
+				"contrast": 0,
+				"shadows": 0.55,
+				"animation": {
+					"speed": 8,
+					"intensity": 3,
+					"reverse": true,
+					"type": "roiling"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": "#2d0646"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "PDBtW6kyLUeaTDEm",
+			"x": 912,
+			"y": 1568,
+			"rotation": 0,
+			"walls": false,
+			"vision": false,
+			"config": {
+				"alpha": 0.35,
+				"angle": 0,
+				"bright": 10,
+				"coloration": 5,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.25,
+				"saturation": 0.55,
+				"contrast": -0.5,
+				"shadows": 0.8,
+				"animation": {
+					"speed": 2,
+					"intensity": 1,
+					"reverse": true,
+					"type": "witchwave"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 0.5
+				},
+				"color": "#0a74ff"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "KJY8eHBdqlDmBeD8",
+			"x": 2233.74658203125,
+			"y": 1104.5623747173108,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"dim": 60,
+				"bright": 40,
+				"angle": 0,
+				"color": "#b03db7",
+				"alpha": 0.5,
+				"animation": {
+					"type": "fog",
+					"speed": 7,
+					"intensity": 9,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 0.5
+				},
+				"coloration": 4,
+				"gradual": true,
+				"luminosity": 0.45,
+				"saturation": 0,
+				"contrast": 0.2,
+				"shadows": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		}
+	],
+	"notes": [
+		{
+			"_id": "UlupLl1DX1hEfXH6",
+			"flags": {},
+			"entryId": "4cLxPMPrCwlFHVfF",
+			"x": 1824,
+			"y": 4816.5,
+			"icon": "icons/svg/oak.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": null
+		},
+		{
+			"_id": "rfFuSRM3dAz5CNn5",
+			"entryId": "CtgNgj1LquVZunZ4",
+			"x": 1425,
+			"y": 3562.5,
+			"icon": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/vine-horrors/common/humanoid-restrained.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "lRy9mrVARxtqGeVI",
+			"entryId": "iVcbfVwy0FFoXGcO",
+			"x": 940.5,
+			"y": 883.5,
+			"icon": "moulinette/tiles/venatus-maps/cave-assets/Cave Props/Hole 1.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "ugwFX1B3yakI7d6O",
+			"entryId": "4LLIyQ5rcgnlG6Po",
+			"x": 741,
+			"y": 798,
+			"icon": "icons/environment/settlement/building-rubble.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "8OQIPZ49GKFe2D85",
+			"entryId": "zcRFqxcnb9VAigG8",
+			"x": 997.5,
+			"y": 1425,
+			"icon": "icons/environment/settlement/well.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "W6v7kX7OvkmERE0F",
+			"entryId": "AaoRbYv5h91q4qqz",
+			"x": 2194.5,
+			"y": 1111.5,
+			"icon": "moulinette/tiles/venatus-maps/cave-assets/Cave Props/Hole 1.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "HUpcbdVJBnq7qJef",
+			"entryId": "2z97fui5HYRzncM9",
+			"x": 2080.5,
+			"y": 1767,
+			"icon": "icons/svg/ruins.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "C16XzUHZgI9UwbhP",
+			"entryId": "AWVLpOzrHPQkTI0Q",
+			"x": 769.5,
+			"y": 1852.5,
+			"icon": "icons/commodities/stone/rock-chunk-grass-white.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "nBnZHBdSkXFfGtWT",
+			"entryId": "JWNFIBUWOr3YMEm7",
+			"x": 655.5,
+			"y": 2622,
+			"icon": "other/dnd5e-icons/items/inventory/bell_silver.jpg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "KB2jB1NUXNMXK06e",
+			"entryId": "fsyHfDx6u8guO6Nz",
+			"x": 1225.5,
+			"y": 598.5,
+			"icon": "icons/environment/settlement/city-wall.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		}
+	],
+	"sounds": [
+		{
+			"_id": "U0H5oIPGVCsZzIaA",
+			"x": 769.5,
+			"y": 2707.5,
+			"radius": 100,
+			"path": "https://sound-effects-media.bbcrewind.co.uk/mp3/07040013.mp3",
+			"repeat": false,
+			"volume": 0.9,
+			"walls": false,
+			"easing": true,
+			"hidden": true,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"flags": {
+				"lightmask": {
+					"rotation": 180,
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false
+				}
+			}
+		},
+		{
+			"_id": "X6SFmPtklTdnOX8f",
+			"x": 2040.214010799632,
+			"y": 1983.3658519071691,
+			"radius": 31,
+			"path": "moulinette/sounds/baileywiki/baileywiki-maps/sounds/Burning_House_T2_Fire_High_Intensity_With_Sizzling_And_Some_Debris_Re50_1.ogg",
+			"repeat": false,
+			"volume": 0.55,
+			"walls": true,
+			"easing": false,
+			"hidden": false,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"flags": {
+				"lightmask": {
+					"rotation": 180,
+					"shape": "circle",
+					"customWallIDs": "aguDsWlNRh2QXGu9,LkqQeUNjbsp77gh8,tIsHso7AofOkxkeX,3zuFvIfg0cjbTXKI,v7YAKfVmSmyhXWaI,wDoHYQYiSzRCKdLx",
+					"relative": false,
+					"customEdges": [
+						{
+							"c": [
+								2223,
+								1681,
+								1852,
+								1695
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "aguDsWlNRh2QXGu9"
+						},
+						{
+							"c": [
+								1852,
+								1695,
+								1852,
+								1937
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "LkqQeUNjbsp77gh8"
+						},
+						{
+							"c": [
+								1852,
+								1937,
+								1852,
+								2066
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "tIsHso7AofOkxkeX"
+						},
+						{
+							"c": [
+								1852,
+								2066,
+								1852,
+								2279
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "3zuFvIfg0cjbTXKI"
+						},
+						{
+							"c": [
+								2208,
+								2279,
+								2223,
+								1681
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "v7YAKfVmSmyhXWaI"
+						},
+						{
+							"c": [
+								1852,
+								2279,
+								2208,
+								2279
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 20,
+							"sound": 20,
+							"id": "wDoHYQYiSzRCKdLx"
+						}
+					]
+				}
+			}
+		}
+	],
+	"templates": [],
+	"tiles": [
+		{
+			"_id": "aDMIH2ryMaTx6pjo",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 35.7,
+			"height": 38.4,
+			"x": 882.1386516283267,
+			"y": 2813.9035628979427,
+			"z": 3,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "U9cQugG7Xdr3d8Gb",
+					"offset": {
+						"x": -25.09999999999991,
+						"y": 9.400000000000091,
+						"rot": 0,
+						"centerX": -7.27115514793627,
+						"centerY": 28.609296265358353,
+						"offRot": -180,
+						"size": {
+							"width": 35.65768970412707,
+							"height": 38.418592530716445,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "4qyXCDvHrRkKVAms",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 35.7,
+			"height": 38.4,
+			"x": 633.0263232386164,
+			"y": 2815.313881887344,
+			"z": 4,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "K005GWxv9OjgMcfb",
+					"offset": {
+						"x": -25.09999999999991,
+						"y": 9.400000000000091,
+						"rot": 0,
+						"centerX": -7.271155147936383,
+						"centerY": 28.609296265358353,
+						"offRot": -180,
+						"size": {
+							"width": 35.65768970412707,
+							"height": 38.418592530716445,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "wITTMV58hrsGnqap",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 35.7,
+			"height": 38.4,
+			"x": 1188.9640146052243,
+			"y": 2804.509352505068,
+			"z": 5,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "Debu9JVpvyODWJKS",
+					"offset": {
+						"x": -25.09999999999991,
+						"y": 9.400000000000091,
+						"rot": 0,
+						"centerX": -7.271155147936383,
+						"centerY": 28.609296265358353,
+						"offRot": -180,
+						"size": {
+							"width": 35.65768970412707,
+							"height": 38.418592530716445,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "rvjjtqxaNLcw5TfW",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 35.7,
+			"height": 38.4,
+			"x": 1457.1800283194361,
+			"y": 2797.828188959724,
+			"z": 6,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "87nmicQRWlFLpDOu",
+					"offset": {
+						"x": -25.09999999999991,
+						"y": 9.400000000000091,
+						"rot": 0,
+						"centerX": -7.271155147936383,
+						"centerY": 28.609296265358353,
+						"offRot": -180,
+						"size": {
+							"width": 35.65768970412707,
+							"height": 38.418592530716445,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "BLaSjn2sH7FRyztb",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 35.7,
+			"height": 38.4,
+			"x": 452.7206064725053,
+			"y": 2674.599240287211,
+			"z": 7,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "rmAx1Am3GcIhTmps",
+					"offset": {
+						"x": -25.09999999999991,
+						"y": 9.400000000000091,
+						"rot": 0,
+						"centerX": -7.271155147936383,
+						"centerY": 28.609296265358353,
+						"offRot": -180,
+						"size": {
+							"width": 35.65768970412707,
+							"height": 38.418592530716445,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "YDPVdTLVPQlnxh6e",
+			"img": "moulinette/tiles/venatus-maps/cave-assets/Cave Props/Hole 1.webp",
+			"width": 108,
+			"height": 112,
+			"x": 883.5,
+			"y": 826.5,
+			"z": 7,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": true,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"monks-active-tiles": {
+					"active": false,
+					"restriction": "all",
+					"controlled": "gm",
+					"trigger": "manual",
+					"pertoken": false,
+					"minrequired": 0,
+					"chance": 50,
+					"actions": []
+				}
+			},
+			"tint": null
+		}
+	],
+	"walls": [
+		{
+			"_id": "tVwcrVa2AIIQBK0y",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2109,
+				627,
+				2365,
+				598
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "VrlAbCrwU2lVComS",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2365,
+				598,
+				2536,
+				741
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "4Jz2qiRHS8YM3Ak1",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2536,
+				741,
+				2664,
+				726
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "WTLDyLJ40FdUn3bG",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2664,
+				726,
+				2736,
+				1083
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "7L3Q8i7CHqhoB6oP",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2736,
+				1082,
+				2422,
+				1524
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "tB2AxzfMb0hRrgUA",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2351,
+				1567,
+				2337,
+				1624
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "mjRKgFYHz1DnzXda",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2337,
+				1624,
+				2265,
+				1567
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "KPeXIsqo5W5UwYzu",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1866,
+				641,
+				2023,
+				541
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "69uA3hqujn1bt7sb",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2023,
+				541,
+				2037,
+				683
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "1eGTi3FdUtY9se8Z",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2037,
+				683,
+				2109,
+				627
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "CNjQPgKNQAgrKIVd",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1866,
+				712,
+				1866,
+				641
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "YBsOVrCm5V3L2hiC",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1866,
+				712,
+				1182,
+				712
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "lMsrj6htEcTEZuJ6",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1182,
+				712,
+				1097,
+				840
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "W7ap8uabpcM6MbCt",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1097,
+				840,
+				926,
+				684
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "MI0R6ZuDUZclqlVA",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				926,
+				684,
+				1068,
+				512
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "1rUU7OWkgE4ZxFcA",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1068,
+				512,
+				1296,
+				527
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "IkDT8psGHZhwHYCW",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1296,
+				527,
+				1410,
+				641
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "zPFl32VsWYCtk3As",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1410,
+				641,
+				1596,
+				669
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "wXtkonRdX26tGfd5",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1596,
+				669,
+				1710,
+				598
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "8A7Shh7pMQzsLw7J",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1710,
+				598,
+				1724,
+				512
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "sVf2pswIbigRphZB",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1724,
+				512,
+				2037,
+				512
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "gwbIBfhQzJkIPoB4",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2037,
+				512,
+				2137,
+				384
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ohq7WY90lWBcVxl2",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2137,
+				384,
+				2351,
+				313
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "5XHeb7zZzwhTdd4v",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2351,
+				313,
+				2508,
+				384
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "OLMCjsXOb0zY0Dtt",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2508,
+				384,
+				2622,
+				584
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "CvzSWfd45bBw4Fpl",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2622,
+				584,
+				2622,
+				698
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "KH1Jj4RmYpRxZlN5",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2622,
+				698,
+				2664,
+				726
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "LTr50DtwMBHw14a9",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				470,
+				1325,
+				584,
+				1140
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "hgqPMNKebaUFVMyp",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				584,
+				1140,
+				598,
+				1353
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "IBXwpcikFwfOCoIP",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				598,
+				1353,
+				655,
+				1396
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uAWwRmqkyX05L0kL",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				1396,
+				655,
+				1538
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "nc3D7rfuCM8QuJR2",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				1538,
+				527,
+				1638
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Xo0xcujQTDT7iUUC",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				527,
+				1638,
+				513,
+				1766
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "vVOrhnL9d4FquB5d",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				513,
+				1766,
+				555,
+				1823
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "XzeR8EwIOrorXIfQ",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				555,
+				1823,
+				655,
+				1781
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qyWCckMrs0WJrplO",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				1781,
+				669,
+				2066
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "1RD0eaSnoGsbSiqU",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				669,
+				2066,
+				584,
+				2151
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Ut0sHqQpl4p9edWR",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				584,
+				2151,
+				584,
+				2336
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ErkveWk2JkjvPBlD",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				584,
+				2336,
+				669,
+				2408
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "85mG9uAwlj0k37es",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				669,
+				2408,
+				669,
+				2664
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "RW19RsoMQs3VEnvC",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				669,
+				2664,
+				641,
+				2664
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "psN1DJzyBBy6YKZ2",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				641,
+				2664,
+				627,
+				2422
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "UCrfTueKZpsOWpvo",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				627,
+				2422,
+				498,
+				2351
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Vp4DhWNCjC0CiJyw",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				498,
+				2351,
+				484,
+				2137
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "HBPoBjCDYtBc59Zg",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				484,
+				2137,
+				527,
+				2051
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "f74tAncngnEvH4Ve",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				527,
+				2051,
+				470,
+				1952
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "q3O7LmDPCIf21026",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				498,
+				2351,
+				484,
+				2721
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "686R5wK3UXqq9OlW",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				484,
+				2721,
+				370,
+				2721
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "PQTv5b7UoaYGBHAK",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				370,
+				2721,
+				356,
+				2949
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "I2hvbM3mD8imCZDe",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				356,
+				2949,
+				641,
+				2963
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "U5rOeN80F7cbcVP7",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				641,
+				2963,
+				655,
+				2821
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "0ix5z4BtIfUI448i",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				2821,
+				655,
+				2992
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "RBBtjEez46TLL6j6",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				2992,
+				342,
+				2992
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "t5SQAY3T74DWwpBr",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				342,
+				2992,
+				342,
+				2707
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "PH7EkniXOqH5uB8i",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				342,
+				2707,
+				470,
+				2678
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "fXohaxTXhsnbo8r0",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				470,
+				2678,
+				456,
+				2422
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "YAY0Y4hNGUPEeT1u",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				456,
+				2422,
+				498,
+				2351
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "9rLS67HEM6TcR14s",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				869,
+				2821,
+				869,
+				2978
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "QnejBxCUTta8oMIX",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				869,
+				2978,
+				1197,
+				2963
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uDHu890rW4NgKROo",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1197,
+				2963,
+				1197,
+				2835
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "8ll94Jmht4NqM6T5",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1197,
+				2835,
+				2052,
+				2849
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "5pPqeZnh04PSj0VW",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2422,
+				2465,
+				2422,
+				1524
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "OgkWf3QUz0H3lltp",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2422,
+				1524,
+				2351,
+				1567
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "YiFSlYUjQZsBcZAB",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2351,
+				1567,
+				2337,
+				1624
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "KJ9IHptISe2tZsJV",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2337,
+				1624,
+				2265,
+				1567
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "P3gEzvhZVRwNqHte",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2265,
+				1567,
+				2223,
+				1610
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "L3pTcWria1ubmcRN",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2223,
+				1681,
+				2223,
+				1610
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "aguDsWlNRh2QXGu9",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2223,
+				1681,
+				1852,
+				1695
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "wDoHYQYiSzRCKdLx",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1852,
+				2279,
+				2208,
+				2279
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "v7YAKfVmSmyhXWaI",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2208,
+				2279,
+				2223,
+				1681
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "7dco6ha1PZPPbsyZ",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2066,
+				2650,
+				2109,
+				2593
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "514TLO5S64igc9uE",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2265,
+				2479,
+				2208,
+				2508
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qVUzcALDg88Szb8o",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2066,
+				2650,
+				869,
+				2650
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qdnvO1fcjgh6F7LL",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				869,
+				2650,
+				855,
+				2736
+			],
+			"move": 0,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "MJnqv3sfLBsQSSSO",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				655,
+				2821,
+				662.0144856671033,
+				2742.337553590342
+			],
+			"move": 0,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "7Hw7OxdGfMTz1gAH",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2123,
+				2579,
+				2194,
+				2522
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "aGB7AmzfM3Yj8T49",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				2265,
+				2479,
+				2422,
+				2465
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "3zuFvIfg0cjbTXKI",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1852,
+				2066,
+				1852,
+				2279
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "LkqQeUNjbsp77gh8",
+			"flags": {
+				"smartdoors": {}
+			},
+			"c": [
+				1852,
+				1695,
+				1852,
+				1937
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "tIsHso7AofOkxkeX",
+			"flags": {
+				"smartdoors": {
+					"synchronizationGroup": ""
+				}
+			},
+			"c": [
+				1852,
+				1937,
+				1852,
+				2066
+			],
+			"move": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 0,
+			"sound": 20,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "diudzMbxOgZRyiYB",
+			"flags": {},
+			"c": [
+				470,
+				1952,
+				470,
+				1325
+			],
+			"move": 20,
+			"door": 0,
+			"ds": 0,
+			"sound": 20,
+			"dir": 0,
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "LI6jdYdymgmlUHZO",
+			"c": [
+				1866,
+				712,
+				2265,
+				1567
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "pxIStOcISloMrEuj",
+			"c": [
+				2194,
+				2522,
+				2208,
+				2508
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "GtibdRG3cudDoNP0",
+			"c": [
+				2109,
+				2593,
+				2123,
+				2579
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "o7uCYbLNbiietaz6",
+			"c": [
+				2080,
+				2935,
+				2137,
+				2992
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "tfKkNb9lPO2qK5B7",
+			"c": [
+				2151,
+				3006,
+				2237,
+				3049
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "epxE64kVOuoxXXWE",
+			"c": [
+				2465,
+				3021,
+				2394,
+				3049
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "pag5J4oaOq5ZWKt6",
+			"c": [
+				2351,
+				3063,
+				2265,
+				3049
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "iFiAN5ZLWd551QTK",
+			"c": [
+				2137,
+				2992,
+				2151,
+				3006
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "FHbDPiKtU3NqcW4t",
+			"c": [
+				2066,
+				2907,
+				2080,
+				2935
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "Sl2PeaIz14iJ9zsV",
+			"c": [
+				2237,
+				3049,
+				2265,
+				3049
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "PbYmGAtzhhBLA8gW",
+			"c": [
+				2351,
+				3063,
+				2394,
+				3049
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "n995KDzr0XZ0XWcD",
+			"c": [
+				2636,
+				2707,
+				2622,
+				2636
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "I0jDNx4zfqCuWely",
+			"c": [
+				2593,
+				2607,
+				2550,
+				2522
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "UhFmKOPCeXG0NoBb",
+			"c": [
+				2522,
+				2493,
+				2422,
+				2465
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "G9VUWvTOeg53cMUJ",
+			"c": [
+				2636,
+				2750,
+				2622,
+				2821
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "NgEXSrhFqosAkqGh",
+			"c": [
+				2607,
+				2864,
+				2579,
+				2935
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "n7pbRln2lUACoAmL",
+			"c": [
+				2550,
+				2949,
+				2493,
+				3006
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "07AOoGNyCOXfDRte",
+			"c": [
+				2465,
+				3021,
+				2493,
+				3006
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "zhqdMX2T9jT2Jfrr",
+			"c": [
+				2550,
+				2949,
+				2579,
+				2935
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "50nNWlhQRAOYwfbF",
+			"c": [
+				2622,
+				2821,
+				2607,
+				2864
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "ZxaHioVXeMz8fEPv",
+			"c": [
+				2636,
+				2707,
+				2636,
+				2750
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "wlBoWdlLX3ubatsC",
+			"c": [
+				2593,
+				2607,
+				2622,
+				2636
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "7LcrFD1XGFtwC3hB",
+			"c": [
+				2522,
+				2493,
+				2550,
+				2522
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 1,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "WADEEb3OtLBMwQE4",
+			"c": [
+				661,
+				2742,
+				855,
+				2736
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "hqz0vL19rN06bFnh",
+			"c": [
+				662.0144856671033,
+				2742.337553590342,
+				669,
+				2664
+			],
+			"light": 20,
+			"move": 0,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "3XgnXa4w0TscFTTW",
+			"c": [
+				855,
+				2736,
+				869,
+				2821
+			],
+			"light": 20,
+			"move": 0,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"smartdoors": {}
+			}
+		},
+		{
+			"_id": "eHi1p0UNCVDLNMlx",
+			"c": [
+				2052,
+				2850,
+				2066,
+				2907
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "ArNa6tb3jT8Bw6TH",
+			"c": [
+				2123,
+				2579,
+				2166,
+				2622
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "3inZU997WfFLb6Rr",
+			"c": [
+				2408,
+				2536,
+				2451,
+				2565
+			],
+			"light": 0,
+			"move": 0,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "j9v6L3Wasd7O5cui",
+			"c": [
+				2451,
+				2565,
+				2493,
+				2622
+			],
+			"light": 0,
+			"move": 0,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "M5ZaBlAlvhBXmsrs",
+			"c": [
+				2493,
+				2622,
+				2508,
+				2664
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "fVEwWYXFSehlDiuE",
+			"c": [
+				2508,
+				2664,
+				2522,
+				2707
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "Fb9JUzWf4FGVLH9X",
+			"c": [
+				2522,
+				2707,
+				2522,
+				2764
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "CcjMJVEaR3cC6xY2",
+			"c": [
+				2522,
+				2764,
+				2493,
+				2835
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "1mryWAZIDJ15UACs",
+			"c": [
+				2493,
+				2835,
+				2479,
+				2864
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "5eKCaMBvq8UptNqm",
+			"c": [
+				2479,
+				2864,
+				2422,
+				2907
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "cuBjnk3W2dDzuoLu",
+			"c": [
+				2422,
+				2907,
+				2280,
+				2921
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "lPpK7IUHjBGkm4ll",
+			"c": [
+				2280,
+				2921,
+				2208,
+				2878
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "uRYMIbIV0IsGIqvw",
+			"c": [
+				2208,
+				2878,
+				2151,
+				2807
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "XZa8wbSjYprpZ5kO",
+			"c": [
+				2151,
+				2807,
+				2151,
+				2707
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "kEC6Bo7zwOsBqGQa",
+			"c": [
+				2151,
+				2707,
+				2166,
+				2622
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 0,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "hfCrtQvGQYbnjKjT",
+			"c": [
+				541,
+				798,
+				584,
+				1140
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "PGsstTiOWDBJ0TGt",
+			"c": [
+				684,
+				783,
+				655,
+				897
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "FrPwArBnLM28fSyO",
+			"c": [
+				655,
+				897,
+				541,
+				798
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "M8NUCe4bDPVCYzlg",
+			"c": [
+				684,
+				783,
+				741,
+				783
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "2ZsPX0njMXhTdIx7",
+			"c": [
+				741,
+				783,
+				684,
+				627
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "pke04neiWiICONyH",
+			"c": [
+				684,
+				627,
+				826,
+				584
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "fvsScFquInrv4iuj",
+			"c": [
+				826,
+				584,
+				926,
+				684
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "iazchFRxG9Xrjh6F",
+			"c": [
+				655,
+				1396,
+				883,
+				1282
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "ovULImNNXqEWMum8",
+			"c": [
+				883,
+				1282,
+				1083,
+				954
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "ztuFyKsfEBL5CLBz",
+			"c": [
+				1083,
+				954,
+				1097,
+				840
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "Anm5NrC4ZIBUGAak",
+			"c": [
+				598,
+				1353,
+				726,
+				1125
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 0,
+			"dir": 0,
+			"door": 1,
+			"ds": 2,
+			"flags": {}
+		},
+		{
+			"_id": "YWXWRH3zSK3rQt8t",
+			"c": [
+				726,
+				1125,
+				783,
+				1182
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 0,
+			"dir": 0,
+			"door": 1,
+			"ds": 2,
+			"flags": {}
+		},
+		{
+			"_id": "BRVUDMVKQ8GBQmVh",
+			"c": [
+				783,
+				1182,
+				897,
+				940
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 0,
+			"dir": 0,
+			"door": 1,
+			"ds": 2,
+			"flags": {}
+		},
+		{
+			"_id": "OZVD1WgbJgQk7Acj",
+			"c": [
+				897,
+				940,
+				926,
+				684
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 0,
+			"dir": 0,
+			"door": 1,
+			"ds": 2,
+			"flags": {}
+		}
+	],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": "5f5aaqcLc2VGCKV4",
+	"weather": "",
+	"folder": "NweHssUAaKgGQG58",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3,
+		"default": 0
+	},
+	"flags": {
+		"falemos": {
+			"config": {
+				"hide": {
+					"mode": "scene",
+					"navigation": false,
+					"controls": false,
+					"players": false,
+					"sidebar": false,
+					"hotbar": false
+				},
+				"enable": false,
+				"ALH5lul2TfXBAtai": {
+					"x": 0,
+					"y": 90,
+					"width": null,
+					"overlayImg": "",
+					"overlayLeft": null,
+					"overlayRight": null,
+					"overlayTop": null,
+					"overlayBottom": null,
+					"geometry": "triangle",
+					"filter": "BW",
+					"cameraName": null,
+					"cameraNameOffsetX": null,
+					"cameraNameOffsetY": null,
+					"cameraNameFontSize": null,
+					"cameraNameColor": "#000000",
+					"cameraNameFont": "",
+					"fit": "nofit"
+				},
+				"uirzB3HdEWNhsGpF": {
+					"x": null,
+					"y": null,
+					"width": null,
+					"overlayImg": "",
+					"overlayLeft": null,
+					"overlayRight": null,
+					"overlayTop": null,
+					"overlayBottom": null,
+					"geometry": "rectangle",
+					"filter": "NONE",
+					"cameraName": null,
+					"cameraNameOffsetX": null,
+					"cameraNameOffsetY": null,
+					"cameraNameFontSize": null,
+					"cameraNameColor": "#000000",
+					"cameraNameFont": "",
+					"fit": "nofit"
+				},
+				"vl6WCsThhjIY4Hj3": {
+					"x": null,
+					"y": null,
+					"width": null,
+					"overlayImg": "",
+					"overlayLeft": null,
+					"overlayRight": null,
+					"overlayTop": null,
+					"overlayBottom": null,
+					"geometry": "rectangle",
+					"filter": "NONE",
+					"cameraName": null,
+					"cameraNameOffsetX": null,
+					"cameraNameOffsetY": null,
+					"cameraNameFontSize": null,
+					"cameraNameColor": "#000000",
+					"cameraNameFont": "",
+					"fit": "nofit"
+				},
+				"bQonQoqY8mo5ZcsQ": {
+					"x": null,
+					"y": null,
+					"width": null,
+					"overlayImg": "",
+					"overlayLeft": null,
+					"overlayRight": null,
+					"overlayTop": null,
+					"overlayBottom": null,
+					"geometry": "rectangle",
+					"filter": "NONE",
+					"cameraName": null,
+					"cameraNameOffsetX": null,
+					"cameraNameOffsetY": null,
+					"cameraNameFontSize": null,
+					"cameraNameColor": "#000000",
+					"cameraNameFont": "",
+					"fit": "nofit"
+				},
+				"MovL8pmQ9lKDVWBx": {
+					"x": null,
+					"y": null,
+					"width": null,
+					"overlayImg": "",
+					"overlayLeft": null,
+					"overlayRight": null,
+					"overlayTop": null,
+					"overlayBottom": null,
+					"geometry": "rectangle",
+					"filter": "NONE",
+					"cameraName": null,
+					"cameraNameOffsetX": null,
+					"cameraNameOffsetY": null,
+					"cameraNameFontSize": null,
+					"cameraNameColor": "#000000",
+					"cameraNameFont": "",
+					"fit": "nofit"
+				}
+			}
+		},
+		"token-attacher": {},
+		"blood-n-guts": {
+			"visible": true,
+			"history": {
+				"events": [
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 90,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": -19.2,
+								"y": -16.2,
+								"angle": 205,
+								"width": 77.13333129882812,
+								"height": 82,
+								"glyph": "r"
+							},
+							{
+								"x": -7.199999999999999,
+								"y": -18.2,
+								"angle": 84,
+								"width": 71.0999984741211,
+								"height": 82,
+								"glyph": "p"
+							},
+							{
+								"x": -20.2,
+								"y": -27.2,
+								"angle": 269,
+								"width": 77.93333435058594,
+								"height": 82,
+								"glyph": "i"
+							},
+							{
+								"x": -6.199999999999999,
+								"y": -23.2,
+								"angle": 129,
+								"width": 60.766666412353516,
+								"height": 82,
+								"glyph": "E"
+							},
+							{
+								"x": -18.2,
+								"y": -25.2,
+								"angle": 222,
+								"width": 63.733333587646484,
+								"height": 82,
+								"glyph": "H"
+							}
+						],
+						"offset": {
+							"x": -43,
+							"y": -50
+						},
+						"height": 93,
+						"width": 84.0999984741211,
+						"id": "bng__1791584ea98_0.50a74a61ca92c8",
+						"tokenId": "3tMwXmTRkyxQC4m8"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 221,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": 8.850000000000001,
+								"y": -45.15,
+								"angle": 227,
+								"width": 127.53333282470703,
+								"height": 200,
+								"glyph": "R"
+							},
+							{
+								"x": -20.15,
+								"y": -15.149999999999999,
+								"angle": 353,
+								"width": 149.1666717529297,
+								"height": 200,
+								"glyph": "E"
+							},
+							{
+								"x": -27.15,
+								"y": -59.15,
+								"angle": 155,
+								"width": 191.39999389648438,
+								"height": 200,
+								"glyph": "i"
+							},
+							{
+								"x": -36.15,
+								"y": -30.15,
+								"angle": 74,
+								"width": 182.53334045410156,
+								"height": 200,
+								"glyph": "c"
+							}
+						],
+						"offset": {
+							"x": -96,
+							"y": -119
+						},
+						"height": 244,
+						"width": 200.39999389648438,
+						"id": "bng__1791584ea9f_0.d681b0f101c6c8",
+						"tokenId": "WnZtkOarrkJY7VAS"
+					},
+					{
+						"drips": [
+							{
+								"x": -73,
+								"y": 48,
+								"angle": 355,
+								"width": 46.36666488647461,
+								"height": 152,
+								"glyph": "Å"
+							},
+							{
+								"x": -61,
+								"y": 39,
+								"angle": 208,
+								"width": 64.19999694824219,
+								"height": 152,
+								"glyph": "o"
+							},
+							{
+								"x": -49,
+								"y": 30,
+								"angle": 11,
+								"width": 31.5,
+								"height": 152,
+								"glyph": "ì"
+							},
+							{
+								"x": -38,
+								"y": 22,
+								"angle": 168,
+								"width": 26.433332443237305,
+								"height": 152,
+								"glyph": "·"
+							},
+							{
+								"x": -27,
+								"y": 14,
+								"angle": 231,
+								"width": 86.5,
+								"height": 152,
+								"glyph": "E"
+							},
+							{
+								"x": -17,
+								"y": 6,
+								"angle": 174,
+								"width": 80.46666717529297,
+								"height": 152,
+								"glyph": "O"
+							},
+							{
+								"x": -7,
+								"y": -1,
+								"angle": 254,
+								"width": 55.93333435058594,
+								"height": 152,
+								"glyph": ","
+							},
+							{
+								"x": 3,
+								"y": -7,
+								"angle": 209,
+								"width": 154.6999969482422,
+								"height": 152,
+								"glyph": "i"
+							},
+							{
+								"x": 13,
+								"y": -14,
+								"angle": 252,
+								"width": 59.36666488647461,
+								"height": 152,
+								"glyph": "å"
+							},
+							{
+								"x": 22,
+								"y": -20,
+								"angle": 152,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "x"
+							},
+							{
+								"x": 30,
+								"y": -26,
+								"angle": 243,
+								"width": 123.53333282470703,
+								"height": 152,
+								"glyph": "c"
+							},
+							{
+								"x": 39,
+								"y": -31,
+								"angle": 41,
+								"width": 55.56666564941406,
+								"height": 152,
+								"glyph": "À"
+							},
+							{
+								"x": 47,
+								"y": -36,
+								"angle": 141,
+								"width": 50.266666412353516,
+								"height": 152,
+								"glyph": "."
+							},
+							{
+								"x": 54,
+								"y": -40,
+								"angle": 47,
+								"width": 44.733333587646484,
+								"height": 152,
+								"glyph": "¿"
+							},
+							{
+								"x": 62,
+								"y": -45,
+								"angle": 294,
+								"width": 80.46666717529297,
+								"height": 152,
+								"glyph": "Ó"
+							},
+							{
+								"x": 68,
+								"y": -48,
+								"angle": 121,
+								"width": 154.6999969482422,
+								"height": 152,
+								"glyph": "i"
+							},
+							{
+								"x": 75,
+								"y": -52,
+								"angle": 86,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "x"
+							},
+							{
+								"x": 81,
+								"y": -55,
+								"angle": 40,
+								"width": 48.36666488647461,
+								"height": 152,
+								"glyph": "Ï"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1140,
+						"y": 1339.5,
+						"zIndex": 100,
+						"z": 100,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d725d9_0.39df65547b876",
+						"name": "Trail Splat",
+						"_id": "bng__17915d725d9_0.39df65547b876"
+					},
+					{
+						"drips": [
+							{
+								"x": 75,
+								"y": 1,
+								"angle": 175,
+								"width": 62.53333282470703,
+								"height": 152,
+								"glyph": "\""
+							},
+							{
+								"x": 64,
+								"y": 3,
+								"angle": 106,
+								"width": 38.33333206176758,
+								"height": 152,
+								"glyph": "3"
+							},
+							{
+								"x": 54,
+								"y": 4,
+								"angle": 358,
+								"width": 60.06666564941406,
+								"height": 152,
+								"glyph": "R"
+							},
+							{
+								"x": 43,
+								"y": 4,
+								"angle": 3,
+								"width": 38.83333206176758,
+								"height": 152,
+								"glyph": "Ú"
+							},
+							{
+								"x": 33,
+								"y": 5,
+								"angle": 37,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "ß"
+							},
+							{
+								"x": 22,
+								"y": 5,
+								"angle": 291,
+								"width": 64.9000015258789,
+								"height": 152,
+								"glyph": "°"
+							},
+							{
+								"x": 12,
+								"y": 6,
+								"angle": 257,
+								"width": 64.9000015258789,
+								"height": 152,
+								"glyph": "°"
+							},
+							{
+								"x": 1,
+								"y": 6,
+								"angle": 235,
+								"width": 107.96666717529297,
+								"height": 152,
+								"glyph": "V"
+							},
+							{
+								"x": -9,
+								"y": 6,
+								"angle": 146,
+								"width": 154.6999969482422,
+								"height": 152,
+								"glyph": "i"
+							},
+							{
+								"x": -20,
+								"y": 6,
+								"angle": 265,
+								"width": 86.5,
+								"height": 152,
+								"glyph": "E"
+							},
+							{
+								"x": -30,
+								"y": 5,
+								"angle": 100,
+								"width": 65.36666870117188,
+								"height": 152,
+								"glyph": "±"
+							},
+							{
+								"x": -41,
+								"y": 5,
+								"angle": 281,
+								"width": 80.93333435058594,
+								"height": 152,
+								"glyph": "0"
+							},
+							{
+								"x": -51,
+								"y": 4,
+								"angle": 107,
+								"width": 36.099998474121094,
+								"height": 152,
+								"glyph": "÷"
+							},
+							{
+								"x": -62,
+								"y": 3,
+								"angle": 257,
+								"width": 69.86666870117188,
+								"height": 152,
+								"glyph": "<"
+							},
+							{
+								"x": -72,
+								"y": 2,
+								"angle": 58,
+								"width": 53.099998474121094,
+								"height": 152,
+								"glyph": "/"
+							},
+							{
+								"x": -83,
+								"y": 0,
+								"angle": 108,
+								"width": 80.93333435058594,
+								"height": 152,
+								"glyph": "0"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1140,
+						"y": 1282.5,
+						"zIndex": 101,
+						"z": 101,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d72d2d_0.a5a146cd8a557",
+						"name": "Trail Splat",
+						"_id": "bng__17915d72d2d_0.a5a146cd8a557"
+					},
+					{
+						"drips": [
+							{
+								"x": 25,
+								"y": -48,
+								"angle": 258,
+								"width": 107.96666717529297,
+								"height": 152,
+								"glyph": "V"
+							},
+							{
+								"x": 21,
+								"y": -39,
+								"angle": 332,
+								"width": 63.599998474121094,
+								"height": 152,
+								"glyph": "I"
+							},
+							{
+								"x": 16,
+								"y": -30,
+								"angle": 189,
+								"width": 78.83333587646484,
+								"height": 152,
+								"glyph": "@"
+							},
+							{
+								"x": 12,
+								"y": -21,
+								"angle": 216,
+								"width": 64.9000015258789,
+								"height": 152,
+								"glyph": "Ø"
+							},
+							{
+								"x": 7,
+								"y": -12,
+								"angle": 236,
+								"width": 80.5999984741211,
+								"height": 152,
+								"glyph": "Ü"
+							},
+							{
+								"x": 3,
+								"y": -2,
+								"angle": 315,
+								"width": 45.29999923706055,
+								"height": 152,
+								"glyph": "h"
+							},
+							{
+								"x": -2,
+								"y": 8,
+								"angle": 283,
+								"width": 70.66666412353516,
+								"height": 152,
+								"glyph": "q"
+							},
+							{
+								"x": -8,
+								"y": 17,
+								"angle": 271,
+								"width": 25.5,
+								"height": 152,
+								"glyph": "á"
+							},
+							{
+								"x": -13,
+								"y": 28,
+								"angle": 150,
+								"width": 44.83333206176758,
+								"height": 152,
+								"glyph": "¬"
+							},
+							{
+								"x": -18,
+								"y": 38,
+								"angle": 293,
+								"width": 63.599998474121094,
+								"height": 152,
+								"glyph": "I"
+							},
+							{
+								"x": -24,
+								"y": 48,
+								"angle": 186,
+								"width": 68.19999694824219,
+								"height": 152,
+								"glyph": "Ä"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1026,
+						"y": 1339.5,
+						"zIndex": 102,
+						"z": 102,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d741cb_0.2695ee0aefa988",
+						"name": "Trail Splat",
+						"_id": "bng__17915d741cb_0.2695ee0aefa988"
+					},
+					{
+						"drips": [
+							{
+								"x": -54,
+								"y": 80,
+								"angle": 213,
+								"width": 50.266666412353516,
+								"height": 152,
+								"glyph": "."
+							},
+							{
+								"x": -52,
+								"y": 74,
+								"angle": 52,
+								"width": 59.233333587646484,
+								"height": 152,
+								"glyph": "`"
+							},
+							{
+								"x": -48,
+								"y": 68,
+								"angle": 244,
+								"width": 55.56666564941406,
+								"height": 152,
+								"glyph": ">"
+							},
+							{
+								"x": -45,
+								"y": 62,
+								"angle": 186,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "©"
+							},
+							{
+								"x": -41,
+								"y": 55,
+								"angle": 315,
+								"width": 46.36666488647461,
+								"height": 152,
+								"glyph": "Å"
+							},
+							{
+								"x": -37,
+								"y": 48,
+								"angle": 295,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "f"
+							},
+							{
+								"x": -32,
+								"y": 40,
+								"angle": 178,
+								"width": 80.93333435058594,
+								"height": 152,
+								"glyph": "0"
+							},
+							{
+								"x": -27,
+								"y": 32,
+								"angle": 68,
+								"width": 77.86666870117188,
+								"height": 152,
+								"glyph": "ë"
+							},
+							{
+								"x": -21,
+								"y": 24,
+								"angle": 97,
+								"width": 61.599998474121094,
+								"height": 152,
+								"glyph": "-"
+							},
+							{
+								"x": -16,
+								"y": 15,
+								"angle": 242,
+								"width": 68.19999694824219,
+								"height": 152,
+								"glyph": "Ä"
+							},
+							{
+								"x": -10,
+								"y": 6,
+								"angle": 304,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "G"
+							},
+							{
+								"x": -3,
+								"y": -3,
+								"angle": 290,
+								"width": 75.16666412353516,
+								"height": 152,
+								"glyph": "u"
+							},
+							{
+								"x": 4,
+								"y": -13,
+								"angle": 339,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "¶"
+							},
+							{
+								"x": 11,
+								"y": -23,
+								"angle": 118,
+								"width": 48.96666717529297,
+								"height": 152,
+								"glyph": "£"
+							},
+							{
+								"x": 19,
+								"y": -34,
+								"angle": 313,
+								"width": 38.33333206176758,
+								"height": 152,
+								"glyph": "3"
+							},
+							{
+								"x": 26,
+								"y": -44,
+								"angle": 135,
+								"width": 80.13333129882812,
+								"height": 152,
+								"glyph": ";"
+							},
+							{
+								"x": 35,
+								"y": -56,
+								"angle": 24,
+								"width": 69.96666717529297,
+								"height": 152,
+								"glyph": "!"
+							},
+							{
+								"x": 43,
+								"y": -67,
+								"angle": 141,
+								"width": 52.03333282470703,
+								"height": 152,
+								"glyph": "ø"
+							},
+							{
+								"x": 52,
+								"y": -79,
+								"angle": 23,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "D"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1054.5,
+						"y": 1311,
+						"zIndex": 103,
+						"z": 103,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d76a08_0.8c408e506babc",
+						"name": "Trail Splat",
+						"_id": "bng__17915d76a08_0.8c408e506babc"
+					},
+					{
+						"drips": [
+							{
+								"x": 1,
+								"y": -75,
+								"angle": 328,
+								"width": 58.29999923706055,
+								"height": 152,
+								"glyph": "§"
+							},
+							{
+								"x": 2,
+								"y": -64,
+								"angle": 360,
+								"width": 36.099998474121094,
+								"height": 152,
+								"glyph": "÷"
+							},
+							{
+								"x": 2,
+								"y": -54,
+								"angle": 224,
+								"width": 75.30000305175781,
+								"height": 152,
+								"glyph": "4"
+							},
+							{
+								"x": 3,
+								"y": -43,
+								"angle": 263,
+								"width": 56.29999923706055,
+								"height": 152,
+								"glyph": "õ"
+							},
+							{
+								"x": 3,
+								"y": -32,
+								"angle": 313,
+								"width": 82.46666717529297,
+								"height": 152,
+								"glyph": "T"
+							},
+							{
+								"x": 4,
+								"y": -21,
+								"angle": 313,
+								"width": 55.56666564941406,
+								"height": 152,
+								"glyph": "ê"
+							},
+							{
+								"x": 4,
+								"y": -11,
+								"angle": 349,
+								"width": 58.29999923706055,
+								"height": 152,
+								"glyph": "§"
+							},
+							{
+								"x": 4,
+								"y": 0,
+								"angle": 12,
+								"width": 55.56666564941406,
+								"height": 152,
+								"glyph": ">"
+							},
+							{
+								"x": 4,
+								"y": 11,
+								"angle": 313,
+								"width": 78.93333435058594,
+								"height": 152,
+								"glyph": "["
+							},
+							{
+								"x": 4,
+								"y": 21,
+								"angle": 74,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "¶"
+							},
+							{
+								"x": 3,
+								"y": 32,
+								"angle": 60,
+								"width": 77.86666870117188,
+								"height": 152,
+								"glyph": "ë"
+							},
+							{
+								"x": 3,
+								"y": 43,
+								"angle": 340,
+								"width": 61.70000076293945,
+								"height": 152,
+								"glyph": "È"
+							},
+							{
+								"x": 2,
+								"y": 53,
+								"angle": 172,
+								"width": 57.93333435058594,
+								"height": 152,
+								"glyph": "¥"
+							},
+							{
+								"x": 2,
+								"y": 64,
+								"angle": 62,
+								"width": 45.29999923706055,
+								"height": 152,
+								"glyph": "h"
+							},
+							{
+								"x": 1,
+								"y": 75,
+								"angle": 262,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "%"
+							},
+							{
+								"x": 0,
+								"y": 86,
+								"angle": 242,
+								"width": 78.93333435058594,
+								"height": 152,
+								"glyph": "N"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1111.5,
+						"y": 1311,
+						"zIndex": 104,
+						"z": 104,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d7a5c9_0.25195e2d45c7d8",
+						"name": "Trail Splat",
+						"_id": "bng__17915d7a5c9_0.25195e2d45c7d8"
+					},
+					{
+						"drips": [
+							{
+								"x": -2,
+								"y": 18,
+								"angle": 69,
+								"width": 77.86666870117188,
+								"height": 152,
+								"glyph": "ë"
+							},
+							{
+								"x": -3,
+								"y": 7,
+								"angle": 190,
+								"width": 67.26667022705078,
+								"height": 152,
+								"glyph": "&"
+							},
+							{
+								"x": -3,
+								"y": -4,
+								"angle": 59,
+								"width": 80.13333129882812,
+								"height": 152,
+								"glyph": ";"
+							},
+							{
+								"x": -2,
+								"y": -15,
+								"angle": 259,
+								"width": 31.5,
+								"height": 152,
+								"glyph": "ì"
+							},
+							{
+								"x": 0,
+								"y": -26,
+								"angle": 324,
+								"width": 26.433332443237305,
+								"height": 152,
+								"glyph": "·"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1111.5,
+						"y": 1368,
+						"zIndex": 105,
+						"z": 105,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d7c182_0.841bcee88a6548",
+						"name": "Trail Splat",
+						"_id": "bng__17915d7c182_0.841bcee88a6548"
+					},
+					{
+						"drips": [
+							{
+								"x": 28,
+								"y": -51,
+								"angle": 19,
+								"width": 78.83333587646484,
+								"height": 152,
+								"glyph": "@"
+							},
+							{
+								"x": 26,
+								"y": -45,
+								"angle": 34,
+								"width": 61.36666488647461,
+								"height": 152,
+								"glyph": "W"
+							},
+							{
+								"x": 24,
+								"y": -38,
+								"angle": 126,
+								"width": 50.03333282470703,
+								"height": 152,
+								"glyph": "ò"
+							},
+							{
+								"x": 21,
+								"y": -30,
+								"angle": 260,
+								"width": 74.46666717529297,
+								"height": 152,
+								"glyph": "#"
+							},
+							{
+								"x": 17,
+								"y": -21,
+								"angle": 84,
+								"width": 46.36666488647461,
+								"height": 152,
+								"glyph": "¢"
+							},
+							{
+								"x": 12,
+								"y": -12,
+								"angle": 187,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "D"
+							},
+							{
+								"x": 7,
+								"y": -2,
+								"angle": 310,
+								"width": 84.5999984741211,
+								"height": 152,
+								"glyph": "B"
+							},
+							{
+								"x": 1,
+								"y": 9,
+								"angle": 134,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "¶"
+							},
+							{
+								"x": -5,
+								"y": 21,
+								"angle": 336,
+								"width": 97.46666717529297,
+								"height": 152,
+								"glyph": "A"
+							},
+							{
+								"x": -13,
+								"y": 33,
+								"angle": 191,
+								"width": 69.96666717529297,
+								"height": 152,
+								"glyph": "!"
+							},
+							{
+								"x": -21,
+								"y": 46,
+								"angle": 285,
+								"width": 98.30000305175781,
+								"height": 152,
+								"glyph": "U"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1083,
+						"y": 1396.5,
+						"zIndex": 106,
+						"z": 106,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d7f925_0.ecfd34e3691398",
+						"name": "Trail Splat",
+						"_id": "bng__17915d7f925_0.ecfd34e3691398"
+					},
+					{
+						"drips": [
+							{
+								"x": -75,
+								"y": -3,
+								"angle": 49,
+								"width": 50.03333282470703,
+								"height": 152,
+								"glyph": "ò"
+							},
+							{
+								"x": -65,
+								"y": -6,
+								"angle": 275,
+								"width": 63.233333587646484,
+								"height": 152,
+								"glyph": "_"
+							},
+							{
+								"x": -54,
+								"y": -8,
+								"angle": 308,
+								"width": 38.33333206176758,
+								"height": 152,
+								"glyph": "3"
+							},
+							{
+								"x": -44,
+								"y": -10,
+								"angle": 13,
+								"width": 55.099998474121094,
+								"height": 152,
+								"glyph": "«"
+							},
+							{
+								"x": -33,
+								"y": -12,
+								"angle": 95,
+								"width": 55.93333435058594,
+								"height": 152,
+								"glyph": ","
+							},
+							{
+								"x": -23,
+								"y": -13,
+								"angle": 267,
+								"width": 80.13333129882812,
+								"height": 152,
+								"glyph": "X"
+							},
+							{
+								"x": -12,
+								"y": -14,
+								"angle": 30,
+								"width": 59.36666488647461,
+								"height": 152,
+								"glyph": "å"
+							},
+							{
+								"x": -2,
+								"y": -14,
+								"angle": 119,
+								"width": 56.03333282470703,
+								"height": 152,
+								"glyph": "ÿ"
+							},
+							{
+								"x": 9,
+								"y": -14,
+								"angle": 34,
+								"width": 58.06666564941406,
+								"height": 152,
+								"glyph": "û"
+							},
+							{
+								"x": 19,
+								"y": -13,
+								"angle": 206,
+								"width": 84.83333587646484,
+								"height": 152,
+								"glyph": "]"
+							},
+							{
+								"x": 30,
+								"y": -12,
+								"angle": 147,
+								"width": 64.19999694824219,
+								"height": 152,
+								"glyph": "o"
+							},
+							{
+								"x": 40,
+								"y": -11,
+								"angle": 163,
+								"width": 66.30000305175781,
+								"height": 152,
+								"glyph": "Ù"
+							},
+							{
+								"x": 51,
+								"y": -9,
+								"angle": 68,
+								"width": 80.46666717529297,
+								"height": 152,
+								"glyph": "Ó"
+							},
+							{
+								"x": 61,
+								"y": -7,
+								"angle": 7,
+								"width": 79.9000015258789,
+								"height": 152,
+								"glyph": "5"
+							},
+							{
+								"x": 72,
+								"y": -4,
+								"angle": 142,
+								"width": 56.03333282470703,
+								"height": 152,
+								"glyph": "ÿ"
+							},
+							{
+								"x": 82,
+								"y": -1,
+								"angle": 181,
+								"width": 63.599998474121094,
+								"height": 152,
+								"glyph": "I"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1140,
+						"y": 1453.5,
+						"zIndex": 107,
+						"z": 107,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915d89bd8_0.21f748e1736a78",
+						"name": "Trail Splat",
+						"_id": "bng__17915d89bd8_0.21f748e1736a78"
+					},
+					{
+						"drips": [
+							{
+								"x": 46,
+								"y": -4,
+								"angle": 21,
+								"width": 65,
+								"height": 102,
+								"glyph": "Ú"
+							},
+							{
+								"x": 35,
+								"y": -6,
+								"angle": 147,
+								"width": 65,
+								"height": 102,
+								"glyph": "Ø"
+							},
+							{
+								"x": 24,
+								"y": -8,
+								"angle": 147,
+								"width": 65,
+								"height": 102,
+								"glyph": "Q"
+							},
+							{
+								"x": 13,
+								"y": -10,
+								"angle": 277,
+								"width": 48.70000076293945,
+								"height": 102,
+								"glyph": "~"
+							},
+							{
+								"x": 2,
+								"y": -11,
+								"angle": 195,
+								"width": 45,
+								"height": 102,
+								"glyph": "4"
+							},
+							{
+								"x": -9,
+								"y": -10,
+								"angle": 214,
+								"width": 45,
+								"height": 102,
+								"glyph": "o"
+							},
+							{
+								"x": -20,
+								"y": -10,
+								"angle": 204,
+								"width": 45,
+								"height": 102,
+								"glyph": "o"
+							},
+							{
+								"x": -31,
+								"y": -8,
+								"angle": 251,
+								"width": 25,
+								"height": 102,
+								"glyph": "/"
+							},
+							{
+								"x": -42,
+								"y": -6,
+								"angle": 68,
+								"width": 45,
+								"height": 102,
+								"glyph": "q"
+							},
+							{
+								"x": -53,
+								"y": -3,
+								"angle": 356,
+								"width": 65,
+								"height": 102,
+								"glyph": "Ò"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 90,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1168.5,
+						"y": 1282.5,
+						"zIndex": 108,
+						"z": 108,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915e52ef4_0.8c19d0f68f8618",
+						"name": "Trail Splat",
+						"_id": "bng__17915e52ef4_0.8c19d0f68f8618"
+					},
+					{
+						"drips": [
+							{
+								"x": 78,
+								"y": -105,
+								"angle": 96,
+								"width": 34.20000076293945,
+								"height": 102,
+								"glyph": "¬"
+							},
+							{
+								"x": 71,
+								"y": -95,
+								"angle": 296,
+								"width": 74.96666717529297,
+								"height": 102,
+								"glyph": "D"
+							},
+							{
+								"x": 64,
+								"y": -86,
+								"angle": 10,
+								"width": 38.43333435058594,
+								"height": 102,
+								"glyph": "ç"
+							},
+							{
+								"x": 57,
+								"y": -77,
+								"angle": 237,
+								"width": 57.33333206176758,
+								"height": 102,
+								"glyph": "ù"
+							},
+							{
+								"x": 50,
+								"y": -68,
+								"angle": 134,
+								"width": 41.13333511352539,
+								"height": 102,
+								"glyph": "P"
+							},
+							{
+								"x": 43,
+								"y": -59,
+								"angle": 226,
+								"width": 56.79999923706055,
+								"height": 102,
+								"glyph": "#"
+							},
+							{
+								"x": 36,
+								"y": -50,
+								"angle": 300,
+								"width": 36.900001525878906,
+								"height": 102,
+								"glyph": "Ï"
+							},
+							{
+								"x": 30,
+								"y": -41,
+								"angle": 89,
+								"width": 50.56666564941406,
+								"height": 102,
+								"glyph": "Ù"
+							},
+							{
+								"x": 23,
+								"y": -32,
+								"angle": 119,
+								"width": 48.96666717529297,
+								"height": 102,
+								"glyph": "o"
+							},
+							{
+								"x": 16,
+								"y": -23,
+								"angle": 30,
+								"width": 57.43333435058594,
+								"height": 102,
+								"glyph": "4"
+							},
+							{
+								"x": 9,
+								"y": -14,
+								"angle": 114,
+								"width": 31.600000381469727,
+								"height": 102,
+								"glyph": "œ"
+							},
+							{
+								"x": 3,
+								"y": -5,
+								"angle": 215,
+								"width": 54.266666412353516,
+								"height": 102,
+								"glyph": "Q"
+							},
+							{
+								"x": -4,
+								"y": 3,
+								"angle": 143,
+								"width": 28.066667556762695,
+								"height": 102,
+								"glyph": "'"
+							},
+							{
+								"x": -10,
+								"y": 12,
+								"angle": 342,
+								"width": 52.099998474121094,
+								"height": 102,
+								"glyph": "Æ"
+							},
+							{
+								"x": -17,
+								"y": 21,
+								"angle": 298,
+								"width": 41.13333511352539,
+								"height": 102,
+								"glyph": "P"
+							},
+							{
+								"x": -23,
+								"y": 29,
+								"angle": 265,
+								"width": 60.20000076293945,
+								"height": 102,
+								"glyph": "["
+							},
+							{
+								"x": -30,
+								"y": 38,
+								"angle": 48,
+								"width": 44.20000076293945,
+								"height": 102,
+								"glyph": "¥"
+							},
+							{
+								"x": -36,
+								"y": 46,
+								"angle": 185,
+								"width": 60.13333511352539,
+								"height": 102,
+								"glyph": "@"
+							},
+							{
+								"x": -42,
+								"y": 55,
+								"angle": 58,
+								"width": 74.96666717529297,
+								"height": 102,
+								"glyph": "\\"
+							},
+							{
+								"x": -48,
+								"y": 63,
+								"angle": 140,
+								"width": 53.266666412353516,
+								"height": 102,
+								"glyph": "<"
+							},
+							{
+								"x": -54,
+								"y": 71,
+								"angle": 296,
+								"width": 39.233333587646484,
+								"height": 102,
+								"glyph": "ï"
+							},
+							{
+								"x": -61,
+								"y": 79,
+								"angle": 79,
+								"width": 60.20000076293945,
+								"height": 102,
+								"glyph": "["
+							},
+							{
+								"x": -67,
+								"y": 88,
+								"angle": 123,
+								"width": 61.733333587646484,
+								"height": 102,
+								"glyph": "|"
+							},
+							{
+								"x": -73,
+								"y": 96,
+								"angle": 321,
+								"width": 27.53333282470703,
+								"height": 102,
+								"glyph": "÷"
+							},
+							{
+								"x": -79,
+								"y": 104,
+								"angle": 249,
+								"width": 44.20000076293945,
+								"height": 102,
+								"glyph": "¥"
+							},
+							{
+								"x": -84,
+								"y": 112,
+								"angle": 208,
+								"width": 44.46666717529297,
+								"height": 102,
+								"glyph": ")"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 90,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1026,
+						"y": 1396.5,
+						"zIndex": 109,
+						"z": 109,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915e57e0b_0.81b2644b32ad98",
+						"name": "Trail Splat",
+						"_id": "bng__17915e57e0b_0.81b2644b32ad98"
+					},
+					{
+						"alpha": 0.75,
+						"width": 1,
+						"height": 1,
+						"scale": 1,
+						"x": 940.5,
+						"y": 1510.5,
+						"z": 110,
+						"rotation": 0,
+						"hidden": false,
+						"locked": false,
+						"drips": [
+							{
+								"x": -15,
+								"y": 0,
+								"angle": 198,
+								"width": 40,
+								"height": 82,
+								"glyph": "S"
+							},
+							{
+								"x": 8,
+								"y": -15,
+								"angle": 300,
+								"width": 52,
+								"height": 82,
+								"glyph": "D"
+							},
+							{
+								"x": -9,
+								"y": -6,
+								"angle": 176,
+								"width": 44,
+								"height": 82,
+								"glyph": "T"
+							}
+						],
+						"styleData": {
+							"fontFamily": "splatter",
+							"fontSize": 72,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"zIndex": 110,
+						"id": "bng__17915e96a43_0.a96bdc0e77138",
+						"author": "ALH5lul2TfXBAtai",
+						"name": "Floor Splat",
+						"_id": "bng__17915e96a43_0.a96bdc0e77138"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 60,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": -0.1999999999999993,
+								"y": -1.1999999999999993,
+								"angle": 306,
+								"width": 30,
+								"height": 69,
+								"glyph": "n"
+							},
+							{
+								"x": 3.8000000000000007,
+								"y": -6.199999999999999,
+								"angle": 104,
+								"width": 43.34782791137695,
+								"height": 69,
+								"glyph": "A"
+							},
+							{
+								"x": 9.8,
+								"y": 5.800000000000001,
+								"angle": 111,
+								"width": 20,
+								"height": 69,
+								"glyph": "I"
+							}
+						],
+						"offset": {
+							"x": -23,
+							"y": -29
+						},
+						"height": 81,
+						"width": 47.34782791137695,
+						"id": "bng__17915e96a45_0.5afea235bcd01",
+						"tokenId": "3tMwXmTRkyxQC4m8"
+					},
+					{
+						"alpha": 0.75,
+						"width": 1,
+						"height": 1,
+						"scale": 1,
+						"x": 940.5,
+						"y": 1510.5,
+						"z": 112,
+						"rotation": 0,
+						"hidden": false,
+						"locked": false,
+						"drips": [
+							{
+								"x": 5,
+								"y": 3,
+								"angle": 71,
+								"width": 81,
+								"height": 82,
+								"glyph": "G"
+							},
+							{
+								"x": 2,
+								"y": 5,
+								"angle": 43,
+								"width": 67,
+								"height": 82,
+								"glyph": "A"
+							},
+							{
+								"x": -8,
+								"y": -9,
+								"angle": 38,
+								"width": 81,
+								"height": 82,
+								"glyph": "G"
+							}
+						],
+						"styleData": {
+							"fontFamily": "splatter",
+							"fontSize": 72,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"zIndex": 112,
+						"id": "bng__17915e9826b_0.cbcca80e841ce8",
+						"author": "ALH5lul2TfXBAtai",
+						"name": "Floor Splat",
+						"_id": "bng__17915e9826b_0.cbcca80e841ce8"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 60,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": 4.800000000000001,
+								"y": -14.2,
+								"angle": 334,
+								"width": 46.21739196777344,
+								"height": 69,
+								"glyph": "e"
+							},
+							{
+								"x": -5.199999999999999,
+								"y": -11.2,
+								"angle": 300,
+								"width": 49.39130401611328,
+								"height": 69,
+								"glyph": "n"
+							},
+							{
+								"x": 2.8000000000000007,
+								"y": -12.2,
+								"angle": 239,
+								"width": 43.78260803222656,
+								"height": 69,
+								"glyph": "S"
+							}
+						],
+						"offset": {
+							"x": -28,
+							"y": -37
+						},
+						"height": 72,
+						"width": 56.21739196777344,
+						"id": "bng__17915e9826c_0.8ab59b4c6c8fd",
+						"tokenId": "3tMwXmTRkyxQC4m8"
+					},
+					{
+						"alpha": 0.75,
+						"width": 1,
+						"height": 1,
+						"scale": 1,
+						"x": 940.5,
+						"y": 1510.5,
+						"z": 114,
+						"rotation": 0,
+						"hidden": false,
+						"locked": false,
+						"drips": [
+							{
+								"x": -14,
+								"y": 4,
+								"angle": 347,
+								"width": 63,
+								"height": 82,
+								"glyph": "D"
+							},
+							{
+								"x": 11,
+								"y": -16,
+								"angle": 313,
+								"width": 63,
+								"height": 82,
+								"glyph": "D"
+							},
+							{
+								"x": -13,
+								"y": 0,
+								"angle": 229,
+								"width": 81,
+								"height": 82,
+								"glyph": "G"
+							}
+						],
+						"styleData": {
+							"fontFamily": "splatter",
+							"fontSize": 72,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"zIndex": 114,
+						"id": "bng__17915ea8350_0.8a009f0bf9f33",
+						"author": "ALH5lul2TfXBAtai",
+						"name": "Floor Splat",
+						"_id": "bng__17915ea8350_0.8a009f0bf9f33"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 60,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": 12.8,
+								"y": -19.2,
+								"angle": 105,
+								"width": 37.434783935546875,
+								"height": 69,
+								"glyph": "o"
+							},
+							{
+								"x": 1.8000000000000007,
+								"y": -14.2,
+								"angle": 79,
+								"width": 33.434783935546875,
+								"height": 69,
+								"glyph": "N"
+							},
+							{
+								"x": 0.8000000000000007,
+								"y": -8.2,
+								"angle": 178,
+								"width": 40.739131927490234,
+								"height": 69,
+								"glyph": "C"
+							}
+						],
+						"offset": {
+							"x": -22,
+							"y": -42
+						},
+						"height": 80,
+						"width": 49.434783935546875,
+						"id": "bng__17915ea8350_0.d83f5b131d08f",
+						"tokenId": "3tMwXmTRkyxQC4m8"
+					},
+					{
+						"drips": [
+							{
+								"x": 106,
+								"y": 54,
+								"angle": 330,
+								"width": 98.3043441772461,
+								"height": 152,
+								"glyph": "ß"
+							},
+							{
+								"x": 98,
+								"y": 51,
+								"angle": 279,
+								"width": 66.3043441772461,
+								"height": 152,
+								"glyph": "Ù"
+							},
+							{
+								"x": 90,
+								"y": 48,
+								"angle": 80,
+								"width": 69.86956787109375,
+								"height": 152,
+								"glyph": "<"
+							},
+							{
+								"x": 82,
+								"y": 44,
+								"angle": 297,
+								"width": 67.26087188720703,
+								"height": 152,
+								"glyph": "&"
+							},
+							{
+								"x": 74,
+								"y": 41,
+								"angle": 176,
+								"width": 73.26087188720703,
+								"height": 152,
+								"glyph": "6"
+							},
+							{
+								"x": 65,
+								"y": 37,
+								"angle": 179,
+								"width": 52.043479919433594,
+								"height": 152,
+								"glyph": "ø"
+							},
+							{
+								"x": 56,
+								"y": 33,
+								"angle": 140,
+								"width": 36.08695602416992,
+								"height": 152,
+								"glyph": ":"
+							},
+							{
+								"x": 47,
+								"y": 29,
+								"angle": 0,
+								"width": 52.043479919433594,
+								"height": 152,
+								"glyph": "ü"
+							},
+							{
+								"x": 38,
+								"y": 25,
+								"angle": 234,
+								"width": 80.60869598388672,
+								"height": 152,
+								"glyph": "M"
+							},
+							{
+								"x": 29,
+								"y": 20,
+								"angle": 220,
+								"width": 53.91304397583008,
+								"height": 152,
+								"glyph": "P"
+							},
+							{
+								"x": 20,
+								"y": 15,
+								"angle": 84,
+								"width": 41.434783935546875,
+								"height": 152,
+								"glyph": "œ"
+							},
+							{
+								"x": 10,
+								"y": 11,
+								"angle": 240,
+								"width": 70.6956558227539,
+								"height": 152,
+								"glyph": "q"
+							},
+							{
+								"x": 0,
+								"y": 6,
+								"angle": 263,
+								"width": 26.434782028198242,
+								"height": 152,
+								"glyph": "·"
+							},
+							{
+								"x": -10,
+								"y": 0,
+								"angle": 252,
+								"width": 63.260868072509766,
+								"height": 152,
+								"glyph": "Ñ"
+							},
+							{
+								"x": -20,
+								"y": -5,
+								"angle": 288,
+								"width": 61.69565200805664,
+								"height": 152,
+								"glyph": "8"
+							},
+							{
+								"x": -30,
+								"y": -11,
+								"angle": 297,
+								"width": 57.34782791137695,
+								"height": 152,
+								"glyph": "ñ"
+							},
+							{
+								"x": -41,
+								"y": -16,
+								"angle": 148,
+								"width": 53.69565200805664,
+								"height": 152,
+								"glyph": "Â"
+							},
+							{
+								"x": -51,
+								"y": -22,
+								"angle": 155,
+								"width": 82.47826385498047,
+								"height": 152,
+								"glyph": "T"
+							},
+							{
+								"x": -62,
+								"y": -28,
+								"angle": 56,
+								"width": 98.3043441772461,
+								"height": 152,
+								"glyph": "d"
+							},
+							{
+								"x": -73,
+								"y": -34,
+								"angle": 193,
+								"width": 74.47826385498047,
+								"height": 152,
+								"glyph": "#"
+							},
+							{
+								"x": -84,
+								"y": -41,
+								"angle": 103,
+								"width": 31.521739959716797,
+								"height": 152,
+								"glyph": "ì"
+							},
+							{
+								"x": -95,
+								"y": -48,
+								"angle": 240,
+								"width": 48.956520080566406,
+								"height": 152,
+								"glyph": "£"
+							},
+							{
+								"x": -107,
+								"y": -54,
+								"angle": 185,
+								"width": 53.08695602416992,
+								"height": 152,
+								"glyph": "/"
+							}
+						],
+						"styleData": {
+							"fontFamily": "WC Rhesus A Bta",
+							"fontSize": 118,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"x": 1111.5,
+						"y": 1396.5,
+						"zIndex": 116,
+						"z": 116,
+						"height": 1,
+						"width": 1,
+						"alpha": 0.75,
+						"id": "bng__17915f4c64a_0.6a7990f847657",
+						"name": "Trail Splat",
+						"_id": "bng__17915f4c64a_0.6a7990f847657"
+					},
+					{
+						"alpha": 0.75,
+						"width": 1,
+						"height": 1,
+						"scale": 1,
+						"x": 997.5,
+						"y": 1339.5,
+						"z": 117,
+						"rotation": 0,
+						"hidden": false,
+						"locked": false,
+						"drips": [
+							{
+								"x": -23,
+								"y": 6,
+								"angle": 212,
+								"width": 83,
+								"height": 107,
+								"glyph": "D"
+							},
+							{
+								"x": 6,
+								"y": -16,
+								"angle": 18,
+								"width": 134,
+								"height": 107,
+								"glyph": "N"
+							},
+							{
+								"x": 10,
+								"y": -8,
+								"angle": 342,
+								"width": 83,
+								"height": 107,
+								"glyph": "B"
+							}
+						],
+						"styleData": {
+							"fontFamily": "splatter",
+							"fontSize": 95,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"zIndex": 117,
+						"id": "bng__17915fea49e_0.9b171d90f72f6",
+						"author": "ALH5lul2TfXBAtai",
+						"name": "Floor Splat",
+						"_id": "bng__17915fea49e_0.9b171d90f72f6"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 79,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": -9.075,
+								"y": -23.075,
+								"angle": 122,
+								"width": 63.434783935546875,
+								"height": 90,
+								"glyph": "a"
+							},
+							{
+								"x": -0.07499999999999929,
+								"y": -24.075,
+								"angle": 123,
+								"width": 45.260868072509766,
+								"height": 90,
+								"glyph": "G"
+							},
+							{
+								"x": -3.0749999999999993,
+								"y": -9.075,
+								"angle": 23,
+								"width": 67.21739196777344,
+								"height": 90,
+								"glyph": "v"
+							}
+						],
+						"offset": {
+							"x": -39,
+							"y": -54
+						},
+						"height": 105,
+						"width": 73.21739196777344,
+						"id": "bng__17915fea49f_0.cd9bfa14f477a",
+						"tokenId": "p3YaBE0zKly5FThZ"
+					},
+					{
+						"alpha": 0.75,
+						"width": 1,
+						"height": 1,
+						"scale": 1,
+						"x": 997.5,
+						"y": 1339.5,
+						"z": 118,
+						"rotation": 0,
+						"hidden": false,
+						"locked": false,
+						"drips": [
+							{
+								"x": -2,
+								"y": -19,
+								"angle": 223,
+								"width": 178,
+								"height": 130,
+								"glyph": "N"
+							},
+							{
+								"x": 0,
+								"y": 3,
+								"angle": 308,
+								"width": 118,
+								"height": 130,
+								"glyph": "F"
+							},
+							{
+								"x": 0,
+								"y": -3,
+								"angle": 49,
+								"width": 209,
+								"height": 130,
+								"glyph": "U"
+							},
+							{
+								"x": 7,
+								"y": 13,
+								"angle": 166,
+								"width": 178,
+								"height": 130,
+								"glyph": "N"
+							}
+						],
+						"styleData": {
+							"fontFamily": "splatter",
+							"fontSize": 126,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"zIndex": 118,
+						"id": "bng__17915ffa2ec_0.c39eaec16d3ec",
+						"author": "ALH5lul2TfXBAtai",
+						"name": "Floor Splat"
+					},
+					{
+						"name": "Token Splat",
+						"alpha": 0.85,
+						"styleData": {
+							"fontFamily": "Sigali",
+							"fontSize": 105,
+							"fill": "#8A0707",
+							"align": "center"
+						},
+						"drips": [
+							{
+								"x": -5.074999999999999,
+								"y": -22.075,
+								"angle": 78,
+								"width": 64.56521606445312,
+								"height": 96,
+								"glyph": "P"
+							},
+							{
+								"x": -15.075,
+								"y": -23.075,
+								"angle": 30,
+								"width": 93.43478393554688,
+								"height": 96,
+								"glyph": "u"
+							},
+							{
+								"x": -18.075,
+								"y": -31.075,
+								"angle": 334,
+								"width": 91.65217590332031,
+								"height": 96,
+								"glyph": "y"
+							},
+							{
+								"x": -11.075,
+								"y": -26.075,
+								"angle": 89,
+								"width": 81.91304016113281,
+								"height": 96,
+								"glyph": "s"
+							}
+						],
+						"offset": {
+							"x": -48,
+							"y": -61
+						},
+						"height": 105,
+						"width": 96.43478393554688,
+						"id": "bng__17915ffa2ef_0.428df14ee91b88",
+						"tokenId": "p3YaBE0zKly5FThZ"
+					}
+				],
+				"pointer": 23
+			}
+		},
+		"fxmaster": {
+			"filters": {}
+		},
+		"smalltime": {
+			"darkness-link": true,
+			"player-vis": "2"
+		},
+		"calendar-weather": {
+			"showFX": false,
+			"doNightCycle": false
+		},
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-scenes.ESwO9lAt8m47MdxQ"
+		},
+		"pinfix": {
+			"enable": true,
+			"pinLocker": true,
+			"aboveFog": true,
+			"zoomFloor": 0.1,
+			"zoomCeil": 3,
+			"minScale": 1,
+			"maxScale": 1,
+			"hudScale": 1
+		},
+		"weatherblock": {
+			"invertMask": false
+		}
+	}
+}

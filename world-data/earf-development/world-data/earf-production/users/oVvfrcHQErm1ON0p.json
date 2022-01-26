@@ -1,0 +1,132 @@
+{
+	"_id": "oVvfrcHQErm1ON0p",
+	"character": null,
+	"color": "#6b28cc",
+	"hotbar": {
+		"1": "I5efvWhbc3QeVNM2",
+		"2": "Xhf7mS9t3qAy0z1s",
+		"3": "rw0lL8ze1R9gGGkF",
+		"4": "ecrqoizA8FTnL04g",
+		"6": "AO7yaDR04g0WYoSC"
+	},
+	"name": "Gamemaster",
+	"password": "9411e6e8ffa951a835a252a97a733fdee62d0c173228b16beac0f7a5cc6611848af829eb3c33ca9a00eb80a7e6833a908e534e205e5221425145509eae2195ec",
+	"passwordSalt": "135854664b0ac0763d9112a0825dc9eb64d00e875255eec90568b171fed0fe8c",
+	"permissions": {},
+	"role": 4,
+	"flags": {
+		"dcc": {
+			"lastSeenSystemVersion": "0.32.3"
+		},
+		"dcc-core-book": {
+			"lastSeenVersion": "1.0.2"
+		},
+		"token-attacher": {
+			"copyPrototypeMap": {
+				"map": {
+					"Token": {
+						"lRxLWWvV8wdC31Eo": {
+							"AmbientLight": [
+								{
+									"x": 2243,
+									"y": 2578,
+									"rotation": 0,
+									"walls": true,
+									"vision": false,
+									"config": {
+										"alpha": 0.1,
+										"angle": 0,
+										"bright": 40,
+										"coloration": 1,
+										"dim": 30,
+										"gradual": true,
+										"luminosity": 0.1,
+										"saturation": 0.75,
+										"contrast": 0.35,
+										"shadows": 0,
+										"animation": {
+											"speed": 6,
+											"intensity": 10,
+											"reverse": false,
+											"type": "ghost"
+										},
+										"darkness": {
+											"min": 0,
+											"max": 1
+										},
+										"color": "#00ff91"
+									},
+									"hidden": false,
+									"flags": {
+										"lightmask": {
+											"shape": "circle",
+											"customWallIDs": null,
+											"relative": false,
+											"customEdges": []
+										},
+										"token-attacher": {
+											"parent": "lRxLWWvV8wdC31Eo",
+											"offset": {
+												"x": 18,
+												"y": 3,
+												"rot": 0,
+												"centerX": 18,
+												"centerY": 3,
+												"offRot": 0,
+												"size": {
+													"config": {
+														"dim": 30,
+														"bright": 40
+													},
+													"widthBase": 5,
+													"heightBase": 5
+												},
+												"elevation": {
+													"flags": {}
+												}
+											}
+										}
+									}
+								}
+							]
+						}
+					}
+				},
+				"grid": {
+					"size": 50,
+					"w": 50,
+					"h": 50
+				}
+			}
+		},
+		"monks-enhanced-journal": {
+			"tabs": [
+				{
+					"id": "1Vwtw5F19Aj9zvW2",
+					"text": "Encumbrance",
+					"active": true,
+					"history": [
+						"JournalEntry.rq8gv7HD1ziXrmGL",
+						"JournalEntry.tSuWazwe9BppeDwa",
+						"JournalEntry.rq8gv7HD1ziXrmGL",
+						"JournalEntry.tSuWazwe9BppeDwa"
+					],
+					"entityId": "JournalEntry.rq8gv7HD1ziXrmGL"
+				}
+			],
+			"_recentlyViewed": [
+				{
+					"id": "rq8gv7HD1ziXrmGL",
+					"uuid": "JournalEntry.rq8gv7HD1ziXrmGL",
+					"name": "Encumbrance",
+					"type": "base"
+				},
+				{
+					"id": "tSuWazwe9BppeDwa",
+					"uuid": "JournalEntry.tSuWazwe9BppeDwa",
+					"name": "Invisibility"
+				}
+			]
+		}
+	}
+}

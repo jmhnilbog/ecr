@@ -1,0 +1,22 @@
+{
+	"name": "Setup NPC Token",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/stoned.svg",
+	"scope": "global",
+	"command": "if (actor && token) { \n  game.dcc.getMacroActor()\n  token.document.update({\n    \"displayName\": CONST.TOKEN_DISPLAY_MODES.OWNER_HOVER,\n    \"img\": actor.img,\n    \"bar1\": {\n      attribute: \"attributes.hp\"\n    },\n    \"bar2\": {\n      attribute: \"attributes.ac.value\"\n    },\n    \"displayBars\": CONST.TOKEN_DISPLAY_MODES.OWNER_HOVER\n  })\n} else {\n \n ui.notifications.warn(game.i18n.localize(\"DCC.MacroNoTokenSelected\"))\n}",
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.gcZNHJLJHwfFgDBJ"
+		},
+		"combat-utility-belt": {
+			"macroTrigger": ""
+		}
+	},
+	"_id": "uMM7M68CEBwNbxgk"
+}

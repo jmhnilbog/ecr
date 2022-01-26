@@ -1,0 +1,37 @@
+{
+	"_id": "s5Be2j7wqqiza1Uj",
+	"name": "Mountain Leopard Pelt",
+	"type": "equipment",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/animal-hide.svg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>Rare, as it has spots. You'll need to find a buyer for this to get the full value.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 5,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "50",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1800000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-occupation-items.RSxf6yGL8ry4gG09"
+		}
+	}
+}

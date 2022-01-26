@@ -1,0 +1,40 @@
+{
+	"_id": "chB5bOLq22YgKxWS",
+	"name": "Chaos-Dedicated Incense",
+	"type": "equipment",
+	"img": "moulinette/images/gameicons/incense-%23ffdd00-%23787878.svg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>This stuff burns very quickly; each cone burns in 30 seconds or so.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 200000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-items.NaFjKXPVNEyHn8UU"
+		},
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<ul>\n<li>If burnt in the @Item[Golden Censer], this stupefies the @Actor[Tar Ooze] and @Actor[Chaos Leviathan] while doing so.</li>\n</ul>\n\n</div>"
+		}
+	}
+}

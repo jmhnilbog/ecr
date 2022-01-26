@@ -1,0 +1,19 @@
+{
+	"_id": "rq8gv7HD1ziXrmGL",
+	"name": "Encumbrance",
+	"content": "<div class=\"ecr ecr-wrapper ecr-markeddown\">\n<div class=\"house-rules\">\n<h1>Regarding Encumbrance</h1>\n<p><strong>For the most part, you can carry a reasonable amount. When important, though, here are the rules.</strong></p>\n<p>Players need to have a reasonable explanation of how and where each item is being carried or worn, if asked.</p>\n<p>Normal clothing, accessories, etc, are ignored.</p>\n<p>Other items carry the following 'costs'.</p>\n<table>\n<thead>\n<tr>\n<th>Example Items</th>\n<th>Cost to Carry</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>100 coins in a container</td>\n<td>+1 Item</td>\n</tr>\n<tr>\n<td>10 arrows in a quiver</td>\n<td>+1 Item</td>\n</tr>\n<tr>\n<td>something held in one hand</td>\n<td>+1 Item</td>\n</tr>\n<tr>\n<td>100 loose coins</td>\n<td>+1 Oversized Item</td>\n</tr>\n<tr>\n<td>a large, filled sack</td>\n<td>+1 Oversized Item</td>\n</tr>\n<tr>\n<td>a carpet or similar tall item</td>\n<td>+1 Oversized Item</td>\n</tr>\n<tr>\n<td>anything requiring two-hands to hold</td>\n<td>+1 Oversized Item</td>\n</tr>\n<tr>\n<td>A slot of @Item[Fatigue]</td>\n<td>+1 Oversized Item</td>\n</tr>\n<tr>\n<td>Any item a player has no good explanation for how it is being carried</td>\n<td>+1 Oversized Item</td>\n</tr>\n</tbody>\n</table>\n<p>Determine how many Items and Oversized Items you have, then calculate encumbrance:</p>\n<ul>\n<li>Wearing heavy armor? <strong>+1 Encumbrance</strong>.</li>\n<li>6 or more Items? <strong>+1 Encumbrance</strong>.</li>\n<li>11 or more Items? <strong>+1 Encumbrance</strong>.</li>\n<li>16 or more Items? <strong>+1 Encumbrance</strong>.</li>\n<li>21 or more Items? <strong>+1 Encumbrance</strong>.</li>\n<li>Each Oversized Item: <strong>+1 Encumbrance</strong>.</li>\n</ul>\n<p>Being Encumbered makes characters slower as shown below. In addition, total Encumbrance may be applied as a penalty to various activities or cause them to fail outright if narratively appropriate.</p>\n<table>\n<thead>\n<tr>\n<th>Total</th>\n<th>Level</th>\n<th>Effects</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0-1</td>\n<td>Unencumbered</td>\n<td>Full Move</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Lightly Encumbered</td>\n<td>¾ Move</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Heavily Encumbered</td>\n<td>½ Move,</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Severely Encumbered</td>\n<td>¼ Move</td>\n</tr>\n<tr>\n<td>5+</td>\n<td>Over Encumbered</td>\n<td>No Move</td>\n</tr>\n</tbody>\n</table>\n<p>Round Move to the nearest 5'.</p>\n<p>These effects apply to pack animals and vehicles as well, though Encumbrance points may be reduced by expert packing, specific animal abilities, and so on.</p>\n</div>\n</div>",
+	"img": null,
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"monks-enhanced-journal": {
+			"type": "base",
+			"scrollPos": "{\".description\":0}",
+			"_lasttab": "picture"
+		}
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"_id": "uvlE9JeU8epGaEqv",
+	"name": "Silver Torc with Skulls",
+	"type": "treasure",
+	"img": "icons/equipment/neck/choker-simple-carved-stone.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>A large silver torc hung with bleached skulls. Each skull  is  branded  with  a  chaos  rune.  By virtue of the craftsmanship and precious metal, the torc is worth 100 gp.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "100",
+			"sp": "0",
+			"cp": "0"
+		},
+		"isCoins": false,
+		"weight": 15
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1600000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"journal-links": {
+			"references": {}
+		},
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<ul>\n<li><strong>When donned by a chaotic or evil wizard</strong>, the torc  grants  a  +1  bonus  to  all  spell  checks.</li>\n<li><strong>Destroying  the  torc</strong>  grants lawful aligned PCs a bonus of +1 XP, while earning them the notice (and perhaps enmity) of the gods of Chaos.</li>\n</ul>\n\n</div>"
+		},
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-items.Cgo7OLc5aTblxISf"
+		}
+	}
+}

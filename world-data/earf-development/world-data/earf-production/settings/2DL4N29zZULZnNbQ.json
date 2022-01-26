@@ -1,0 +1,5 @@
+{
+	"_id": "2DL4N29zZULZnNbQ",
+	"key": "foundryvtt-simple-calendar.year-config",
+	"value": "{\"id\":\"8fd04d6a\",\"numericRepresentation\":1081,\"prefix\":\"\",\"postfix\":\"\",\"showWeekdayHeadings\":true,\"firstWeekday\":5,\"yearZero\":1970,\"yearNames\":[],\"yearNamingRule\":\"default\",\"yearNamesStart\":0}"
+}

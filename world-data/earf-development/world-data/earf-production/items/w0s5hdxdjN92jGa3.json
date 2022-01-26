@@ -1,0 +1,38 @@
+{
+	"_id": "w0s5hdxdjN92jGa3",
+	"name": "Steel Vial",
+	"type": "equipment",
+	"img": "icons/consumables/potions/vial-cork-empty.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>There's some liquid in here.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1100000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>When found, this contains 2 doses of @JournalEntry[Black Lotus Oil].</p>\n\n</div>"
+		}
+	}
+}

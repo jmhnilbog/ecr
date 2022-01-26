@@ -1,0 +1,53 @@
+{
+	"_id": "AUrQfLaNtqtbABzb",
+	"name": "Emerald-set Short sword",
+	"type": "weapon",
+	"img": "icons/skills/melee/sword-damaged-chipped-green.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>A fancy sword found wrapped in a @Item[Green Cloak].</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "It is what it says."
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 3,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "150",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d6",
+		"range": "-",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.5ZYlZfI7H0gpp0MF"
+		}
+	}
+}

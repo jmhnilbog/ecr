@@ -1,0 +1,36 @@
+{
+	"_id": "rKNifWwZsckXEOQ4",
+	"name": "Fleshy, Globed Fruit",
+	"type": "treasure",
+	"img": "icons/consumables/fruit/mang-unripe-yellow-green.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>You found this in a horrible place filled with vines, bones, sap, an unholy altar. It doesn't even look tasty.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"isCoins": false,
+		"weight": 1
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>Eating this is bad.</p>\n<dl>\n<dt>One bite</dt>\n<dd Blessing=\"\" of=\"\" the=\"\" Slow=\"\" God=\"\">Fall into coma [[/r 1d4]] hours and experience a @RollTable[Blessings of the Slow God]</dd>\n<dt>Two bites</dt>\n<dd>Fall into coma [[/r 1d3]] years. No mundane or magical method will awaken them before this</dd>\n<dt>Three bites</dt>\n<dd>Fall into coma for decades. Be forgotten by all and lost. Return as an agent of the Slow God</dd>\n</dl>\n\n</div>"
+		}
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"_id": "hi5w1wDud3HkMalG",
+	"name": "Felan's Axe",
+	"type": "weapon",
+	"img": "icons/weapons/axes/axe-double-jagged-black.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<ul>\n<li>Requires 16 STR</li>\n<li>+1 Crit range</li>\n<li>made of meteoric iron</li>\n</ul>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "Well-feared axe of a Chaos Lord!"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 20,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+0",
+		"damage": "1d10",
+		"range": "",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 500000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>Bears the @JournalEntry[Curse of Storm and Hate]!</p>\n\n</div>"
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"_id": "FRZgFP2Hg7bsYbIH",
+	"name": "Silk Tabard",
+	"type": "equipment",
+	"img": "other/dnd5e-icons/items/inventory/tabard-red.jpg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>It bears the symbol of Chaos.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "5",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 800000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>Normal beastmen are inclined to ignore the wearer.</p>\n\n</div>"
+		}
+	}
+}

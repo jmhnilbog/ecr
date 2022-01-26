@@ -1,0 +1,5 @@
+{
+	"_id": "etafVJlnKZmJh2Zg",
+	"key": "foundryvtt-simple-calendar.general-configuration",
+	"value": "{\"id\":\"7732c57e\",\"name\":\"\",\"numericRepresentation\":null,\"gameWorldTimeIntegration\":\"mixed\",\"showClock\":true,\"pf2eSync\":true,\"dateFormat\":{\"date\":\"MMMM DD, YYYY\",\"time\":\"HH:mm:ss\",\"monthYear\":\"MMMM YAYYYYYZ\"},\"permissions\":{\"id\":\"833a8fd\",\"name\":\"\",\"numericRepresentation\":null,\"viewCalendar\":{\"player\":true,\"trustedPlayer\":true,\"assistantGameMaster\":true},\"addNotes\":{\"player\":true,\"trustedPlayer\":true,\"assistantGameMaster\":true},\"reorderNotes\":{\"player\":false,\"trustedPlayer\":true,\"assistantGameMaster\":true},\"changeDateTime\":{\"player\":false,\"trustedPlayer\":false,\"assistantGameMaster\":true}}}"
+}

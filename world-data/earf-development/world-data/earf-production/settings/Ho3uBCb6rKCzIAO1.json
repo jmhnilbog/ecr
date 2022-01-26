@@ -1,0 +1,5 @@
+{
+	"key": "foundryvtt-simple-calendar.season-configuration",
+	"value": "[{\"id\":\"e3faadd3\",\"name\":\"Spring\",\"startingMonth\":3,\"startingDay\":20,\"color\":\"#fffce8\",\"sunriseTime\":21600,\"sunsetTime\":64800},{\"id\":\"6436380f\",\"name\":\"Summer\",\"startingMonth\":6,\"startingDay\":20,\"color\":\"#f3fff3\",\"sunriseTime\":21600,\"sunsetTime\":64800},{\"id\":\"35401255\",\"name\":\"Fall\",\"startingMonth\":9,\"startingDay\":22,\"color\":\"#fff7f2\",\"sunriseTime\":21600,\"sunsetTime\":64800},{\"id\":\"9261c898\",\"name\":\"Winter\",\"startingMonth\":12,\"startingDay\":21,\"color\":\"#f2f8ff\",\"sunriseTime\":21600,\"sunsetTime\":64800}]",
+	"_id": "Ho3uBCb6rKCzIAO1"
+}

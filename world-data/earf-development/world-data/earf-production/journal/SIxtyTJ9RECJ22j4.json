@@ -1,0 +1,12 @@
+{
+	"_id": "SIxtyTJ9RECJ22j4",
+	"name": "Fatigue",
+	"content": "<div class=\"ecr ecr-wrapper ecr-markeddown\">\n<div class=\"house-rules\">\n<p>Regarding Fatigue</p>\n<ul>\n<li>@Item[Fatigue] sits in your inventory, and @JournalEntry[Encumbrance]{encumbers} the holder.</li>\n<li>Forced marches, radiation poisoning, constant prayer, lengthy rituals, lack of sleep, etc. gives you Fatigue.</li>\n<li>A day and night of rest lets you drop a Fatigue.</li>\n<li>You can't naturally heal while you're holding any Fatigue.</li>\n<li>Each morning you have Fatigue, take (the amount of Fatigue (-STA modifier) (-CL))d6 damage.</li>\n</ul>\n</div>\n</div>",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

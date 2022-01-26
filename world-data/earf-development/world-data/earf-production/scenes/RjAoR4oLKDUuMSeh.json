@@ -1,0 +1,2000 @@
+{
+	"_id": "RjAoR4oLKDUuMSeh",
+	"name": "Welcome to Earf",
+	"active": false,
+	"navigation": true,
+	"navOrder": -300000,
+	"navName": "",
+	"img": null,
+	"foreground": null,
+	"width": 2650,
+	"height": 1500,
+	"padding": 0.2,
+	"initial": null,
+	"backgroundColor": "#999999",
+	"gridType": 1,
+	"grid": 140,
+	"shiftX": 0,
+	"shiftY": 0,
+	"gridColor": "#000000",
+	"gridAlpha": 0,
+	"gridDistance": 5,
+	"gridUnits": "ft",
+	"tokenVision": false,
+	"fogExploration": false,
+	"fogReset": 1643057133518,
+	"globalLight": true,
+	"globalLightThreshold": null,
+	"darkness": 0,
+	"drawings": [
+		{
+			"_id": "ThXu90Oegwj8UrWm",
+			"author": "oVvfrcHQErm1ON0p",
+			"type": "t",
+			"x": 2056.25,
+			"y": 507.5,
+			"width": 253,
+			"height": 92,
+			"rotation": 0,
+			"z": 0,
+			"points": [],
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": null,
+			"fillAlpha": 0,
+			"strokeWidth": 0,
+			"strokeColor": null,
+			"strokeAlpha": 1,
+			"text": "PLAYER 1",
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textColor": "#FFFFFF",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"flags": {
+				"better-text-drawings": {
+					"textAlignment": "left",
+					"textStrokeWidth": 2,
+					"textStrokeColor": "#111111"
+				}
+			},
+			"texture": null
+		},
+		{
+			"_id": "OEsr0ZGWD2bxSPjh",
+			"author": "oVvfrcHQErm1ON0p",
+			"type": "t",
+			"x": 2056.25,
+			"y": 787.5,
+			"width": 253,
+			"height": 92,
+			"rotation": 0,
+			"z": 0,
+			"points": [],
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": null,
+			"fillAlpha": 0,
+			"strokeWidth": 0,
+			"strokeColor": null,
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "PLAYER 1",
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textColor": "#FFFFFF",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"flags": {
+				"better-text-drawings": {
+					"textAlignment": "left",
+					"textStrokeWidth": 2,
+					"textStrokeColor": "#111111"
+				}
+			}
+		},
+		{
+			"_id": "pDDXDglNlk0W528u",
+			"author": "oVvfrcHQErm1ON0p",
+			"type": "t",
+			"x": 2038.75,
+			"y": 1058.75,
+			"width": 253,
+			"height": 92,
+			"rotation": 0,
+			"z": 0,
+			"points": [],
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": null,
+			"fillAlpha": 0,
+			"strokeWidth": 0,
+			"strokeColor": null,
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "PLAYER 1",
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textColor": "#FFFFFF",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"flags": {
+				"better-text-drawings": {
+					"textAlignment": "left",
+					"textStrokeWidth": 2,
+					"textStrokeColor": "#111111"
+				}
+			}
+		},
+		{
+			"_id": "yPupu6uKQNqOV3W3",
+			"author": "oVvfrcHQErm1ON0p",
+			"type": "t",
+			"x": 2038.75,
+			"y": 1356.25,
+			"width": 253,
+			"height": 92,
+			"rotation": 0,
+			"z": 0,
+			"points": [],
+			"bezierFactor": 0,
+			"fillType": 0,
+			"fillColor": null,
+			"fillAlpha": 0,
+			"strokeWidth": 0,
+			"strokeColor": null,
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "PLAYER 1",
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textColor": "#FFFFFF",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"flags": {
+				"better-text-drawings": {
+					"textAlignment": "left",
+					"textStrokeWidth": 2,
+					"textStrokeColor": "#111111"
+				}
+			}
+		}
+	],
+	"tokens": [
+		{
+			"_id": "h59uv6qQQmmzUKeO",
+			"name": "Blacksmith",
+			"displayName": 30,
+			"actorId": "vwOLffqYjKtbQEYR",
+			"actorLink": false,
+			"actorData": {},
+			"img": "other/milbys-maps-free/art/tokens/Black Loch Tokens/berea-silverhoard.png",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2744.44297096946,
+			"y": 480.32068425958823,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "h59uv6qQQmmzUKeO",
+						"xy": {
+							"x": 2744.44297096946,
+							"y": 480.32068425958823
+						},
+						"center": {
+							"x": 2814.44297096946,
+							"y": 550.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "wsj5SlquKQnqaEv3",
+			"name": "Hunter",
+			"displayName": 30,
+			"actorId": "HBuv47TGK1DHYZ6i",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2884.44297096946,
+			"y": 480.32068425958823,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "wsj5SlquKQnqaEv3",
+						"xy": {
+							"x": 2884.44297096946,
+							"y": 480.32068425958823
+						},
+						"center": {
+							"x": 2954.44297096946,
+							"y": 550.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "hg0Ij9hk8McXs1Jm",
+			"name": "Mercenary",
+			"displayName": 30,
+			"actorId": "Wx7Tu49JRg99TjgZ",
+			"actorLink": false,
+			"actorData": {},
+			"img": "icons/environment/people/spearfighter.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3024.44297096946,
+			"y": 480.32068425958823,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "hg0Ij9hk8McXs1Jm",
+						"xy": {
+							"x": 3024.44297096946,
+							"y": 480.32068425958823
+						},
+						"center": {
+							"x": 3094.44297096946,
+							"y": 550.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "xMTiUK7vbvyghwLr",
+			"name": "Turnip Farmer",
+			"displayName": 30,
+			"actorId": "CboJqy8BllPEdTQD",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villager-human-slave.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2604.44297096946,
+			"y": 480.32068425958823,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "xMTiUK7vbvyghwLr",
+						"xy": {
+							"x": 2604.44297096946,
+							"y": 480.32068425958823
+						},
+						"center": {
+							"x": 2674.44297096946,
+							"y": 550.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "ZZHBcuvLiK59IZ5H",
+			"name": "Villagers",
+			"displayName": 40,
+			"actorId": "dFDNBDueDbXV4jho",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/0-level/0-level-party-1.png",
+			"tint": null,
+			"width": 1.5,
+			"height": 1.5,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2380,
+			"y": 420,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 330,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": true,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 1,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "ZZHBcuvLiK59IZ5H",
+						"xy": {
+							"x": 2380,
+							"y": 420
+						},
+						"center": {
+							"x": 2485,
+							"y": 525
+						},
+						"rotation": 330,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "W7dyGMUwkCDIWrXR",
+			"name": "Villagers",
+			"displayName": 40,
+			"actorId": "dFDNBDueDbXV4jho",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/0-level/0-level-party-1.png",
+			"tint": null,
+			"width": 2,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2324.44297096946,
+			"y": 760.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": true,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 1,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "W7dyGMUwkCDIWrXR",
+						"xy": {
+							"x": 2324.44297096946,
+							"y": 760.3206842595882
+						},
+						"center": {
+							"x": 2464.44297096946,
+							"y": 830.3206842595882
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "zvsxReNUKAjC0TRq",
+			"name": "Turnip Farmer",
+			"displayName": 30,
+			"actorId": "CboJqy8BllPEdTQD",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villager-human-slave.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2604.44297096946,
+			"y": 760.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "zvsxReNUKAjC0TRq",
+						"xy": {
+							"x": 2604.44297096946,
+							"y": 760.3206842595882
+						},
+						"center": {
+							"x": 2674.44297096946,
+							"y": 830.3206842595882
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "oEuENsAqWmu4wamk",
+			"name": "Blacksmith",
+			"displayName": 30,
+			"actorId": "vwOLffqYjKtbQEYR",
+			"actorLink": false,
+			"actorData": {},
+			"img": "other/milbys-maps-free/art/tokens/Black Loch Tokens/berea-silverhoard.png",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2744.44297096946,
+			"y": 760.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "oEuENsAqWmu4wamk",
+						"xy": {
+							"x": 2744.44297096946,
+							"y": 760.3206842595882
+						},
+						"center": {
+							"x": 2814.44297096946,
+							"y": 830.3206842595882
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "T7NHiCOSBfLmZB8H",
+			"name": "Hunter",
+			"displayName": 30,
+			"actorId": "HBuv47TGK1DHYZ6i",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2884.44297096946,
+			"y": 760.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "T7NHiCOSBfLmZB8H",
+						"xy": {
+							"x": 2884.44297096946,
+							"y": 760.3206842595882
+						},
+						"center": {
+							"x": 2954.44297096946,
+							"y": 830.3206842595882
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "BihsCeBSv202kgdn",
+			"name": "Mercenary",
+			"displayName": 30,
+			"actorId": "Wx7Tu49JRg99TjgZ",
+			"actorLink": false,
+			"actorData": {},
+			"img": "icons/environment/people/spearfighter.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3024.44297096946,
+			"y": 760.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "BihsCeBSv202kgdn",
+						"xy": {
+							"x": 3024.44297096946,
+							"y": 760.3206842595882
+						},
+						"center": {
+							"x": 3094.44297096946,
+							"y": 830.3206842595882
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "OwC25DWPafwhhtX8",
+			"name": "Villagers",
+			"displayName": 40,
+			"actorId": "dFDNBDueDbXV4jho",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/0-level/0-level-party-1.png",
+			"tint": null,
+			"width": 2,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2324.44297096946,
+			"y": 1320.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 330,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": true,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 1,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "OwC25DWPafwhhtX8",
+						"xy": {
+							"x": 2324.44297096946,
+							"y": 1320.3206842595882
+						},
+						"center": {
+							"x": 2464.44297096946,
+							"y": 1390.3206842595882
+						},
+						"rotation": 330,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "ebc2KxxKi6ZOqIDC",
+			"name": "Turnip Farmer",
+			"displayName": 30,
+			"actorId": "CboJqy8BllPEdTQD",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villager-human-slave.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2604.44297096946,
+			"y": 1320.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "ebc2KxxKi6ZOqIDC",
+						"xy": {
+							"x": 2604.44297096946,
+							"y": 1320.3206842595882
+						},
+						"center": {
+							"x": 2674.44297096946,
+							"y": 1390.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "JemEuIgUqLP5g9Vs",
+			"name": "Blacksmith",
+			"displayName": 30,
+			"actorId": "vwOLffqYjKtbQEYR",
+			"actorLink": false,
+			"actorData": {},
+			"img": "other/milbys-maps-free/art/tokens/Black Loch Tokens/berea-silverhoard.png",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2744.44297096946,
+			"y": 1320.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "JemEuIgUqLP5g9Vs",
+						"xy": {
+							"x": 2744.44297096946,
+							"y": 1320.3206842595882
+						},
+						"center": {
+							"x": 2814.44297096946,
+							"y": 1390.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "Od6HsavjDwfIQqbD",
+			"name": "Hunter",
+			"displayName": 30,
+			"actorId": "HBuv47TGK1DHYZ6i",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2884.44297096946,
+			"y": 1320.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "Od6HsavjDwfIQqbD",
+						"xy": {
+							"x": 2884.44297096946,
+							"y": 1320.3206842595882
+						},
+						"center": {
+							"x": 2954.44297096946,
+							"y": 1390.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "5H73MYUzuN92hpYf",
+			"name": "Mercenary",
+			"displayName": 30,
+			"actorId": "Wx7Tu49JRg99TjgZ",
+			"actorLink": false,
+			"actorData": {},
+			"img": "icons/environment/people/spearfighter.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3024.44297096946,
+			"y": 1320.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "5H73MYUzuN92hpYf",
+						"xy": {
+							"x": 3024.44297096946,
+							"y": 1320.3206842595882
+						},
+						"center": {
+							"x": 3094.44297096946,
+							"y": 1390.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "aPeW7sK5khSwHUM9",
+			"name": "Villagers",
+			"displayName": 40,
+			"actorId": "dFDNBDueDbXV4jho",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/0-level/0-level-party-1.png",
+			"tint": null,
+			"width": 2,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2324.44297096946,
+			"y": 1040.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 330,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": true,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 1,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "aPeW7sK5khSwHUM9",
+						"xy": {
+							"x": 2324.44297096946,
+							"y": 1040.3206842595882
+						},
+						"center": {
+							"x": 2464.44297096946,
+							"y": 1110.3206842595882
+						},
+						"rotation": 330,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "Zu05xcjkUkbUkBgx",
+			"name": "Turnip Farmer",
+			"displayName": 30,
+			"actorId": "CboJqy8BllPEdTQD",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villager-human-slave.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2604.44297096946,
+			"y": 1040.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "Zu05xcjkUkbUkBgx",
+						"xy": {
+							"x": 2604.44297096946,
+							"y": 1040.3206842595882
+						},
+						"center": {
+							"x": 2674.44297096946,
+							"y": 1110.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "1mKKSHNpo9DI8FJz",
+			"name": "Blacksmith",
+			"displayName": 30,
+			"actorId": "vwOLffqYjKtbQEYR",
+			"actorLink": false,
+			"actorData": {},
+			"img": "other/milbys-maps-free/art/tokens/Black Loch Tokens/berea-silverhoard.png",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2744.44297096946,
+			"y": 1040.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "1mKKSHNpo9DI8FJz",
+						"xy": {
+							"x": 2744.44297096946,
+							"y": 1040.3206842595882
+						},
+						"center": {
+							"x": 2814.44297096946,
+							"y": 1110.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "lU3SiNTjTGo5dA6Y",
+			"name": "Hunter",
+			"displayName": 30,
+			"actorId": "HBuv47TGK1DHYZ6i",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2884.44297096946,
+			"y": 1040.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "lU3SiNTjTGo5dA6Y",
+						"xy": {
+							"x": 2884.44297096946,
+							"y": 1040.3206842595882
+						},
+						"center": {
+							"x": 2954.44297096946,
+							"y": 1110.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		},
+		{
+			"_id": "wEibPqn8MOJRXT8I",
+			"name": "Mercenary",
+			"displayName": 30,
+			"actorId": "Wx7Tu49JRg99TjgZ",
+			"actorLink": false,
+			"actorData": {},
+			"img": "icons/environment/people/spearfighter.webp",
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3024.44297096946,
+			"y": 1040.3206842595882,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": -1,
+			"displayBars": 30,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "attributes.ac.value"
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "wEibPqn8MOJRXT8I",
+						"xy": {
+							"x": 3024.44297096946,
+							"y": 1040.3206842595882
+						},
+						"center": {
+							"x": 3094.44297096946,
+							"y": 1110.3206842595882
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					}
+				}
+			}
+		}
+	],
+	"lights": [],
+	"notes": [],
+	"sounds": [],
+	"templates": [],
+	"tiles": [
+		{
+			"_id": "3cnFicusdYhMKV8E",
+			"img": "modules/ecr/images/basilisk-asterisk/utility/welcome-to-earf.webp",
+			"width": 1043,
+			"height": 1491,
+			"x": 630,
+			"y": 490,
+			"z": 100,
+			"rotation": 0,
+			"alpha": 1,
+			"tint": null,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {}
+		}
+	],
+	"walls": [
+		{
+			"_id": "mf7GKL8O064ZyKwk",
+			"c": [
+				3167,
+				726,
+				2310,
+				726
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "EZoCMOAPdgVgkrPE",
+			"c": [
+				2310,
+				726,
+				2301,
+				927
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "zk7h2WHYFXaHvGTj",
+			"c": [
+				2301,
+				927,
+				3185,
+				927
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "J5p4NQq7OM4T6PA3",
+			"c": [
+				3167,
+				726,
+				3185,
+				927
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "Wv8H9i1Yz543bD6X",
+			"c": [
+				2327,
+				455,
+				2318,
+				656
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "6yMirjDhhZ1Agr4u",
+			"c": [
+				3184,
+				455,
+				3202,
+				656
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "D7qZoZRlpkx9mXGS",
+			"c": [
+				3184,
+				455,
+				2327,
+				455
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "REl6ujVLEwmAdQ4r",
+			"c": [
+				2318,
+				656,
+				3202,
+				656
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "AKsVJEW9xP4rDJYg",
+			"c": [
+				2301,
+				1015,
+				2292,
+				1216
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "mPtS8f5MGosUacxM",
+			"c": [
+				3158,
+				1015,
+				3176,
+				1216
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "VORGJEuvUzib9Kmx",
+			"c": [
+				3158,
+				1015,
+				2301,
+				1015
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "UqnRJZpROOyLX11A",
+			"c": [
+				2292,
+				1216,
+				3176,
+				1216
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "YpK649qhjv87Bxv9",
+			"c": [
+				2318,
+				1286,
+				2309,
+				1487
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "xGSVm05ccftsrDbg",
+			"c": [
+				3175,
+				1286,
+				3193,
+				1487
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "KqWbo8HHNIydSsDo",
+			"c": [
+				3175,
+				1286,
+				2318,
+				1286
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "Kb28lkTUtNknNq9G",
+			"c": [
+				2309,
+				1487,
+				3193,
+				1487
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		}
+	],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": null,
+	"weather": "",
+	"folder": "VzUNFGKYA0g0heFW",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"weatherblock": {
+			"invertMask": false
+		},
+		"pinfix": {
+			"enable": false,
+			"pinLocker": false,
+			"aboveFog": false,
+			"zoomFloor": 0.1,
+			"zoomCeil": 3,
+			"minScale": 1,
+			"maxScale": 1,
+			"hudScale": 1
+		},
+		"token-attacher": {}
+	}
+}

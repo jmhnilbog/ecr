@@ -1,0 +1,42 @@
+{
+	"_id": "lkpc03vqu5O9ir0r",
+	"name": "Moldy Old Robes",
+	"type": "armor",
+	"img": "other/dnd5e-icons/items/armor/robe.jpg",
+	"data": {
+		"description": {
+			"value": "",
+			"chat": "",
+			"unidentified": "",
+			"summary": "...with silver sigils enstiched"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 1,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"acBonus": 0,
+		"checkPenalty": 0,
+		"speed": "-0'",
+		"fumbleDie": "1d4"
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>Normal beastmen are inclined to ignore characters in these robes, and shy away.</p>\n\n</div>"
+		}
+	}
+}

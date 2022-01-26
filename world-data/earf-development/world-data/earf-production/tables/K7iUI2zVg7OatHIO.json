@@ -1,0 +1,61 @@
+{
+	"_id": "K7iUI2zVg7OatHIO",
+	"name": "Scaled Animal Names",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Just the names of scaled animals, in Title Case.",
+	"results": [
+		{
+			"_id": "CzRobMUWIvVKocc4",
+			"flags": {},
+			"type": 0,
+			"text": "Snake",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false
+		},
+		{
+			"_id": "i9qRPK9vtpgjnFf1",
+			"flags": {},
+			"type": 0,
+			"text": "Lizard",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false
+		},
+		{
+			"_id": "VDXIXnL7vZmqeu2k",
+			"flags": {},
+			"type": 0,
+			"text": "Alligator",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false
+		}
+	],
+	"formula": "1d3",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "pTkdcUmYCUn7OMzl",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.US8P7UnDPstvBSyq"
+		}
+	}
+}

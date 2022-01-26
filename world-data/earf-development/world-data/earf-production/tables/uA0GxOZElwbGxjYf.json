@@ -1,0 +1,103 @@
+{
+	"_id": "uA0GxOZElwbGxjYf",
+	"name": "Blessings of the Slow God",
+	"img": "icons/consumables/plants/succulent-bundle-green.webp",
+	"description": "While in the fruit-induced coma, you experience vegetal bliss, slowly, and are transformed.",
+	"results": [
+		{
+			"_id": "LpNQ0oNsTfN6vnNG",
+			"type": 0,
+			"text": "You feel certain you were not meant to be a plant, gaining [[1d3]] Personality permanently.",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"collection": null,
+			"resultId": null,
+			"rangeL": 1,
+			"rangeH": 1
+		},
+		{
+			"_id": "p8yuwZWgrcrvWoPb",
+			"type": 0,
+			"text": "Some of the Slow God's Will returns with you. You may cast @Compendium[dcc-core-book.dcc-core-spell-journals.Word of Command] twice a day using [[/r 1d16]].",
+			"collection": null,
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"resultId": null,
+			"rangeL": 2,
+			"rangeH": 2
+		},
+		{
+			"_id": "1H9eOTbOOnDLXH3C",
+			"type": 0,
+			"text": "You are slower to respond to the discomforts and ills of meat-life, gaining [[1d3]] Stamina, permanently.",
+			"collection": null,
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"resultId": null,
+			"rangeL": 3,
+			"rangeH": 3
+		},
+		{
+			"_id": "RypKcMG2SKbvpRoE",
+			"type": 0,
+			"text": "Regeneration is natural, and you awaken with the power to heal others. Three times a day, you may <strong>Lay on Hands</strong> as a Cleric, using [[/r 1d14]].",
+			"collection": null,
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"resultId": null,
+			"rangeL": 4,
+			"rangeH": 4
+		},
+		{
+			"_id": "X0VoT9MNoM5XFT9B",
+			"type": 0,
+			"text": "You are just really glad you woke up. Really really glad. [[1d3]] Luck glad.",
+			"collection": null,
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false,
+			"flags": {},
+			"img": "icons/svg/d20-black.svg",
+			"resultId": null,
+			"rangeL": 5,
+			"rangeH": 5
+		}
+	],
+	"formula": "1d5",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "mhWYMWCGWXoggWQK",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

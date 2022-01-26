@@ -1,0 +1,16 @@
+{
+	"_id": "M08VQv0534lADcvO",
+	"name": "Reset Random Encounter Check",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/magic/time/clock-stopwatch-white-blue.webp",
+	"scope": "global",
+	"command": "// see ecr macros\n(() => {\n    if (!(game instanceof Game)) {\n        return;\n    }\n    let interval: NodeJS.Timeout | number | null = null;\n    if (interval !== null) {\n        console.log('Clearing previously set random encounter checks.');\n        clearInterval(interval);\n        interval = null;\n    }\n\n    // TODO: get the current random encounter check interval from a flag\n    const randomEncounterTimeInterval = { minute: 60 };\n\n    console.log(\n        'Setting random encounter checks every...',\n        randomEncounterTimeInterval\n    );\n\n    interval = game.Gametime.doEvery(randomEncounterTimeInterval, async () => {\n        console.log('Time for a random encounter check.');\n        if (!(game instanceof Game)) {\n            return;\n        }\n        // TODO: get the current die formula from a flag\n        const dieFormula = '1d6';\n        // TODO: get the current table for checking against from a flag\n\n        const tableName = `${game.scenes?.current?.name}: Random Encounter Check`;\n        const table = game.tables?.getName(tableName);\n        if (!table) {\n            console.log(\n                \"Can't roll random encounter; no table found named\",\n                tableName\n            );\n            return;\n        }\n\n        // @ts-ignore\n        const result = await table.draw({\n            roll: new Roll(dieFormula),\n        });\n\n        console.log('Check result:', result);\n    });\n})();",
+	"folder": "rN3ECNtraSb8X8C1",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

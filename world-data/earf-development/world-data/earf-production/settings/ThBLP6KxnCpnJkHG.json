@@ -1,0 +1,5 @@
+{
+	"_id": "ThBLP6KxnCpnJkHG",
+	"key": "core.compendiumConfiguration",
+	"value": "{\"ecr.sotss-rolltables\":{\"private\":false,\"locked\":false},\"dcc-core-book.dcc-core-index\":{\"private\":false,\"locked\":true}}"
+}

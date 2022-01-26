@@ -1,0 +1,100 @@
+{
+	"_id": "mAKPFzNnSVZBlQbd",
+	"name": "Furred Animal Names",
+	"img": "icons/svg/d20-grey.svg",
+	"description": "Just the names of furred animals, in Title Case.",
+	"results": [
+		{
+			"_id": "gctilszyfKSmBkZU",
+			"flags": {},
+			"type": 0,
+			"text": "Bear",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				1,
+				1
+			],
+			"drawn": false
+		},
+		{
+			"_id": "ebdT32Lw4MsOGSKo",
+			"flags": {},
+			"type": 0,
+			"text": "Ram",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				2,
+				2
+			],
+			"drawn": false
+		},
+		{
+			"_id": "47MpEJBaQZFXYkqE",
+			"flags": {},
+			"type": 0,
+			"text": "Rat",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				3,
+				3
+			],
+			"drawn": false
+		},
+		{
+			"_id": "AwC1a2eUkOUWA3xi",
+			"flags": {},
+			"type": 0,
+			"text": "Ape",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				4,
+				4
+			],
+			"drawn": false
+		},
+		{
+			"_id": "OpBlKrBnYi3jPd7R",
+			"flags": {},
+			"type": 0,
+			"text": "Tiger",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				5,
+				5
+			],
+			"drawn": false
+		},
+		{
+			"_id": "RecmSmyR0Xi4Alhv",
+			"flags": {},
+			"type": 0,
+			"text": "Wolf",
+			"img": "icons/svg/d20-black.svg",
+			"weight": 1,
+			"range": [
+				6,
+				6
+			],
+			"drawn": false
+		}
+	],
+	"formula": "1d6",
+	"replacement": true,
+	"displayRoll": true,
+	"folder": "pTkdcUmYCUn7OMzl",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"cf": null,
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-rolltables.tbV0QGMZsYQVnNoI"
+		}
+	}
+}

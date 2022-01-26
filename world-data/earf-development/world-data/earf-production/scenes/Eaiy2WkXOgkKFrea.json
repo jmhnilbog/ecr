@@ -1,0 +1,1447 @@
+{
+	"_id": "Eaiy2WkXOgkKFrea",
+	"name": "The Starless Sea and Ziggurat",
+	"active": true,
+	"navigation": true,
+	"navOrder": 0,
+	"navName": "The Starless Sea and Ziggurat",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/maps/ziggurat-and-starless-sea.webp",
+	"foreground": null,
+	"thumb": "worlds/earf-alpha/scenes/thumbs/Eaiy2WkXOgkKFrea.png",
+	"width": 4300,
+	"height": 3200,
+	"padding": 0.05,
+	"initial": {
+		"x": 2116,
+		"y": 1849,
+		"scale": 0.26
+	},
+	"backgroundColor": "#999999",
+	"gridType": 1,
+	"grid": 50,
+	"shiftX": 0,
+	"shiftY": 0,
+	"gridColor": "#000000",
+	"gridAlpha": 0,
+	"gridDistance": 5,
+	"gridUnits": "ft",
+	"tokenVision": true,
+	"fogExploration": false,
+	"fogReset": 1639590606976,
+	"globalLight": true,
+	"globalLightThreshold": null,
+	"darkness": 1,
+	"drawings": [],
+	"tokens": [
+		{
+			"_id": "lRxLWWvV8wdC31Eo",
+			"name": "Dragon Boat",
+			"displayName": 0,
+			"actorId": "MpR4clJVuZzITfUy",
+			"actorLink": true,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/handouts/the-dragon-ship.webp",
+			"tint": null,
+			"width": 5,
+			"height": 5,
+			"scale": 1.7,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3550,
+			"y": 2900,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": true,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 4,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "lRxLWWvV8wdC31Eo",
+						"xy": {
+							"x": 3550,
+							"y": 2900
+						},
+						"center": {
+							"x": 3675,
+							"y": 3025
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"AmbientLight": [
+							"kgBRp2JOlbXYfLrd"
+						]
+					}
+				}
+			}
+		},
+		{
+			"_id": "pWYzh0JRJJf09Kxf",
+			"name": "Lava Pit",
+			"displayName": 0,
+			"actorId": "L297ngtDAgGNc6Og",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				},
+				"name": "Torch-Sized Flame (Lightless)"
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 3,
+			"height": 6,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1709,
+			"y": 959,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 210,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 0,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "pWYzh0JRJJf09Kxf",
+						"xy": {
+							"x": 1709,
+							"y": 959
+						},
+						"center": {
+							"x": 1784,
+							"y": 1109
+						},
+						"rotation": 210,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "fHdV0y4riwh1KlIj",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 1,
+							"max": 1
+						}
+					},
+					"details": {
+						"notes": {
+							"value": ""
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1573.6000000000001,
+			"y": 1196.8,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "fHdV0y4riwh1KlIj",
+						"xy": {
+							"x": 1573.6000000000001,
+							"y": 1196.8
+						},
+						"center": {
+							"x": 1598.6000000000001,
+							"y": 1221.8
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"b8FQXPpgijn9BFIM"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "cy4Ls18DFGz2lNXM",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1373,
+			"y": 1432,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "cy4Ls18DFGz2lNXM",
+						"xy": {
+							"x": 1373,
+							"y": 1432
+						},
+						"center": {
+							"x": 1398,
+							"y": 1457
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"qerNH597wUPpOnQs"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "bdH1U0FT9GJE3wSr",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1364.0397439977367,
+			"y": 654.8656714754983,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "bdH1U0FT9GJE3wSr",
+						"xy": {
+							"x": 1364.0397439977367,
+							"y": 654.8656714754983
+						},
+						"center": {
+							"x": 1389.0397439977367,
+							"y": 679.8656714754983
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"82QRuW8WljGKXJ6f"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "TL7iC60TIRY50Pvo",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1945.7746478873244,
+			"y": 860.5633802816901,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "TL7iC60TIRY50Pvo",
+						"xy": {
+							"x": 1945.7746478873244,
+							"y": 860.5633802816901
+						},
+						"center": {
+							"x": 1970.7746478873244,
+							"y": 885.5633802816901
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"zeToEnePsf2emRT0"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "Tyr30lqlYnCBzwSE",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 2148.1309981729905,
+			"y": 651.9053246452561,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "Tyr30lqlYnCBzwSE",
+						"xy": {
+							"x": 1400,
+							"y": 1200
+						},
+						"center": {
+							"x": 1425,
+							"y": 1225
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"ReZkbSlEph7K6scg"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "snzSYCwJQhRyLBnm",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1579.5978480527567,
+			"y": 877.4979045147167,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "snzSYCwJQhRyLBnm",
+						"xy": {
+							"x": 1400,
+							"y": 1200
+						},
+						"center": {
+							"x": 1425,
+							"y": 1225
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"lgvjDplwfoltn97R"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "9R3VMMxwKPINqMTQ",
+			"name": "Torch-Sized Flame",
+			"displayName": 0,
+			"actorId": "A1Qez7jD6vy1mrOo",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 1850.32955536983,
+			"y": 1155.5466850025216,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "9R3VMMxwKPINqMTQ",
+						"xy": {
+							"x": 1400,
+							"y": 1200
+						},
+						"center": {
+							"x": 1425,
+							"y": 1225
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"Km3b2TGugNtbQ8Pa"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		}
+	],
+	"lights": [
+		{
+			"_id": "Zt7piDdiqPOi5xML",
+			"x": 1775,
+			"y": 1200,
+			"rotation": 0,
+			"dim": 20,
+			"bright": 10,
+			"angle": 0,
+			"tintAlpha": 0.25,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 5,
+				"type": "torch",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"tintColor": "#000000",
+			"config": {
+				"dim": 60,
+				"bright": 5,
+				"angle": 0,
+				"color": "#e70a00",
+				"alpha": 0.3,
+				"animation": {
+					"speed": 2,
+					"intensity": 10,
+					"type": "pulse",
+					"reverse": true
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 7,
+				"gradual": true,
+				"luminosity": 0.3,
+				"saturation": 0.4,
+				"contrast": 0.05,
+				"shadows": 0.15
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "kgBRp2JOlbXYfLrd",
+			"x": 3693,
+			"y": 3028,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.1,
+				"angle": 0,
+				"bright": 40,
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.1,
+				"saturation": 0.75,
+				"contrast": 0.35,
+				"shadows": 0,
+				"animation": {
+					"speed": 6,
+					"intensity": 10,
+					"reverse": false,
+					"type": "ghost"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": "#00ff91"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				},
+				"token-attacher": {
+					"parent": "lRxLWWvV8wdC31Eo",
+					"offset": {
+						"x": 18,
+						"y": 3,
+						"rot": 0,
+						"centerX": 18,
+						"centerY": 3,
+						"offRot": 0,
+						"size": {
+							"config": {
+								"dim": 30,
+								"bright": 40
+							},
+							"widthBase": 5,
+							"heightBase": 5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		}
+	],
+	"notes": [
+		{
+			"_id": "bx9LdcQVLCHR7ltj",
+			"entryId": "qQefSeJYO2vqkuvu",
+			"x": 1700,
+			"y": 1000,
+			"icon": "icons/magic/earth/lava-explosion-orange.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "x0h8xJc9gQZCl3u1",
+			"entryId": "KF8JgSg92PQZVJEH",
+			"x": 2075,
+			"y": 1500,
+			"icon": "icons/commodities/treasure/puzzle-pyramid.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		}
+	],
+	"sounds": [
+		{
+			"_id": "TKad8SLUPeda1wS5",
+			"x": 1775,
+			"y": 1175,
+			"radius": 102.01,
+			"path": "moulinette/sounds/baileywiki/baileywiki-maps/sounds/Burning_House_T2_Fire_High_Intensity_With_Sizzling_And_Some_Debris_Re50_1.ogg",
+			"repeat": false,
+			"volume": 0.5,
+			"walls": true,
+			"easing": true,
+			"hidden": false,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"flags": {
+				"lightmask": {
+					"rotation": 180,
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false
+				}
+			}
+		}
+	],
+	"templates": [],
+	"tiles": [
+		{
+			"_id": "b8FQXPpgijn9BFIM",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1576.6000000000001,
+			"y": 1229.8,
+			"z": 100,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "fHdV0y4riwh1KlIj",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "qerNH597wUPpOnQs",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1376,
+			"y": 1465,
+			"z": 101,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "cy4Ls18DFGz2lNXM",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "82QRuW8WljGKXJ6f",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1367.0397439977367,
+			"y": 687.8656714754983,
+			"z": 102,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "bdH1U0FT9GJE3wSr",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "zeToEnePsf2emRT0",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1948.7746478873244,
+			"y": 893.5633802816901,
+			"z": 103,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "TL7iC60TIRY50Pvo",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "ReZkbSlEph7K6scg",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 2151,
+			"y": 685,
+			"z": 104,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "Tyr30lqlYnCBzwSE",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "lgvjDplwfoltn97R",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1583,
+			"y": 910,
+			"z": 105,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "snzSYCwJQhRyLBnm",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Km3b2TGugNtbQ8Pa",
+			"img": "moulinette/images/gameicons/primitive-torch-%23ad7000-transparent.svg",
+			"width": 31.3,
+			"height": 33.7,
+			"x": 1853,
+			"y": 1189,
+			"z": 106,
+			"rotation": 0,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"token-attacher": {
+					"parent": "9R3VMMxwKPINqMTQ",
+					"offset": {
+						"x": -22,
+						"y": 8,
+						"rot": 0,
+						"centerX": -6.360662410470468,
+						"centerY": 24.85025988189318,
+						"offRot": 0,
+						"size": {
+							"width": 31.278675179058837,
+							"height": 33.70051976378636,
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		}
+	],
+	"walls": [],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": "aQme5yAZzIMSAd1D",
+	"weather": "",
+	"folder": "NweHssUAaKgGQG58",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3,
+		"default": 0
+	},
+	"flags": {
+		"falemos": {
+			"config": {
+				"hide": {
+					"mode": "scene"
+				}
+			}
+		},
+		"fxmaster": {
+			"filters": {},
+			"effects": {},
+			"invert": false,
+			"filteredLayers": {
+				"background": true,
+				"foreground": true,
+				"drawings": true,
+				"tokens": true
+			}
+		},
+		"token-attacher": {},
+		"smalltime": {
+			"darkness-link": true,
+			"player-vis": "2"
+		},
+		"core": {
+			"sourceId": "Compendium.ecr.sotss-scenes.Dq7sbJi4rjFWC6of"
+		},
+		"htmltoscene": {
+			"enable": false,
+			"fileLoc": "",
+			"minUI": true,
+			"keepTop": false,
+			"spaceRight": true,
+			"rightDisabled": false,
+			"hidePaused": false,
+			"hideSmallTime": false
+		},
+		"pinfix": {
+			"enable": true,
+			"pinLocker": true,
+			"aboveFog": true,
+			"zoomFloor": 0.1,
+			"zoomCeil": 3,
+			"minScale": 1,
+			"maxScale": 1,
+			"hudScale": 1
+		},
+		"weatherblock": {
+			"invertMask": false
+		}
+	}
+}

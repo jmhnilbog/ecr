@@ -1,0 +1,38 @@
+{
+	"_id": "tmN69Xk6HmwQmHVc",
+	"name": "Iron and Ruby Ring",
+	"type": "equipment",
+	"img": "other/dnd5e-icons/items/jewelry/ring-silver.jpg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>You found this on a finger bone in a skull-filled pool.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 700000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>In compete darkness, the rubies have a faint glow.</p>\n<p>This is <strong>Sezrakan's Band of Fire</strong>.</p>\n<ul>\n<li>The wearer may attempt @Compendium[dcc-core-book.dcc-core-spell-journals.Magic Missile] x3 day. Non-wizards make the attempt with a [[/r 1d16]] + CL spell check, modified by bulky armor.</li>\n<li>The wearer may attempt @Compendium[dcc-core-book.dcc-core-spell-journals.Fire Resistance] x2 day. Non-wizards make the attempt with a [[/r 1d16]] + CL spell check, modified by bulky armor.</li>\n<li>The wearer may attempt @Compendium[dcc-core-book.dcc-core-spell-journals.Scorching Ray] x1 day. Non-wizards make the attempt with a [[/r 1d16]] + CL spell check, modified by bulky armor.</li>\n<li>Wizard wearers receive +1 to all spell checks.</li>\n<li>5th and higher level Wizards may recieve additional powers.</li>\n<li>This is an artifact known and coveted by many.</li>\n</ul>\n\n</div>"
+		}
+	}
+}

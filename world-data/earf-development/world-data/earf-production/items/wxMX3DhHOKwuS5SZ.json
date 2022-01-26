@@ -1,0 +1,57 @@
+{
+	"_id": "wxMX3DhHOKwuS5SZ",
+	"name": "Effigy",
+	"type": "weapon",
+	"img": "moulinette/tiles/oixxo-art/oixxo-art-wheel-of-the-year/5-lammas/corn-doll.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>Some ritual device hefty enough to brain an opponent with.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "a life-size effigy"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 100,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+0",
+		"damage": "1d4",
+		"range": "",
+		"twoHanded": true,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "fbV8PvVN4IfjQF7l",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Item.HenPpvA0L7Utluf6"
+		},
+		"cf": {
+			"id": "temp_y670lg86sh",
+			"color": "#000000"
+		}
+	}
+}

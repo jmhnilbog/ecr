@@ -1,0 +1,32 @@
+{
+	"_id": "WsfyyXGeRYFMB0dh",
+	"name": "Vellum Map",
+	"type": "treasure",
+	"img": "icons/sundries/scrolls/scroll-bound-white-tan.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>A map. You don't recognize what it is of, but it wants to lead you somewhere. Perhaps some city dweller might understand it?</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"isCoins": false,
+		"weight": null
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1300000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

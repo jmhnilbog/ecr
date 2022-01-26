@@ -1,0 +1,22 @@
+{
+	"_id": "OB0dGZG8D3cuQvoX",
+	"name": "Lightsource: None",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/blind.svg",
+	"scope": "global",
+	"command": "if (token) { \n  token.document.update({\n    dimSight: 5,\n    light: {\n      dim: 0,\n      bright: 0,\n      animation: {\n        speed: 1,\n        intensity: 1,\n        type: ''\n      }\n    }\n  })\n} else {\n \n ui.notifications.warn(game.i18n.localize(\"DCC.MacroNoTokenSelected\"))\n}",
+	"folder": "I8w0vgyaB72cmWtG",
+	"sort": 300000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.plZe7KH6AVX0Tb6t"
+		},
+		"combat-utility-belt": {
+			"macroTrigger": ""
+		}
+	}
+}

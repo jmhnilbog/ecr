@@ -1,0 +1,16 @@
+{
+	"_id": "Xhf7mS9t3qAy0z1s",
+	"name": "Attach Torch",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/dice-target.svg",
+	"scope": "global",
+	"command": "const LightMacro = () => {\n    // for each selected token...\n    canvas.tokens.controlled.forEach(async (token) => {\n        // get the torch actor\n        let a = game.actors.getName('Torch-Sized Flame');\n\n        if (!a) {\n            return;\n        }\n        // get the associated token data\n        let td = await a.getTokenData();\n        // move it to the right spot\n        td.update({ x: token.x, y: token.y });\n\n        // create the torch\n        let torchToken = await TokenDocument.create(td, {\n            //@ts-ignore\n            parent: canvas.scene,\n        });\n\n        // attach it to the selected token\n\n        //console.log(\"selected token\", token)\n        //console.log(\"torchToken Document\", torchTokenDocument);\n        console.log(\"torchToken\", torchToken)\n\n        //@ts-ignore\n        await tokenAttacher.attachElementToToken(torchToken, token, true);\n        //@ts-ignore\n        await tokenAttacher.setElementsLockStatus(torchToken, false, true);\n    });\n};\n\nLightMacro();",
+	"folder": "I8w0vgyaB72cmWtG",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

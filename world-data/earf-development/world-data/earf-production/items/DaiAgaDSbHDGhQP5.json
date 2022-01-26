@@ -1,0 +1,50 @@
+{
+	"_id": "DaiAgaDSbHDGhQP5",
+	"name": "Portcullis Drop!",
+	"type": "weapon",
+	"img": "icons/tools/fasteners/pin-spiked.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<ul>\n<li>[[/r 1d6]] damage every round against those hit, and they remain trapped</li>\n<li>escape requires a <strong>DC 23 STR check</strong> or 4 PCs working together with <strong>a total of at least 40 STR</strong></li>\n</ul>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "impale and trap!"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "-5",
+		"damage": "1d6",
+		"range": "",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "JqggWbIvMZYAT59n",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

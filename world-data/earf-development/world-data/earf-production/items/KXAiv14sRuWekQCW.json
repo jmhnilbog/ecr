@@ -1,0 +1,50 @@
+{
+	"_id": "KXAiv14sRuWekQCW",
+	"name": "Fire Spray!",
+	"type": "weapon",
+	"img": "other/dnd5e-icons/spells/fire-arrows-2.jpg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>DC 15 Reflex save for 1/2 damage.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "A blast of fire from a door"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "1d20",
+		"toHit": "+0",
+		"damage": "1d10",
+		"range": "",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": 0,
+		"subdual": 0,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": 0,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "JqggWbIvMZYAT59n",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

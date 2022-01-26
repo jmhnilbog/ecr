@@ -1,0 +1,13 @@
+{
+	"_id": "CtgNgj1LquVZunZ4",
+	"name": "The Devil's Causeway",
+	"content": "<div class=\"ecr ecr-journal\n\">\n<div class=\"encounter\">\n<h1>The road to the keep is overrun with weeds...and horror!</h1>\n<div class=\"summary\">\n<h4>Summary</h4>\n<p>The two bodies here are @Token[Keary] and Alban, children of the village blacksmith. They have been changed into @Actor[Vine Horror]{Vine Horrors}, which spill thousands of horrid @Actor[Awful Seeds] when dispatched.</p>\n<p>They have a pitiful amount of treasure on them.</p>\n</div>\n<div class=\"main\">\n<div class=\"readaloud\">\n<p>An old <strong>dirt road</strong>, now <strong>overrun with weeds</strong> and sickly vines, rises\ntowards the ruined citadel. A grisly sight bars your way: <strong>a pair of bodies,\nsecured to poles</strong> by long ropey vines. The wicked <strong>vines have wormed their way\ninside</strong> the bodies’ eyes, ears, and mouths.</p>\n</div>\n</div>\n<div class=\"handout\">\n<p>Should they approach further, show the @JournalEntry[Bodies on the Causeway] handout, then...</p>\n</div>\n<div class=\"readaloud\">\n<p>To your horror, <em>you realize the\nbodies are still moving</em>!</p>\n</div>\n<p>The vines unwind from the posts, freeing the\nhorrors to shamble toward the PCs.</p>\n<p><strong>Any PC from the village that gets a good look at the corpses recognizes them as the village blacksmith's children, Keary and Alban.</strong> The brothers vanished from the village eleven days\nago. The beastmen killed the brothers and seeded their corpses\nwith vine horrors to ward off any investigations from the\ntownsfolk.</p>\n<p>The bodies fall apart upon 'death', releasing piles of @Actor[Awful Seeds]. They hold a tiny amount of treasure as described in the summary above.</p>\n<p>More information: @JournalEntry[Vine Horrors]</p>\n</div>\n\n</div>",
+	"img": null,
+	"folder": "rTWTUx1GEeNRMiWQ",
+	"sort": 200000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

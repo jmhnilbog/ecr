@@ -1,0 +1,37 @@
+{
+	"_id": "dMKmvX81hNFr7DKP",
+	"name": "Old, Old Torch",
+	"type": "equipment",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/torch.svg",
+	"data": {
+		"description": {
+			"value": "",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "1"
+		}
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 162500,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-equipment.LcKt6mPbl9iQ7Ro8"
+		}
+	}
+}

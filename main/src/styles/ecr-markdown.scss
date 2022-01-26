@@ -10,18 +10,18 @@
 
 // adapted from https://codepen.io/dpiron/pen/GgyJQd
 
-$base-font-size: 16px;
-$rhythm-size: round($base-font-size * 1.6);
+$base-font-size: 14px;
+$rhythm-size: round($base-font-size * 1.5);
 $base-line-height: calc($rhythm-size / $base-font-size);
 
-$heading-color: #979;
-$base-color: #656;
+$heading-color: #23221d; //var(--color-text-dark-header);
+$base-color: #191813;
 
 $guide-color-dark: #fee;
 $guide-color-light: lighten($guide-color-dark, 10%);
 
-//$enable-guide: null;
-$enable-guide: 1;
+$enable-guide: null;
+//$enable-guide: 1;
 
 %headings-common {
     color: $heading-color;
@@ -43,17 +43,52 @@ $tiny-size: modular-scale(-2, $base-font-size, $ratio);
 
 $bk-color: rgba(55, 55, 55, 0.1);
 
-// The actual markup here goes
-
-// .EasyMDEContainer
-//     .editor-toolbar
-//     .cm-s-easymde
-//         .editor-preview
-//     .editor-preview-side.editor-preview
-
-// we're adding the selectors VScode uses for markdown so preview is easier to deal with.
-
 .ecr {
+    border-top: none;
+    border-bottom: none;
+    border-spacing: 0;
+    margin: 0 auto;
+    padding: 0 1em $rhythm-size;
+    font-size: $base-font-size;
+    line-height: math.div($rhythm-size, $base-font-size);
+    max-width: 120ch;
+
+    // actor popup changes
+
+    // actor note popup changes
+    .actor .notes & {
+        --nothing: 0;
+    }
+
+    .statblock {
+        outline: 1px solid rgba(0, 0, 0, 0.3);
+        outline-offset: -1px;
+
+        p:first-child {
+            font-family: var(--font-mono), monospace;
+            padding: math.div($rhythm-size, 2);
+            margin-bottom: math.div($rhythm-size, 2);
+            background: rgba(0, 0, 0, 0.5);
+            color: var(--color-text-light-highlight);
+            text-shadow: 1px 1px var(--color-shadow-dark);
+        }
+    }
+
+    dl {
+        dt {
+            padding: 0 math.div($rhythm-size, 2);
+            background: rgba(0, 0, 0, 0.5);
+            color: var(--color-text-light-highlight);
+            text-shadow: 1px 1px var(--color-shadow-dark);
+        }
+        dd {
+            margin: 0 4ch $rhythm-size/2;
+            // background: rgba(0, 0, 0, 0.5);
+            // color: var(--color-text-light-highlight);
+            // text-shadow: 1px 1px var(--color-shadow-dark);
+        }
+    }
+
     padding-top: 0;
     color: $base-color;
 
@@ -209,6 +244,14 @@ $bk-color: rgba(55, 55, 55, 0.1);
             border-top: none;
             border-bottom: none;
         }
+    }
+
+    .aside {
+        width: 45%;
+        max-width: 30ch;
+        float: right;
+        margin: 0 0 ($rhythm-size * 0.25) ($rhythm-size * 0.25);
+        padding: $rhythm-size * 0.5;
     }
 
     .summary {

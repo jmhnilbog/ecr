@@ -1,0 +1,10971 @@
+{
+	"_id": "4AqdgBmbkOW8F02y",
+	"name": "Underkeep",
+	"active": false,
+	"navigation": true,
+	"navOrder": -100000,
+	"navName": "Underkeep",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/maps/underneath-the-keep.webp",
+	"foreground": null,
+	"thumb": "worlds/earf-alpha/scenes/thumbs/4AqdgBmbkOW8F02y.png",
+	"width": 5908,
+	"height": 4571,
+	"padding": 0.05,
+	"initial": {
+		"x": 2090,
+		"y": 1687,
+		"scale": 0.3
+	},
+	"backgroundColor": "#999999",
+	"gridType": 1,
+	"grid": 124,
+	"shiftX": 80,
+	"shiftY": -69,
+	"gridColor": "#ffffff",
+	"gridAlpha": 0,
+	"gridDistance": 5,
+	"gridUnits": "ft",
+	"tokenVision": true,
+	"fogExploration": false,
+	"fogReset": 1640015795414,
+	"globalLight": false,
+	"globalLightThreshold": null,
+	"darkness": 1,
+	"drawings": [],
+	"tokens": [
+		{
+			"_id": "iio3IFw5m9tdj1j2",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4846.125968992247,
+			"y": 712.1201550387595,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "iio3IFw5m9tdj1j2",
+						"xy": {
+							"x": 4846.125968992247,
+							"y": 712.1201550387595
+						},
+						"center": {
+							"x": 4908.125968992247,
+							"y": 774.1201550387595
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "eMvvhTay20skf0U5",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4906.480620155038,
+			"y": 613.0232558139535,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "eMvvhTay20skf0U5",
+						"xy": {
+							"x": 4906.480620155038,
+							"y": 613.0232558139535
+						},
+						"center": {
+							"x": 4968.480620155038,
+							"y": 675.0232558139535
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "iQpzKV0TefqMNp5Y",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5008.062015503876,
+			"y": 585.891472868217,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "iQpzKV0TefqMNp5Y",
+						"xy": {
+							"x": 5008.062015503876,
+							"y": 585.891472868217
+						},
+						"center": {
+							"x": 5070.062015503876,
+							"y": 647.891472868217
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "Pin9FhuHkOM0PNQR",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5231.286821705425,
+			"y": 703.7209302325581,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "Pin9FhuHkOM0PNQR",
+						"xy": {
+							"x": 5231.286821705425,
+							"y": 703.7209302325581
+						},
+						"center": {
+							"x": 5293.286821705425,
+							"y": 765.7209302325581
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "PO9cWtdaP6HK8vKd",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5158.387596899225,
+			"y": 909.1162790697672,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "PO9cWtdaP6HK8vKd",
+						"xy": {
+							"x": 5158.387596899225,
+							"y": 909.1162790697672
+						},
+						"center": {
+							"x": 5220.387596899225,
+							"y": 971.1162790697672
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "tMQTyAyQrlS3OADE",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5021.178294573644,
+			"y": 961.0232558139535,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "tMQTyAyQrlS3OADE",
+						"xy": {
+							"x": 5021.178294573644,
+							"y": 961.0232558139535
+						},
+						"center": {
+							"x": 5083.178294573644,
+							"y": 1023.0232558139535
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "lXobHxCisjtdl9Su",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4863.131782945737,
+			"y": 925.3643410852712,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "lXobHxCisjtdl9Su",
+						"xy": {
+							"x": 4863.131782945737,
+							"y": 925.3643410852712
+						},
+						"center": {
+							"x": 4925.131782945737,
+							"y": 987.3643410852712
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "aSGeyeHOCpCdko1I",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5137.488372093023,
+			"y": 597.5193798449612,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "aSGeyeHOCpCdko1I",
+						"xy": {
+							"x": 5137.488372093023,
+							"y": 597.5193798449612
+						},
+						"center": {
+							"x": 5199.488372093023,
+							"y": 659.5193798449612
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "WQfQiiA8wOpPXM5k",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4781.705426356589,
+			"y": 823.0077519379844,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 15,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 30,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": "abilities.lck.value"
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "WQfQiiA8wOpPXM5k",
+						"xy": {
+							"x": 4781.705426356589,
+							"y": 823.0077519379844
+						},
+						"center": {
+							"x": 4843.705426356589,
+							"y": 885.0077519379844
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "uWPnAUFeRxMVuOSL",
+			"name": "Torch-Sized Flame",
+			"displayName": 10,
+			"actorId": "dqngE4C3U65Nwj9o",
+			"actorLink": false,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webm",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5220,
+			"y": 808,
+			"elevation": 0,
+			"lockRotation": true,
+			"rotation": 180,
+			"effects": [],
+			"alpha": 0.9,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 5,
+				"color": "#fff70f",
+				"coloration": 1,
+				"dim": 10,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.25,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 1,
+					"intensity": 3,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-independence": {
+					"ActorName": "Flame"
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "uWPnAUFeRxMVuOSL",
+						"xy": {
+							"x": 5220,
+							"y": 808
+						},
+						"center": {
+							"x": 5282,
+							"y": 870
+						},
+						"rotation": 180,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "IYYhrrD6MWLzk07d",
+			"name": "Sword",
+			"displayName": 0,
+			"actorId": "Gkf07Q8arkhdtd8N",
+			"actorLink": true,
+			"actorData": {},
+			"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/sword-fiend-blade-glow.webp",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5013,
+			"y": 764,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 15,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.55,
+				"angle": 0,
+				"bright": 1,
+				"coloration": 1,
+				"dim": 3,
+				"gradual": true,
+				"luminosity": 0.3,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 8,
+					"intensity": 5,
+					"reverse": true,
+					"type": "emanation"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": "#00fffb"
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "IYYhrrD6MWLzk07d",
+						"xy": {
+							"x": 5013,
+							"y": 764
+						},
+						"center": {
+							"x": 5075,
+							"y": 826
+						},
+						"rotation": 15,
+						"hidden": false,
+						"elevation": 0
+					}
+				},
+				"df-qol": {
+					"locked": true
+				}
+			}
+		},
+		{
+			"_id": "rDNsjFt79DL8Iz6V",
+			"name": "Transparent",
+			"displayName": 0,
+			"actorId": "M52CMS3FophPIPGw",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 2,
+							"max": 2
+						}
+					}
+				}
+			},
+			"img": "modules/ecr/images/basilisk-asterisk/utility/transparent-pixel.png",
+			"tint": null,
+			"width": 2,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 3082.4046947337965,
+			"y": 2015.3042857659555,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				},
+				"token-attacher": {
+					"pos": {
+						"base_id": "rDNsjFt79DL8Iz6V",
+						"xy": {
+							"x": 3082.4046947337965,
+							"y": 2015.3042857659555
+						},
+						"center": {
+							"x": 3206.4046947337965,
+							"y": 2077.3042857659557
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Tile": [
+							"cFbNu6gqoUrjMSzO"
+						],
+						"Wall": [
+							"aFpbpW5MCAQ6pyjb"
+						]
+					}
+				}
+			}
+		},
+		{
+			"_id": "HecbNYqcR3m4KIE7",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"width": 1.5,
+			"height": 1.5,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5079,
+			"y": 1726,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 5,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "HecbNYqcR3m4KIE7",
+						"xy": {
+							"x": 5079,
+							"y": 1726
+						},
+						"center": {
+							"x": 5172,
+							"y": 1819
+						},
+						"rotation": 5,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"gSbEZSMCQBMy6CeZ",
+							"9RJ8sBmVkxN67feU",
+							"Vec3IqMY8g9hTI1T",
+							"lCvenohpR6nTRlOq",
+							"gcY6GiMWMNMW0Ohr",
+							"Zl8nxavfOO66QFzc",
+							"xtmWfbaiBlYePQEG",
+							"2G9bT4x2aVtqNbAe",
+							"rBAgnzmbcMcvcJd5",
+							"p2qE2F0gdcLkHROH",
+							"2INeOi1fnAqN9g3z",
+							"RN3GNFWotlnmR9tV"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			},
+			"tint": null
+		},
+		{
+			"_id": "uQFZ5IgGy9CZiuDb",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4960,
+			"y": 1736,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 230,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "uQFZ5IgGy9CZiuDb",
+						"xy": {
+							"x": 4960,
+							"y": 1736
+						},
+						"center": {
+							"x": 5022,
+							"y": 1798
+						},
+						"rotation": 230,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"Eh77Ybvc5AONvKzh",
+							"riiCAI28CqGULQnV",
+							"Qj5ixJLmIVsfTZ4z",
+							"vukdpDmwqFQ0Sqpv",
+							"y1btNAlSHPkAEA6p",
+							"DrE29xm6gFIbt9oX",
+							"JKNfGiEaYo8gbAJI",
+							"rh3mDb6q7ysY93Rv",
+							"Y30QKts2QOjS42Nm",
+							"RXdQ6moa1PC86t11",
+							"zRAdNpqrlVnjKy9p",
+							"Y1RAN3XC97IsY0Tw"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "wqY356cKleUNikxl",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5339,
+			"y": 1955,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 15,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "wqY356cKleUNikxl",
+						"xy": {
+							"x": 5339,
+							"y": 1955
+						},
+						"center": {
+							"x": 5401,
+							"y": 2017
+						},
+						"rotation": 15,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"FckcJHL8qnnsd2AI",
+							"mCUnqLoLbNgp345E",
+							"UxMEplGyY0tR5hlq",
+							"ZyTgohBrXeBzEkrf",
+							"w1tLe4nz16uDmZcA",
+							"hHHPEizDd8dBITOO",
+							"G5xfmVOso4RsOvNO",
+							"BQgdLUmVQiKWx50m",
+							"GpaSLoToSYhCyXJd",
+							"4SYnMiDemXIVnxuV",
+							"qIoYwyuC0Cfksx1F",
+							"6kXuWiESixstAIZ3"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "qjWhMLCZDG3Ckmfp",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 1,
+							"max": 1
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1.5,
+			"height": 1.5,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5341,
+			"y": 2072,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 41,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "qjWhMLCZDG3Ckmfp",
+						"xy": {
+							"x": 5341,
+							"y": 2072
+						},
+						"center": {
+							"x": 5434,
+							"y": 2165
+						},
+						"rotation": 41,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"Ig5j8rOnkXI7pYgO",
+							"nBXywVjo63Ra9ZPx",
+							"E3K9hLdz6IQr1doN",
+							"BIpwgw37ceSSuAGS",
+							"Wln77UdANhQuXW88",
+							"iRpabGqSKWTDpkc9",
+							"6zGNr0Qmwj2xj1zX",
+							"bmTtuwYRmjXlzLw8",
+							"rWMlWsJmoZWRtsR4",
+							"daZ4o1Su3l1WCPIM",
+							"qikzVKTqYdx9LQLx",
+							"DVkdgWsTvluu76v8"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "4Zchdz1jfzYVMDM3",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4963,
+			"y": 2325,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 307,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "4Zchdz1jfzYVMDM3",
+						"xy": {
+							"x": 4963,
+							"y": 2325
+						},
+						"center": {
+							"x": 5025,
+							"y": 2387
+						},
+						"rotation": 307,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"LpZnuLWGucCQyouU",
+							"jqSXiVXlJNO5d8Xh",
+							"K8Cxr6xR9Coc8Hlp",
+							"YU3HrEVGWM3r0tza",
+							"bIZCm5f72VRQ0CWD",
+							"2hP005J9dgkFZ5AU",
+							"mtYKcCovARViaE4A",
+							"rX9gsUEQbxeIcZrQ",
+							"jC6ciuJov4S8izv3",
+							"Uq8U386FzCBK57XV",
+							"m7yXVZ9ETiTlHI29",
+							"d2VUP8WeS84rsEx9"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "E4Xs2WZBQzOMOUKW",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 5,
+							"max": 5
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1.5,
+			"height": 1.5,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5089,
+			"y": 2266,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 0,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "E4Xs2WZBQzOMOUKW",
+						"xy": {
+							"x": 5089,
+							"y": 2266
+						},
+						"center": {
+							"x": 5182,
+							"y": 2359
+						},
+						"rotation": 0,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"0zce5r3JoxUWAMGx",
+							"9AGClDJW6Bh8NO4k",
+							"Q4w1nClC012wSt7F",
+							"MDZfxChfPBN5oRQN",
+							"dnVT5f7Pkphpyinc",
+							"U5qkaPLmh96caxOW",
+							"XgPznn5dHEKwesvi",
+							"U58oxehSmgRNTWLz",
+							"jXvblz7hEo3BlYnx",
+							"Hkb02qo7SFqVEua2",
+							"gX1MdjEdPwpeaoQv",
+							"GMiNFXwzGY6OyKw1"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "KaEKAyUXdgOrJrmR",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 1,
+							"max": 1
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1.5,
+			"height": 1.5,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 4960,
+			"y": 2356,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 41,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "KaEKAyUXdgOrJrmR",
+						"xy": {
+							"x": 5340.561755058093,
+							"y": 2071.894055488782
+						},
+						"center": {
+							"x": 5433.561755058093,
+							"y": 2164.894055488782
+						},
+						"rotation": 41,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"uI57fwmyy2jaOjKp",
+							"gTF5n69dpbXmY7VG",
+							"2MoLViNjn2Cfhm8n",
+							"HO63MgOfhhfgK9On",
+							"kdPaYZIp4H6q6uuG",
+							"B0ufMugLjq2Egeea",
+							"YetbHCmHTLNfYwQG",
+							"7d4CiHg7tlX26Efv",
+							"fZanpSvlSvo8xdA5",
+							"ZNgzgsovuDgog9l0",
+							"nWIeUmLC2LuczDHa",
+							"SpGDXBdvqHLkzMLQ"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "gvuNStnAonXBQ6cD",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 4,
+							"max": 4
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5437,
+			"y": 2007,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 230,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "gvuNStnAonXBQ6cD",
+						"xy": {
+							"x": 5437,
+							"y": 2007
+						},
+						"center": {
+							"x": 5499,
+							"y": 2069
+						},
+						"rotation": 230,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"fCb3AaqOY0iKhkWq",
+							"2Y0LGh7X6IjXpS5z",
+							"OPAOLsC5MMUBRGRL",
+							"ZuwhDavPArXhY1PP",
+							"DR3yM0LElvJhK2zj",
+							"Bphm6tuMga2im0vI",
+							"zV3YxaoeOPxyR61W",
+							"QDYZqaTYExa4mHfk",
+							"M5pB9ksKaDjZ046t",
+							"Mc5A6KdaxhbRoWlT",
+							"AWitQq9uGdCHAVH5",
+							"ssqcDaN5F3FTHIcI"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		},
+		{
+			"_id": "9EiY8ViFhUArGuLw",
+			"name": "Obscuring Vines",
+			"displayName": 0,
+			"actorId": "1X4q0C9ZwrM3vjZl",
+			"actorLink": false,
+			"actorData": {
+				"data": {
+					"attributes": {
+						"hp": {
+							"value": 1,
+							"max": 1
+						}
+					}
+				}
+			},
+			"img": "moulinette/images/gameicons/curling-vines-%232a8b23-transparent.svg",
+			"tint": null,
+			"width": 1,
+			"height": 1,
+			"scale": 1,
+			"mirrorX": false,
+			"mirrorY": false,
+			"x": 5084,
+			"y": 1612,
+			"elevation": 0,
+			"lockRotation": false,
+			"rotation": 230,
+			"effects": [],
+			"alpha": 1,
+			"hidden": false,
+			"vision": false,
+			"dimSight": 0,
+			"brightSight": 0,
+			"sightAngle": 0,
+			"light": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"disposition": 0,
+			"displayBars": 0,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": ""
+			},
+			"flags": {
+				"token-attacher": {
+					"pos": {
+						"base_id": "9EiY8ViFhUArGuLw",
+						"xy": {
+							"x": 5084,
+							"y": 1612
+						},
+						"center": {
+							"x": 5146,
+							"y": 1674
+						},
+						"rotation": 230,
+						"hidden": false,
+						"elevation": 0
+					},
+					"attached": {
+						"Wall": [
+							"PcUbGn25Zkm1wal7",
+							"UVjRHht24TGcyAPs",
+							"OwJQ2fWs4DCxfrtT",
+							"frYiRr9hlLHcZuec",
+							"cVci03drK1xQGha0",
+							"CZQP1o9zT9XkkRL3",
+							"L7OwOV5C5KlVKvpa",
+							"H4KNe0kvZOr4sJr1",
+							"GKoZ93288bGC2gUR",
+							"GFstZDLPBITWJqur",
+							"Y5Wv7o9u3kw0fMbq",
+							"yFR2OWkDUt5aCaIO"
+						]
+					}
+				},
+				"monks-little-details": {
+					"token-highlight": "",
+					"bloodsplat-colour": ""
+				}
+			}
+		}
+	],
+	"lights": [
+		{
+			"_id": "xix4FgssmC0dKztd",
+			"x": 1500,
+			"y": 1100,
+			"rotation": 0,
+			"dim": 20,
+			"bright": 10,
+			"angle": 0,
+			"tintAlpha": 0.01,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {},
+			"tintColor": "#eeecbe",
+			"config": {
+				"dim": 20,
+				"bright": 10,
+				"angle": 0,
+				"color": "#eeecbe",
+				"alpha": 0.05,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.25,
+				"saturation": -0.05,
+				"contrast": -0.25,
+				"shadows": 0.15
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "zH9BMejXn48JTLK0",
+			"x": 2183,
+			"y": 1080,
+			"rotation": 0,
+			"dim": 20,
+			"bright": 0,
+			"angle": 0,
+			"tintAlpha": 0.04,
+			"lightAnimation": {
+				"speed": 3,
+				"intensity": 4,
+				"type": "ghost",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"df-active-lights": {
+					"anims": null
+				},
+				"lightmask": {
+					"shape": "none",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"tintColor": "#93e4e5",
+			"config": {
+				"dim": 30,
+				"bright": 10,
+				"angle": 0,
+				"color": "#93e4e5",
+				"alpha": 0.35,
+				"animation": {
+					"speed": 3,
+					"intensity": 4,
+					"type": "ghost",
+					"reverse": true
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.45,
+				"saturation": 0.7,
+				"contrast": 0,
+				"shadows": 0
+			},
+			"walls": true,
+			"vision": false,
+			"id": "zH9BMejXn48JTLK0"
+		},
+		{
+			"_id": "mbU191jZpiTs5tya",
+			"x": 1399,
+			"y": 876,
+			"rotation": 0,
+			"dim": 20,
+			"bright": 10,
+			"angle": 0,
+			"tintColor": "#eeecbe",
+			"tintAlpha": 0.01,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {},
+			"config": {
+				"dim": 20,
+				"bright": 10,
+				"angle": 0,
+				"color": "#eeecbe",
+				"alpha": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 0.5
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0.4,
+				"contrast": -0.1,
+				"shadows": 0.3
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "ZVMae5hfAFXoYsFt",
+			"x": 2198.658536585366,
+			"y": 4259.70731707317,
+			"rotation": 0,
+			"dim": 20,
+			"bright": 1,
+			"angle": 0,
+			"tintAlpha": 0.04,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 6,
+				"type": "pulse",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"tintColor": "#77e752",
+			"config": {
+				"dim": 5,
+				"bright": 2,
+				"angle": 0,
+				"color": "#77e752",
+				"alpha": 0.05,
+				"animation": {
+					"speed": 5,
+					"intensity": 4,
+					"type": "fairy",
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.15,
+				"saturation": 0,
+				"contrast": 0.4,
+				"shadows": 0.2
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "zD9vuTHz55OpCYJX",
+			"x": 2182,
+			"y": 4161,
+			"rotation": 0,
+			"dim": 4,
+			"bright": 0,
+			"angle": 0,
+			"tintColor": "#77e752",
+			"tintAlpha": 0.09,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 6,
+				"type": "fog",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "none",
+					"customWallIDs": "zR7iNZ4fgR9bHf04,MmQsyIe2j9OZhyy2,tr2ALBjJiHTVvBmn,ybgx0fQbPnAQRJPu",
+					"relative": false,
+					"customEdges": [
+						{
+							"c": [
+								2108,
+								4092,
+								2092,
+								4247
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 20,
+							"id": "zR7iNZ4fgR9bHf04"
+						},
+						{
+							"c": [
+								2092,
+								4247,
+								2247,
+								4231
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 10,
+							"sound": 20,
+							"id": "MmQsyIe2j9OZhyy2"
+						},
+						{
+							"c": [
+								2247,
+								4231,
+								2278,
+								4092
+							],
+							"light": 20,
+							"move": 20,
+							"sight": 10,
+							"sound": 20,
+							"id": "tr2ALBjJiHTVvBmn"
+						},
+						{
+							"c": [
+								2278,
+								4092,
+								2108,
+								4092
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 20,
+							"id": "ybgx0fQbPnAQRJPu"
+						}
+					]
+				}
+			},
+			"config": {
+				"dim": 5,
+				"bright": 0,
+				"angle": 0,
+				"color": "#77e752",
+				"alpha": 0.15,
+				"animation": {
+					"speed": 5,
+					"intensity": 6,
+					"type": "ghost",
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.15,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0.15
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "A43KeLrCIem8sljf",
+			"x": 5022,
+			"y": 4278,
+			"rotation": 0,
+			"dim": -20,
+			"bright": 0,
+			"angle": 0,
+			"tintAlpha": 0.72,
+			"lightAnimation": {
+				"speed": 5,
+				"intensity": 5,
+				"type": "hole",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"tintColor": "#000000",
+			"config": {
+				"dim": 20,
+				"bright": 0,
+				"angle": 0,
+				"color": "#000000",
+				"alpha": 0.7,
+				"animation": {
+					"speed": 10,
+					"intensity": 1,
+					"type": "hole",
+					"reverse": true
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"luminosity": -0.1,
+				"coloration": 2,
+				"gradual": true,
+				"saturation": 0.4,
+				"contrast": 0.65,
+				"shadows": 0.3
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "KFqUTSQeHcZhTKkI",
+			"x": 558,
+			"y": 3658,
+			"rotation": 310,
+			"dim": 40,
+			"bright": 0,
+			"angle": 100,
+			"tintAlpha": 0.25,
+			"lightAnimation": {
+				"speed": 2,
+				"intensity": 5,
+				"type": "pulse",
+				"reverse": false
+			},
+			"darknessThreshold": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			},
+			"tintColor": "#c0b500",
+			"config": {
+				"dim": 40,
+				"bright": 0,
+				"angle": 180,
+				"color": "#c0b500",
+				"alpha": 0.25,
+				"animation": {
+					"speed": 1,
+					"intensity": 4,
+					"type": "torch",
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.25,
+				"saturation": 0.3,
+				"contrast": -0.3,
+				"shadows": 0
+			},
+			"walls": true,
+			"vision": false
+		},
+		{
+			"_id": "mDjVIM3kNaugQf6p",
+			"x": 2294,
+			"y": 2480,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 0,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {}
+		},
+		{
+			"_id": "OXdfs34LaMd3oHK1",
+			"x": 5084,
+			"y": 868,
+			"rotation": 231,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 1,
+				"angle": 0,
+				"bright": 12,
+				"coloration": 3,
+				"dim": 13,
+				"gradual": true,
+				"luminosity": -0.1,
+				"saturation": -0.55,
+				"contrast": -0.3,
+				"shadows": 0,
+				"animation": {
+					"speed": 10,
+					"intensity": 7,
+					"reverse": true,
+					"type": "fog"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": "#fa3dff"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "Nag65JhHxjQJFb9f",
+			"x": 2290.9756097560976,
+			"y": 4182.658536585365,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"dim": 5,
+				"bright": 2,
+				"angle": 0,
+				"color": "#77e752",
+				"alpha": 0.05,
+				"animation": {
+					"speed": 5,
+					"intensity": 4,
+					"type": "fairy",
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"coloration": 1,
+				"gradual": true,
+				"luminosity": 0.15,
+				"saturation": 0,
+				"contrast": 0.4,
+				"shadows": 0.2
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "0XYhN28sRozaMISj",
+			"x": 5084,
+			"y": 868,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 60,
+				"gradual": true,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		},
+		{
+			"_id": "MCzuJOU4EBixaDjP",
+			"x": 3224,
+			"y": 744,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.25,
+				"angle": 0,
+				"bright": 5,
+				"coloration": 1,
+				"dim": 18,
+				"gradual": true,
+				"luminosity": 0.25,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 4,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": "#ffb308"
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": "QgdRKiU8KsGqZFJk,dG7DrmEbGXDOYEjn,epnS2ByyklYeStow,nruAjMJa5lNWQmqS,UXwPmyVpABcjlpkQ,sLRpxXvscTcSDaAx,kbgDn1LiISMAkBTw,roE2GFzrT7FhuGG9",
+					"relative": false,
+					"customEdges": [
+						{
+							"c": [
+								3131.375,
+								724.796875,
+								3198.5,
+								703.125
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "QgdRKiU8KsGqZFJk"
+						},
+						{
+							"c": [
+								3198.5,
+								703.125,
+								3274.375,
+								717.390625
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "dG7DrmEbGXDOYEjn"
+						},
+						{
+							"c": [
+								3274.375,
+								717.390625,
+								3317,
+								775
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "epnS2ByyklYeStow"
+						},
+						{
+							"c": [
+								3115,
+								821,
+								3115,
+								1147
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "nruAjMJa5lNWQmqS"
+						},
+						{
+							"c": [
+								3317,
+								1178,
+								3317,
+								775
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "UXwPmyVpABcjlpkQ"
+						},
+						{
+							"c": [
+								3162,
+								1100,
+								3115,
+								1147
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "sLRpxXvscTcSDaAx"
+						},
+						{
+							"c": [
+								3162,
+								1100,
+								3317,
+								1178
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "kbgDn1LiISMAkBTw"
+						},
+						{
+							"c": [
+								3115,
+								821,
+								3131.375,
+								724.796875
+							],
+							"light": 10,
+							"move": 20,
+							"sight": 10,
+							"sound": 10,
+							"id": "roE2GFzrT7FhuGG9"
+						}
+					]
+				}
+			}
+		},
+		{
+			"_id": "LgyXgk9QGvvrqddr",
+			"x": 3224,
+			"y": 930,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"alpha": 0.5,
+				"angle": 0,
+				"bright": 0,
+				"coloration": 1,
+				"dim": 12,
+				"gradual": true,
+				"luminosity": 0.35,
+				"saturation": 0,
+				"contrast": -0.2,
+				"shadows": 0,
+				"animation": {
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false,
+					"type": "torch"
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				},
+				"color": null
+			},
+			"hidden": false,
+			"flags": {
+				"lightmask": {
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false,
+					"customEdges": []
+				}
+			}
+		}
+	],
+	"notes": [
+		{
+			"_id": "xhxNlS4P16zCCfWu",
+			"entryId": "zjtBhWBP6yRdPBkh",
+			"x": 2914,
+			"y": 2294,
+			"icon": "other/dcc-core-book/assets/svg/game-icons-net/triple-skulls.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "KeACJSnDMEztIxc9",
+			"entryId": "A4ESNr3k8GwC8ONK",
+			"x": 3348,
+			"y": 3038,
+			"icon": "icons/magic/water/vortex-water-whirlpool.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "8vJqnx0RGnUdO34b",
+			"entryId": "o4x4mf3MFy4PviP9",
+			"x": 1302,
+			"y": 2108,
+			"icon": "icons/commodities/currency/coins-assorted-mix-copper-silver-gold.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "SBKr5h4c9wEULGry",
+			"entryId": "AA9cD4YblGF5wUUN",
+			"x": 1426,
+			"y": 1116,
+			"icon": "icons/environment/wilderness/portal.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "D1IfFwZi63dp3YZz",
+			"entryId": "8JgEKO9wrwWciGIq",
+			"x": 2232,
+			"y": 868,
+			"icon": "icons/creatures/magical/spirit-mischief-fire-ice-blue.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "WLY9yJy4T9q4iYqJ",
+			"entryId": "7fqz7TQYkWk1WXqG",
+			"x": 1984,
+			"y": 4588,
+			"icon": "moulinette/tiles/oixxo-art/oixxo-art-wheel-of-the-year/4-litha/stone.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "pAv4p2JAzeg6KgdH",
+			"entryId": "h7h5l2WxIcgkeLDs",
+			"x": 930,
+			"y": 2108,
+			"icon": "icons/containers/chest/chest-elm-steel-brown.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "MzFQ1oHzlyfgJ6sd",
+			"entryId": "RkTvPFV4exQYkGiv",
+			"x": 1240,
+			"y": 3596,
+			"icon": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/handouts/the-dragon-ship.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "Dt4o7PGmXGhs2Seh",
+			"entryId": null,
+			"x": 1116,
+			"y": 3596,
+			"icon": "icons/svg/book.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "j5TqQHFt7mc5Yph6",
+			"entryId": "oIZHXFPYi9NF35o1",
+			"x": 1860,
+			"y": 2604,
+			"icon": "other/dcc-core-book/assets/svg/game-icons-net/earth-spit.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "rvvRbiZ7EbF5obgg",
+			"entryId": null,
+			"x": 0,
+			"y": 0,
+			"icon": "icons/svg/book.svg",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "adRU3ePHbf3clYWg",
+			"entryId": "PBLOr4nbBwpsNesa",
+			"x": 4650,
+			"y": 496,
+			"icon": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "EM2Gv8bT8yaJ2FNC",
+			"entryId": "cgR113SVHBta9smC",
+			"x": 4526,
+			"y": 2790,
+			"icon": "moulinette/tiles/venatus-maps/mountainside-assets/Rocks/Rock 119.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "oP8NMf70X7cc0SqZ",
+			"entryId": "GcafiQjUdZpt2mkb",
+			"x": 4650,
+			"y": 3410,
+			"icon": "icons/environment/settlement/stone-stairs.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		},
+		{
+			"_id": "dlSiJIMI37a8ZmYJ",
+			"entryId": "DZtnPnng8ZiXcnWA",
+			"x": 4836,
+			"y": 4340,
+			"icon": "icons/magic/nature/vines-thorned-entwined-green.webp",
+			"iconSize": 40,
+			"iconTint": null,
+			"fontFamily": "EB Garamond",
+			"fontSize": 24,
+			"textAnchor": 1,
+			"textColor": "#FFFFFF",
+			"flags": {
+				"backgroundless-pins": {
+					"hasBackground": false
+				},
+				"pinfix": {
+					"showName": true,
+					"minZoomLevel": 0.1,
+					"maxZoomLevel": 3
+				}
+			}
+		}
+	],
+	"sounds": [
+		{
+			"_id": "aaAL201NiVXW8sgj",
+			"x": 1178,
+			"y": 4216,
+			"radius": 119.75,
+			"path": "moulinette/sounds/beneos-battlemaps/05-cos-death-house/05_CoS_Death_House/assets/water_small.ogg",
+			"repeat": false,
+			"volume": 0.5,
+			"walls": true,
+			"easing": true,
+			"hidden": false,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"flags": {
+				"lightmask": {
+					"rotation": 180,
+					"shape": "circle",
+					"customWallIDs": null,
+					"relative": false
+				}
+			}
+		}
+	],
+	"templates": [],
+	"tiles": [
+		{
+			"_id": "cFbNu6gqoUrjMSzO",
+			"img": "moulinette/tiles/venatus-maps/castle-assets/Props/Door C.webp",
+			"width": 372,
+			"height": 124,
+			"x": 3018.5046947337964,
+			"y": 2013.9042857659556,
+			"z": 100,
+			"rotation": 0,
+			"alpha": 1,
+			"tint": null,
+			"hidden": false,
+			"locked": false,
+			"overhead": false,
+			"occlusion": {
+				"mode": 1,
+				"alpha": 0
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {
+				"monks-active-tiles": {
+					"active": false,
+					"restriction": "all",
+					"controlled": "all",
+					"trigger": "enter",
+					"pertoken": false,
+					"minrequired": 0,
+					"chance": 100,
+					"actions": []
+				},
+				"token-attacher": {
+					"parent": "rDNsjFt79DL8Iz6V",
+					"offset": {
+						"x": -187.9000000000001,
+						"y": -63.40000000000009,
+						"rot": 0,
+						"centerX": -1.900000000000091,
+						"centerY": -1.400000000000091,
+						"offRot": 0,
+						"size": {
+							"width": 372,
+							"height": 124,
+							"widthBase": 2,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		}
+	],
+	"walls": [
+		{
+			"_id": "ytTZu8y4fBenAlIt",
+			"c": [
+				1362,
+				962,
+				1350,
+				862
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "kpTtBF5vRnmDLZy5",
+			"c": [
+				1350,
+				862,
+				1275,
+				837
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ogpObsSllatXLBGO",
+			"c": [
+				1275,
+				837,
+				1187,
+				850
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "K4pSo6V08zCwCEqZ",
+			"c": [
+				1187,
+				850,
+				1100,
+				812
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "t1Jn2xfe5Swbjnok",
+			"c": [
+				1100,
+				812,
+				875,
+				750
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "FefXJSbOAuvcLS6Y",
+			"c": [
+				875,
+				750,
+				1087,
+				525
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "pnslZH8xH7OZiESu",
+			"c": [
+				1087,
+				525,
+				1275,
+				737
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uhX3tUnXHJNzg965",
+			"c": [
+				1275,
+				737,
+				1412,
+				800
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "DClJVT6qOx5IIbC7",
+			"c": [
+				1412,
+				800,
+				1462,
+				887
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "5AYF60lijIzgdcqO",
+			"c": [
+				1462,
+				887,
+				1550,
+				875
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "lLq79VvTzRUMYUEN",
+			"c": [
+				1550,
+				875,
+				1700,
+				950
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "6LxJuGVFxr9e7FeN",
+			"c": [
+				1700,
+				950,
+				1700,
+				875
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "gan5jnkNvTx8HAwC",
+			"c": [
+				1700,
+				875,
+				2262,
+				862
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "bs5JCKomE48pcloT",
+			"c": [
+				2262,
+				862,
+				2262,
+				1262
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Sc8rTgwm2sGyOywQ",
+			"c": [
+				2262,
+				1262,
+				1712,
+				1262
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "BH4jssKk9942oROO",
+			"c": [
+				1712,
+				1262,
+				1720,
+				1162
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "jlGQ4VgmYB6nfTNo",
+			"c": [
+				1720,
+				1162,
+				1720,
+				1023
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 2,
+			"flags": {},
+			"light": 10,
+			"sight": 20
+		},
+		{
+			"_id": "OERWnvN7rzEApGWF",
+			"c": [
+				1720,
+				1023,
+				1700,
+				950
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "0OCPRgZsu3Bsib7e",
+			"c": [
+				1362,
+				1625,
+				1325,
+				1500
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "NZ5xFth399JgyJDw",
+			"c": [
+				1325,
+				1500,
+				1412,
+				1437
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "bcLqHjfEEHMfo9Rs",
+			"c": [
+				1412,
+				1437,
+				1437,
+				1362
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "1MEzPRGiuFVjtEfS",
+			"c": [
+				1437,
+				1362,
+				1525,
+				1337
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "S7CaAP8sOPVDSfr5",
+			"c": [
+				1525,
+				1337,
+				1712,
+				1262
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "3YEGdynOxRiqbbZf",
+			"c": [
+				1162,
+				1575,
+				1237,
+				1537
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "rR0jWUm2YyJTm52Z",
+			"c": [
+				1237,
+				1537,
+				1300,
+				1425
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "sghpBLhhEqCRdCWs",
+			"c": [
+				1300,
+				1425,
+				1350,
+				1325
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "KDWSXvPGPtdSq2f5",
+			"c": [
+				1350,
+				1325,
+				1312,
+				1250
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "YD6Hbdkdd0WtBP7X",
+			"c": [
+				1312,
+				1250,
+				1287,
+				975
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "51Xg2qZppA5l0Zp8",
+			"c": [
+				1287,
+				975,
+				1325,
+				887
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uD3KhZTak9wPTDgu",
+			"c": [
+				1325,
+				887,
+				1362,
+				962
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "pcXe9dW3KanVYoMn",
+			"c": [
+				987,
+				1700,
+				1362,
+				1850
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "XLkTUZR9AXHfqIdr",
+			"c": [
+				1362,
+				1850,
+				1362,
+				1625
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "WzMGrzlH1pKTlmDx",
+			"c": [
+				1162,
+				1575,
+				987,
+				1700
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "zR7iNZ4fgR9bHf04",
+			"c": [
+				2108,
+				4092,
+				2092,
+				4247
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "ybgx0fQbPnAQRJPu",
+			"c": [
+				2278,
+				4092,
+				2108,
+				4092
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "pXhDRoLRgD00NkjG",
+			"c": [
+				2123,
+				4293,
+				2325,
+				4278
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "eXUK0wRUN6ZyTNvj",
+			"c": [
+				2325,
+				4278,
+				2325,
+				4107
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "NUeeDmGoabWGMg3S",
+			"c": [
+				2325,
+				4107,
+				2278,
+				4092
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "VAxniN5yllmm96KC",
+			"c": [
+				2092,
+				4247,
+				2123,
+				4293
+			],
+			"move": 20,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 10
+		},
+		{
+			"_id": "Pzrf56hYQnuQfjBk",
+			"c": [
+				527,
+				4898,
+				2201,
+				4836
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Hlr5lgpSJWL5PQrw",
+			"c": [
+				2201,
+				4836,
+				2402,
+				4820
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "9mFXtBf4mvbotXr0",
+			"c": [
+				2402,
+				4820,
+				2511,
+				4557
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "auG7drhBMjSQPXav",
+			"c": [
+				2511,
+				4557,
+				2573,
+				4309
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "tMeCgrLlEVCfZk2p",
+			"c": [
+				2573,
+				4309,
+				2712,
+				4231
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ECjUjiFk2oIhwgns",
+			"c": [
+				2712,
+				4231,
+				2836,
+				4154
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "frYNHTBrSDl3E3M7",
+			"c": [
+				2836,
+				4154,
+				3007,
+				3921
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "TV8pWNOooKAm3iRb",
+			"c": [
+				356,
+				4851,
+				527,
+				4898
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uinssWoeoRAilrD4",
+			"c": [
+				356,
+				4851,
+				248,
+				3627
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "SID2lr6UVpaJMDlU",
+			"c": [
+				248,
+				3627,
+				573,
+				3580
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "HNA6w5ZGnd7utes4",
+			"c": [
+				573,
+				3580,
+				1333,
+				3286
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "CG8oMIKpXkyu8B3v",
+			"c": [
+				1333,
+				3286,
+				1581,
+				3317
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "fwk57WB012TaxmlK",
+			"c": [
+				1581,
+				3317,
+				1782,
+				3689
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "viZkZoHtwcTUlITt",
+			"c": [
+				1782,
+				3689,
+				2077,
+				3735
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "wuHDv72q8O4rvkMk",
+			"c": [
+				2077,
+				3735,
+				2309,
+				3549
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "rlDNfEKFcP7sKuGw",
+			"c": [
+				2309,
+				3549,
+				2573,
+				3534
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "uDT98qDJBGFyQ8D2",
+			"c": [
+				2681,
+				3534,
+				3906,
+				3534
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "X44ttBnjilBcksLy",
+			"c": [
+				2573,
+				3534,
+				2681,
+				3534
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 2,
+			"door": 2,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "2Jqh1Mp4rWYaAsJZ",
+			"c": [
+				4309,
+				3704,
+				4076,
+				3921
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "GoQDZSo7ifboqvVt",
+			"c": [
+				4076,
+				3921,
+				3007,
+				3921
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "cT7YA0VqUYhew2Uh",
+			"c": [
+				4417,
+				3968,
+				4030,
+				3999
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "oUT62faik8GllXDc",
+			"c": [
+				4030,
+				3999,
+				3952,
+				4169
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "QtRrrx8Ve2nFRa0L",
+			"c": [
+				3952,
+				4169,
+				3952,
+				4650
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "izBqig6UyKNj0tpJ",
+			"c": [
+				3952,
+				4650,
+				4076,
+				4758
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "z23XfIY1xLFGWmJn",
+			"c": [
+				4076,
+				4758,
+				4541,
+				4774
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "PzgLZDvNAZtowHai",
+			"c": [
+				4541,
+				4774,
+				5084,
+				4789
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "lVll8ZuLvdzsjgbl",
+			"c": [
+				5084,
+				4789,
+				5580,
+				4510
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "2RNjxeBWUXT4sk57",
+			"c": [
+				5580,
+				4510,
+				5580,
+				3906
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ycE8pT1jZNFgs7t0",
+			"c": [
+				5580,
+				3906,
+				4774,
+				3751
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "y5L8Wt7dCLq2FWZV",
+			"c": [
+				4774,
+				3038,
+				4774,
+				3751
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "VDVBKGN9LxUZHoXg",
+			"c": [
+				4417,
+				3968,
+				4417,
+				3038
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "FiuT5BKJAJiJ0hqm",
+			"c": [
+				4417,
+				3038,
+				4774,
+				3038
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "MFnCoSaD46579qNV",
+			"c": [
+				4619,
+				480,
+				4634,
+				1364
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "CDY7O8y447JvTgL0",
+			"c": [
+				4634,
+				1364,
+				4898,
+				1364
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "3wAckOJMGmjMbIc3",
+			"c": [
+				4898,
+				1364,
+				4913,
+				1782
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "J70lGuWrxlzFtcVH",
+			"c": [
+				4913,
+				1782,
+				4774,
+				1813
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "JvfOEGltusxFMxNq",
+			"c": [
+				4774,
+				1813,
+				4774,
+				2433
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "gesCGHlbh4mXWFXf",
+			"c": [
+				4774,
+				2433,
+				4929,
+				2433
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "gHbaDdkE094C1sw8",
+			"c": [
+				4929,
+				2433,
+				4929,
+				2604
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "FbqT8xmvJJmu1QjT",
+			"c": [
+				4929,
+				2604,
+				4479,
+				2619
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ncVkS3ekIDzNxNaW",
+			"c": [
+				4479,
+				2619,
+				4495,
+				2960
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "4vrV9a02fD71rgEF",
+			"c": [
+				4495,
+				2960,
+				4913,
+				2960
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "v5H1aeOMbQ9r8Gof",
+			"c": [
+				4913,
+				2960,
+				4929,
+				3317
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "eevmTunrjSGIZyIG",
+			"c": [
+				4929,
+				3317,
+				5022,
+				3332
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "dEX3QgqZnX19trtP",
+			"c": [
+				5022,
+				3332,
+				5254,
+				3332
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "emv5Q0oLTKaGBKsQ",
+			"c": [
+				5254,
+				3332,
+				5285,
+				3317
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "bAtIvIa1UgbXEtxg",
+			"c": [
+				5285,
+				3317,
+				5270,
+				2418
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "JBBrk0Q4stY9DKtN",
+			"c": [
+				5270,
+				2418,
+				5425,
+				2433
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "tWI1xUDHWhR3xq9F",
+			"c": [
+				5425,
+				2433,
+				5409,
+				2278
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "8pHIEPLgyuuiY3JU",
+			"c": [
+				5409,
+				2278,
+				5905,
+				2278
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "XGpgaBJMb3p3QeFc",
+			"c": [
+				5905,
+				2278,
+				6045,
+				2294
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "2XSnqJE6mOIKNdKU",
+			"c": [
+				6045,
+				2294,
+				6153,
+				2216
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "jMt0DO6nHwNiFDCi",
+			"c": [
+				6153,
+				2216,
+				6184,
+				2015
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "op2S0ioE2qObkK75",
+			"c": [
+				6184,
+				2015,
+				6060,
+				1922
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Trw5ZfFYOrerBS9i",
+			"c": [
+				6060,
+				1922,
+				5549,
+				1937
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "lrlziS5j8BiT2o7v",
+			"c": [
+				5549,
+				1937,
+				5409,
+				1922
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "xVBawuhH0UTQzW2j",
+			"c": [
+				5409,
+				1922,
+				5394,
+				1813
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "K9OnVeGnj8MdCMyM",
+			"c": [
+				5394,
+				1813,
+				5270,
+				1798
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "KDMLxEqP3De9cKjj",
+			"c": [
+				5270,
+				1798,
+				5254,
+				1348
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "8VHOaT633Ztxp5X5",
+			"c": [
+				5254,
+				1348,
+				5533,
+				1364
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "IC3W779pCcGff00V",
+			"c": [
+				5533,
+				1364,
+				5518,
+				449
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "hKLrdg5VgmsOLupT",
+			"c": [
+				5518,
+				449,
+				4619,
+				480
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "13GeDgj527O8QXCc",
+			"c": [
+				4774,
+				3751,
+				4758,
+				3875
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "om9npItJ2VFN0jF9",
+			"c": [
+				4758,
+				3875,
+				4789,
+				3968
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Lq92oobstqWKq7YE",
+			"c": [
+				4789,
+				3968,
+				4789,
+				4045
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "EauccZif4fBNoKHN",
+			"c": [
+				4789,
+				4045,
+				4774,
+				4107
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ThtKdjcSKW9s5tpO",
+			"c": [
+				4774,
+				4107,
+				4774,
+				4247
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "x3q64rlwZw2KS5NP",
+			"c": [
+				4774,
+				4247,
+				4913,
+				4340
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "6bq7LpYZrJYFmZ23",
+			"c": [
+				4913,
+				4340,
+				4898,
+				4386
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "PIIPPsHMX5E0eYFU",
+			"c": [
+				4898,
+				4386,
+				4820,
+				4417
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "RzEXfGjdDaFbs7wA",
+			"c": [
+				4820,
+				4417,
+				4758,
+				4495
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ELMVyd95R20NAONH",
+			"c": [
+				4758,
+				4495,
+				4882,
+				4572
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "FX7d2a2zFJ7j7Zwb",
+			"c": [
+				4882,
+				4572,
+				4820,
+				4650
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "W9RYspNIo5skaINs",
+			"c": [
+				4820,
+				4650,
+				4820,
+				4681
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "DjBFZzoNRhVLtGG0",
+			"c": [
+				4820,
+				4681,
+				4913,
+				4650
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ZKrEwwwNwUyXI2Nw",
+			"c": [
+				4913,
+				4650,
+				4944,
+				4681
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Mu5GrY7xy5nqYbhJ",
+			"c": [
+				4944,
+				4681,
+				4991,
+				4634
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "V5IAN4uwy4QegNak",
+			"c": [
+				4991,
+				4634,
+				5037,
+				4650
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "KHpXmQxs7Nh5xgv5",
+			"c": [
+				5037,
+				4650,
+				5208,
+				4572
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "AbARtgrzZ5rS2Fpi",
+			"c": [
+				5208,
+				4572,
+				5316,
+				4495
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "G7MyFnS0JQ9j8n8d",
+			"c": [
+				5316,
+				4495,
+				5378,
+				4371
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "mcNlLKyU5BnhjQHH",
+			"c": [
+				5378,
+				4371,
+				5363,
+				4123
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "ULhMiYNXwIGiOtgG",
+			"c": [
+				5363,
+				4123,
+				5161,
+				3921
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "nkAHxMdkiULoLs2B",
+			"c": [
+				5161,
+				3921,
+				4882,
+				3906
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "3Tk6mJVWYnQN2J5X",
+			"c": [
+				4882,
+				3906,
+				4789,
+				3968
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "QBiDFYDGcJa8ylmb",
+			"c": [
+				3952,
+				2588,
+				3906,
+				3534
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "JqDBrBX7CUguGn8Q",
+			"c": [
+				2604,
+				2805,
+				3890,
+				2821
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qsyGHp781d43YUPK",
+			"c": [
+				3890,
+				2821,
+				3890,
+				2759
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qloxi9fNSHt2QGN8",
+			"c": [
+				3890,
+				2759,
+				3921,
+				2743
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "BEFM7LVwYrK9Wamo",
+			"c": [
+				3921,
+				2743,
+				3952,
+				2588
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "3DYX29quaeDJou2u",
+			"c": [
+				2604,
+				2805,
+				2573,
+				2542
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "nKuCKIhZIIq9sh5a",
+			"c": [
+				2573,
+				3534,
+				2588,
+				3208
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "jvJ08HDv0qsyXa7z",
+			"c": [
+				2588,
+				3208,
+				2728,
+				3022
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "7c0q3oi5B2hDSt5E",
+			"c": [
+				2728,
+				3022,
+				3007,
+				2852
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "g4g9TxKaLKa50XbF",
+			"c": [
+				3007,
+				2852,
+				3270,
+				2852
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "MDpoSn95WM1J5F89",
+			"c": [
+				3270,
+				2852,
+				3255,
+				3193
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "fRIrPWaimLIygBo8",
+			"c": [
+				3255,
+				3193,
+				3177,
+				3348
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "qPalaNrVdBwg6fx1",
+			"c": [
+				3177,
+				3348,
+				2774,
+				3456
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ygYGG756FFpNHfvf",
+			"c": [
+				2774,
+				3456,
+				2681,
+				3534
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "4MHg0z1MmRUoyave",
+			"c": [
+				1844,
+				2542,
+				2573,
+				2542
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "gPdPWq2YSBBIIzvk",
+			"c": [
+				1395,
+				2309,
+				2573,
+				2263
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "43gr7updAFvMu3MW",
+			"c": [
+				2573,
+				2263,
+				2573,
+				2061
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "ZcX3gMTz5jsj00eT",
+			"c": [
+				2573,
+				2061,
+				2619,
+				2015
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Qjo4ezvhutnNqCLS",
+			"c": [
+				3038,
+				2077,
+				2991,
+				310
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "LAVDFNDYH06Fd3iW",
+			"c": [
+				2991,
+				310,
+				3394,
+				310
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "YGXrojGZ3LuJFnF1",
+			"c": [
+				3394,
+				310,
+				3410,
+				2077
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "4ZceqxvvgzRPnxR2",
+			"c": [
+				3890,
+				2030,
+				3937,
+				2108
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Z2y6X9BXfMyutkTk",
+			"c": [
+				3937,
+				2108,
+				3937,
+				2232
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Zrtospl5vApxrjwh",
+			"c": [
+				3937,
+				2232,
+				4185,
+				2232
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "TzopzV3ZfrKyD4oB",
+			"c": [
+				4185,
+				2232,
+				4293,
+				2356
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "0bSXFFCCh1SzxkyR",
+			"c": [
+				4293,
+				2356,
+				4309,
+				3704
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "vo1flpFl4IwiX4DP",
+			"c": [
+				1767,
+				2542,
+				1178,
+				2557
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "V26PNVbfwKhSFcrU",
+			"c": [
+				1178,
+				2557,
+				868,
+				2542
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "7JfCKyHcDQMyk5I6",
+			"c": [
+				868,
+				2542,
+				883,
+				2046
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "VDczD1AB1ShUJjY4",
+			"c": [
+				883,
+				2046,
+				1178,
+				2077
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "xeG28t8C6NBRD9yd",
+			"c": [
+				1178,
+				2077,
+				1178,
+				2263
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "jx4Rg64v0nzPtQcj",
+			"c": [
+				1178,
+				2263,
+				1178,
+				2356
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 2,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "pvddakIA26WdABRp",
+			"c": [
+				1178,
+				2356,
+				1178,
+				2557
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "1EgJdmmjOhdbDgKk",
+			"c": [
+				1689,
+				2092,
+				1178,
+				2077
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "JGsGW52WWuBHJ3nb",
+			"c": [
+				1689,
+				2092,
+				1689,
+				2294
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Z9tOF3P0We7iRHfO",
+			"c": [
+				1767,
+				2542,
+				1844,
+				2542
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 2,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "XF4OZCKoAfGOECJc",
+			"c": [
+				1767,
+				2542,
+				1689,
+				2805
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "xdRFmEbqdgcLFBsg",
+			"c": [
+				1844,
+				2542,
+				1829,
+				2666
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "Gw1Iwy3ZYT4o0Nhb",
+			"c": [
+				1875,
+				2743,
+				1829,
+				2666
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "SR31Q3hPmAMtTQ7b",
+			"c": [
+				1875,
+				2743,
+				1689,
+				2805
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 20,
+			"sight": 20
+		},
+		{
+			"_id": "bzbsGBJyqUXAe83s",
+			"c": [
+				1379,
+				2077,
+				1395,
+				2309
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "qEnNkLhRdBA7mydh",
+			"c": [
+				1395,
+				2309,
+				1395,
+				2557
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "1URLv4MCaywi3LC0",
+			"c": [
+				1736,
+				2278,
+				1736,
+				2557
+			],
+			"move": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 10,
+			"sight": 10
+		},
+		{
+			"_id": "rGjpuAekzwcQfy2K",
+			"c": [
+				2867,
+				3518,
+				3069,
+				3952
+			],
+			"move": 20,
+			"sound": 0,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 0,
+			"sight": 10
+		},
+		{
+			"_id": "fJ5jzkNS9sHWMlx2",
+			"c": [
+				2712,
+				3534,
+				2774,
+				3797
+			],
+			"move": 20,
+			"sound": 0,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {},
+			"light": 0,
+			"sight": 10
+		},
+		{
+			"_id": "MmQsyIe2j9OZhyy2",
+			"c": [
+				2092,
+				4247,
+				2247,
+				4231
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "NbK4EBT4RUENRPv1",
+			"c": [
+				2325,
+				4278,
+				2247,
+				4231
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "tr2ALBjJiHTVvBmn",
+			"c": [
+				2247,
+				4231,
+				2278,
+				4092
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "roE2GFzrT7FhuGG9",
+			"c": [
+				3115,
+				821,
+				3131.375,
+				724.796875
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "QgdRKiU8KsGqZFJk",
+			"c": [
+				3131.375,
+				724.796875,
+				3198.5,
+				703.125
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "dG7DrmEbGXDOYEjn",
+			"c": [
+				3198.5,
+				703.125,
+				3274.375,
+				717.390625
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "epnS2ByyklYeStow",
+			"c": [
+				3274.375,
+				717.390625,
+				3317,
+				775
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "nruAjMJa5lNWQmqS",
+			"c": [
+				3115,
+				821,
+				3115,
+				1147
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "UXwPmyVpABcjlpkQ",
+			"c": [
+				3317,
+				1178,
+				3317,
+				775
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "sLRpxXvscTcSDaAx",
+			"c": [
+				3177,
+				1100,
+				3115,
+				1147
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "kbgDn1LiISMAkBTw",
+			"c": [
+				3177,
+				1100,
+				3317,
+				1178
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "OdjhT3mcCg7LkeoE",
+			"c": [
+				2805,
+				2015,
+				2790,
+				2077
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "VSMWurIAeGcKE9eA",
+			"c": [
+				2790,
+				2077,
+				3038,
+				2077
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "m3SdZev0s3Gycw7O",
+			"c": [
+				2619,
+				2015,
+				2805,
+				2015
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "5qVFYdYS90yTIpVt",
+			"c": [
+				3704,
+				2077,
+				3704,
+				2015
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "6y6kQ5gci2FIRKTz",
+			"c": [
+				3704,
+				2077,
+				3410,
+				2077
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "YQtNUSD8PMV2YIWH",
+			"c": [
+				3704,
+				2015,
+				3890,
+				2030
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		},
+		{
+			"_id": "aFpbpW5MCAQ6pyjb",
+			"c": [
+				2942.4046947337965,
+				2077.3042857659557,
+				3438.4046947337965,
+				2077.3042857659557
+			],
+			"light": 20,
+			"move": 20,
+			"sight": 20,
+			"sound": 20,
+			"dir": 0,
+			"door": 1,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "rDNsjFt79DL8Iz6V",
+					"offset": {
+						"x": -264,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 0,
+						"offRot": 0,
+						"c": [
+							-264,
+							0,
+							232,
+							0
+						],
+						"size": {
+							"widthBase": 2,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "gSbEZSMCQBMy6CeZ",
+			"c": [
+				5194.414380707064,
+				1820.9610042118222,
+				5142.07758099621,
+				1885.6456963423868
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "9RJ8sBmVkxN67feU",
+			"c": [
+				5142.07758099621,
+				1885.6456963423868,
+				5097.715531746766,
+				1859.1785735975564
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Zl8nxavfOO66QFzc",
+			"c": [
+				5097.715531746766,
+				1859.1785735975564,
+				5194.414380707064,
+				1820.9610042118222
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "lCvenohpR6nTRlOq",
+			"c": [
+				5260.593364884767,
+				1873.4285375367983,
+				5210.217569385733,
+				1915.6988489602986
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "xtmWfbaiBlYePQEG",
+			"c": [
+				5198.46712274483,
+				1774.637950750556,
+				5220.4147912872095,
+				1799.1440692835642
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Vec3IqMY8g9hTI1T",
+			"c": [
+				5220.4147912872095,
+				1799.1440692835642,
+				5244.7901762060965,
+				1778.6906927883222
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "2G9bT4x2aVtqNbAe",
+			"c": [
+				5244.7901762060965,
+				1778.6906927883222,
+				5198.46712274483,
+				1774.637950750556
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "rBAgnzmbcMcvcJd5",
+			"c": [
+				5260.593364884767,
+				1873.4285375367983,
+				5193.816934928258,
+				1845.0004105801456
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "gcY6GiMWMNMW0Ohr",
+			"c": [
+				5193.816934928258,
+				1845.0004105801456,
+				5210.217569385733,
+				1915.6988489602986
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "RN3GNFWotlnmR9tV",
+			"c": [
+				5174.091737825944,
+				1795.091327245798,
+				5127.768684364678,
+				1791.038585208032
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "p2qE2F0gdcLkHROH",
+			"c": [
+				5127.768684364678,
+				1791.038585208032,
+				5085.498372941178,
+				1740.6627897089998
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "2INeOi1fnAqN9g3z",
+			"c": [
+				5085.498372941178,
+				1740.6627897089998,
+				5174.091737825944,
+				1795.091327245798
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "HecbNYqcR3m4KIE7",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Eh77Ybvc5AONvKzh",
+			"c": [
+				5012.358185854702,
+				1786.5093333532154,
+				5067.522646138457,
+				1780.6884810443228
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "riiCAI28CqGULQnV",
+			"c": [
+				5067.522646138457,
+				1780.6884810443228,
+				5075.9583953919555,
+				1814.077672926309
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Qj5ixJLmIVsfTZ4z",
+			"c": [
+				4989.816873009814,
+				1784.5372240182962,
+				4968.68439221773,
+				1782.6883715168099
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "vukdpDmwqFQ0Sqpv",
+			"c": [
+				5005.894545936123,
+				1730.5788286263405,
+				5049.568339573094,
+				1734.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "y1btNAlSHPkAEA6p",
+			"c": [
+				5023.972109334919,
+				1775.4586871551119,
+				5049.568339573094,
+				1734.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "DrE29xm6gFIbt9oX",
+			"c": [
+				5075.9583953919555,
+				1814.077672926309,
+				5012.358185854702,
+				1786.5093333532154
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "JKNfGiEaYo8gbAJI",
+			"c": [
+				4988.610808118014,
+				1806.4357492534982,
+				4989.816873009814,
+				1784.5372240182962
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "rh3mDb6q7ysY93Rv",
+			"c": [
+				4968.68439221773,
+				1782.6883715168099,
+				4988.610808118014,
+				1806.4357492534982
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Y30QKts2QOjS42Nm",
+			"c": [
+				5005.894545936123,
+				1730.5788286263405,
+				5023.972109334919,
+				1775.4586871551119
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "RXdQ6moa1PC86t11",
+			"c": [
+				5029.669704810379,
+				1832.031979491673,
+				5025.8487429739735,
+				1875.705773128644
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "zRAdNpqrlVnjKy9p",
+			"c": [
+				5025.8487429739735,
+				1875.705773128644,
+				5009.743288910096,
+				1808.2846017549846
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Y1RAN3XC97IsY0Tw",
+			"c": [
+				5009.743288910096,
+				1808.2846017549846,
+				5029.669704810379,
+				1832.031979491673
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "uQFZ5IgGy9CZiuDb",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "FckcJHL8qnnsd2AI",
+			"c": [
+				5415.488887394336,
+				2020.8822856765378,
+				5373.639510704658,
+				2057.291483287657
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "mCUnqLoLbNgp345E",
+			"c": [
+				5373.639510704658,
+				2057.291483287657,
+				5347.5780957662355,
+				2034.7792054951426
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "UxMEplGyY0tR5hlq",
+			"c": [
+				5435.084805336602,
+				2009.5685771775532,
+				5453.455978407475,
+				1998.961975459755
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "ZyTgohBrXeBzEkrf",
+			"c": [
+				5452.864010831744,
+				2062.9904814113174,
+				5414.896919818605,
+				2084.9107916281005
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "w1tLe4nz16uDmZcA",
+			"c": [
+				5412.313708498985,
+				2036.5959179422655,
+				5414.896919818605,
+				2084.9107916281005
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "hHHPEizDd8dBITOO",
+			"c": [
+				5347.5780957662355,
+				2034.7792054951426,
+				5415.488887394336,
+				2020.8822856765378
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "G5xfmVOso4RsOvNO",
+			"c": [
+				5423.512277792514,
+				1990.9385850615768,
+				5435.084805336602,
+				2009.5685771775532
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "BQgdLUmVQiKWx50m",
+			"c": [
+				5453.455978407475,
+				1998.961975459755,
+				5423.512277792514,
+				1990.9385850615768
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "GpaSLoToSYhCyXJd",
+			"c": [
+				5452.864010831744,
+				2062.9904814113174,
+				5412.313708498985,
+				2036.5959179422655
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "4SYnMiDemXIVnxuV",
+			"c": [
+				5375.19740410668,
+				1993.5217963811967,
+				5353.277093889897,
+				1955.5547053680575
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "qIoYwyuC0Cfksx1F",
+			"c": [
+				5353.277093889897,
+				1955.5547053680575,
+				5405.141104721641,
+				2001.545186779375
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "6kXuWiESixstAIZ3",
+			"c": [
+				5405.141104721641,
+				2001.545186779375,
+				5375.19740410668,
+				1993.5217963811967
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "wqY356cKleUNikxl",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Ig5j8rOnkXI7pYgO",
+			"c": [
+				5450.9809655550125,
+				2179.7613281522863,
+				5370.618897074309,
+				2201.329544339599
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "nBXywVjo63Ra9ZPx",
+			"c": [
+				5370.618897074309,
+				2201.329544339599,
+				5350.286229746236,
+				2153.841833936528
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "E3K9hLdz6IQr1doN",
+			"c": [
+				5484.839412176131,
+				2177.393714922712,
+				5516.58170588343,
+				2175.174077519986
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "BIpwgw37ceSSuAGS",
+			"c": [
+				5473.681246112659,
+				2261.107485176476,
+				5408.080505784242,
+				2265.6947358087764
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Wln77UdANhQuXW88",
+			"c": [
+				5436.367613229574,
+				2198.8584466211187,
+				5408.080505784242,
+				2265.6947358087764
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "iRpabGqSKWTDpkc9",
+			"c": [
+				5350.286229746236,
+				2153.841833936528,
+				5450.9809655550125,
+				2179.7613281522863
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "6zGNr0Qmwj2xj1zX",
+			"c": [
+				5481.487710403071,
+				2144.6673326719274,
+				5484.839412176131,
+				2177.393714922712
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "bmTtuwYRmjXlzLw8",
+			"c": [
+				5516.58170588343,
+				2175.174077519986,
+				5481.487710403071,
+				2144.6673326719274
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "rWMlWsJmoZWRtsR4",
+			"c": [
+				5473.681246112659,
+				2261.107485176476,
+				5436.367613229574,
+				2198.8584466211187
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "daZ4o1Su3l1WCPIM",
+			"c": [
+				5414.651421215413,
+				2116.380225226595,
+				5410.064170583113,
+				2050.7794848981775
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "qikzVKTqYdx9LQLx",
+			"c": [
+				5410.064170583113,
+				2050.7794848981775,
+				5449.745416695772,
+				2146.8869700746536
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "DVkdgWsTvluu76v8",
+			"c": [
+				5449.745416695772,
+				2146.8869700746536,
+				5414.651421215413,
+				2116.380225226595
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "qjWhMLCZDG3Ckmfp",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "LpZnuLWGucCQyouU",
+			"c": [
+				5034.02722534728,
+				2375.020467349291,
+				5052.108193091743,
+				2427.4616592257507
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "jqSXiVXlJNO5d8Xh",
+			"c": [
+				5052.108193091743,
+				2427.4616592257507,
+				5021.47239472332,
+				2443.192134689936
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "K8Cxr6xR9Coc8Hlp",
+			"c": [
+				5030.878097556957,
+				2352.613258818101,
+				5027.925790253528,
+				2331.6065008201113
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "YU3HrEVGWM3r0tza",
+			"c": [
+				5087.070232246892,
+				2356.140864094781,
+				5093.171667340646,
+				2399.5548306239607
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "bIZCm5f72VRQ0CWD",
+			"c": [
+				5047.407208531189,
+				2383.8508722096763,
+				5093.171667340646,
+				2399.5548306239607
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "2hP005J9dgkFZ5AU",
+			"c": [
+				5021.47239472332,
+				2443.192134689936,
+				5034.02722534728,
+				2375.020467349291
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "mtYKcCovARViaE4A",
+			"c": [
+				5009.2695245358145,
+				2356.3642016315775,
+				5030.878097556957,
+				2352.613258818101
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "rX9gsUEQbxeIcZrQ",
+			"c": [
+				5027.925790253528,
+				2331.6065008201113,
+				5009.2695245358145,
+				2356.3642016315775
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "jC6ciuJov4S8izv3",
+			"c": [
+				5087.070232246892,
+				2356.140864094781,
+				5047.407208531189,
+				2383.8508722096763
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Uq8U386FzCBK57XV",
+			"c": [
+				4993.56556612153,
+				2402.1286604410334,
+				4950.151599592351,
+				2408.230095534786
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "m7yXVZ9ETiTlHI29",
+			"c": [
+				4950.151599592351,
+				2408.230095534786,
+				5012.221831839243,
+				2377.370959629567
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "d2VUP8WeS84rsEx9",
+			"c": [
+				5012.221831839243,
+				2377.370959629567,
+				4993.56556612153,
+				2402.1286604410334
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "4Zchdz1jfzYVMDM3",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "0zce5r3JoxUWAMGx",
+			"c": [
+				5204.5,
+				2359,
+				5158,
+				2428
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -16,
+						"y": 0,
+						"rot": 0,
+						"centerX": -0.5,
+						"centerY": 23,
+						"offRot": 0,
+						"c": [
+							15,
+							0,
+							-16,
+							46
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "9AGClDJW6Bh8NO4k",
+			"c": [
+				5158,
+				2428,
+				5111.5,
+				2405.5
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -47,
+						"y": 31,
+						"rot": 0,
+						"centerX": -31.5,
+						"centerY": 38.5,
+						"offRot": 0,
+						"c": [
+							-16,
+							46,
+							-47,
+							31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Q4w1nClC012wSt7F",
+			"c": [
+				5228.5,
+				2335,
+				5251,
+				2312.5
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 31,
+						"y": -31,
+						"rot": 0,
+						"centerX": 38.5,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							31,
+							-16,
+							46,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "MDZfxChfPBN5oRQN",
+			"c": [
+				5275,
+				2405.5,
+				5228.5,
+				2452
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 31,
+						"y": 31,
+						"rot": 0,
+						"centerX": 46.5,
+						"centerY": 46.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "dnVT5f7Pkphpyinc",
+			"c": [
+				5206,
+				2383,
+				5228.5,
+				2452
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 23.5,
+						"centerY": 39,
+						"offRot": 0,
+						"c": [
+							16,
+							16,
+							31,
+							62
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "U5qkaPLmh96caxOW",
+			"c": [
+				5111.5,
+				2405.5,
+				5204.5,
+				2359
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -47,
+						"y": 0,
+						"rot": 0,
+						"centerX": -16,
+						"centerY": 15.5,
+						"offRot": 0,
+						"c": [
+							-47,
+							31,
+							15,
+							0
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "XgPznn5dHEKwesvi",
+			"c": [
+				5204.5,
+				2312.5,
+				5228.5,
+				2335
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 23,
+						"centerY": -23.5,
+						"offRot": 0,
+						"c": [
+							15,
+							-31,
+							31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "U58oxehSmgRNTWLz",
+			"c": [
+				5251,
+				2312.5,
+				5204.5,
+				2312.5
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 15,
+						"y": -31,
+						"rot": 0,
+						"centerX": 30.5,
+						"centerY": -31,
+						"offRot": 0,
+						"c": [
+							46,
+							-31,
+							15,
+							-31
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "jXvblz7hEo3BlYnx",
+			"c": [
+				5275,
+				2405.5,
+				5206,
+				2383
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": 16,
+						"y": 16,
+						"rot": 0,
+						"centerX": 39,
+						"centerY": 23.5,
+						"offRot": 0,
+						"c": [
+							62,
+							31,
+							16,
+							16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Hkb02qo7SFqVEua2",
+			"c": [
+				5135.5,
+				2335,
+				5089,
+				2288.5
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -46.5,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-31,
+							-16,
+							-62,
+							-47
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "gX1MdjEdPwpeaoQv",
+			"c": [
+				5089,
+				2288.5,
+				5182,
+				2335
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -62,
+						"y": -47,
+						"rot": 0,
+						"centerX": -31,
+						"centerY": -31.5,
+						"offRot": 0,
+						"c": [
+							-62,
+							-47,
+							0,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "GMiNFXwzGY6OyKw1",
+			"c": [
+				5182,
+				2335,
+				5135.5,
+				2335
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "E4Xs2WZBQzOMOUKW",
+					"offset": {
+						"x": -31,
+						"y": -16,
+						"rot": 0,
+						"centerX": -15.5,
+						"centerY": -16,
+						"offRot": 0,
+						"c": [
+							0,
+							-16,
+							-31,
+							-16
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "uI57fwmyy2jaOjKp",
+			"c": [
+				5069.9809655550125,
+				2463.7613281522863,
+				4989.618897074309,
+				2485.329544339599
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -63.381102925691266,
+						"y": 14.761328152286296,
+						"rot": 41,
+						"centerX": -23.20006868533983,
+						"centerY": 25.54543624594271,
+						"offRot": 0,
+						"c": [
+							16.980965555012517,
+							14.761328152286296,
+							-63.381102925691266,
+							36.329544339599124
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "gTF5n69dpbXmY7VG",
+			"c": [
+				4989.618897074309,
+				2485.329544339599,
+				4969.286229746236,
+				2437.841833936528
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -83.71377025376387,
+						"y": -11.158166063471981,
+						"rot": 41,
+						"centerX": -73.54743658972711,
+						"centerY": 12.585689138063572,
+						"offRot": 0,
+						"c": [
+							-63.381102925691266,
+							36.329544339599124,
+							-83.71377025376387,
+							-11.158166063471981
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "2MoLViNjn2Cfhm8n",
+			"c": [
+				5103.839412176131,
+				2461.393714922712,
+				5135.58170588343,
+				2459.174077519986
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": 50.83941217613119,
+						"y": 10.174077519985985,
+						"rot": 41,
+						"centerX": 66.7105590297806,
+						"centerY": 11.283896221349096,
+						"offRot": 0,
+						"c": [
+							50.83941217613119,
+							12.393714922712206,
+							82.58170588343,
+							10.174077519985985
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "HO63MgOfhhfgK9On",
+			"c": [
+				5092.681246112659,
+				2545.107485176476,
+				5027.080505784242,
+				2549.6947358087764
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -25.919494215758277,
+						"y": 96.10748517647608,
+						"rot": 41,
+						"centerX": 6.8808759484500115,
+						"centerY": 98.40111049262623,
+						"offRot": 0,
+						"c": [
+							39.68124611265921,
+							96.10748517647608,
+							-25.919494215758277,
+							100.69473580877639
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "kdPaYZIp4H6q6uuG",
+			"c": [
+				5055.367613229574,
+				2482.8584466211187,
+				5027.080505784242,
+				2549.6947358087764
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -25.919494215758277,
+						"y": 33.858446621118674,
+						"rot": 41,
+						"centerX": -11.775940493092094,
+						"centerY": 67.27659121494753,
+						"offRot": 0,
+						"c": [
+							2.36761322957409,
+							33.858446621118674,
+							-25.919494215758277,
+							100.69473580877639
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "B0ufMugLjq2Egeea",
+			"c": [
+				4969.286229746236,
+				2437.841833936528,
+				5069.9809655550125,
+				2463.7613281522863
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -83.71377025376387,
+						"y": -11.158166063471981,
+						"rot": 41,
+						"centerX": -33.366402349375676,
+						"centerY": 1.8015810444071576,
+						"offRot": 0,
+						"c": [
+							-83.71377025376387,
+							-11.158166063471981,
+							16.980965555012517,
+							14.761328152286296
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "YetbHCmHTLNfYwQG",
+			"c": [
+				5100.487710403071,
+				2428.6673326719274,
+				5103.839412176131,
+				2461.393714922712
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": 47.487710403071105,
+						"y": -20.332667328072603,
+						"rot": 41,
+						"centerX": 49.1635612896016,
+						"centerY": -3.969476202680198,
+						"offRot": 0,
+						"c": [
+							47.487710403071105,
+							-20.332667328072603,
+							50.83941217613119,
+							12.393714922712206
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "7d4CiHg7tlX26Efv",
+			"c": [
+				5135.58170588343,
+				2459.174077519986,
+				5100.487710403071,
+				2428.6673326719274
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": 47.487710403071105,
+						"y": -20.332667328072603,
+						"rot": 41,
+						"centerX": 65.03470814325101,
+						"centerY": -5.079294904043309,
+						"offRot": 0,
+						"c": [
+							82.58170588343,
+							10.174077519985985,
+							47.487710403071105,
+							-20.332667328072603
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "fZanpSvlSvo8xdA5",
+			"c": [
+				5092.681246112659,
+				2545.107485176476,
+				5055.367613229574,
+				2482.8584466211187
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": 2.36761322957409,
+						"y": 33.858446621118674,
+						"rot": 41,
+						"centerX": 21.024429671116195,
+						"centerY": 64.98296589879737,
+						"offRot": 0,
+						"c": [
+							39.68124611265921,
+							96.10748517647608,
+							2.36761322957409,
+							33.858446621118674
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "ZNgzgsovuDgog9l0",
+			"c": [
+				5033.651421215413,
+				2400.380225226595,
+				5029.064170583113,
+				2334.7794848981775
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -23.935829416886918,
+						"y": -114.22051510182246,
+						"rot": 41,
+						"centerX": -21.642204100736308,
+						"centerY": -81.42014493761371,
+						"offRot": 0,
+						"c": [
+							-19.348578784586607,
+							-48.61977477340497,
+							-23.935829416886918,
+							-114.22051510182246
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "nWIeUmLC2LuczDHa",
+			"c": [
+				5029.064170583113,
+				2334.7794848981775,
+				5068.745416695772,
+				2430.8869700746536
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -23.935829416886918,
+						"y": -114.22051510182246,
+						"rot": 41,
+						"centerX": -4.095206360557313,
+						"centerY": -66.16677251358442,
+						"offRot": 0,
+						"c": [
+							-23.935829416886918,
+							-114.22051510182246,
+							15.745416695772292,
+							-18.113029925346382
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "SpGDXBdvqHLkzMLQ",
+			"c": [
+				5068.745416695772,
+				2430.8869700746536,
+				5033.651421215413,
+				2400.380225226595
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "KaEKAyUXdgOrJrmR",
+					"offset": {
+						"x": -19.348578784586607,
+						"y": -48.61977477340497,
+						"rot": 41,
+						"centerX": -1.8015810444076124,
+						"centerY": -33.366402349375676,
+						"offRot": 0,
+						"c": [
+							15.745416695772292,
+							-18.113029925346382,
+							-19.348578784586607,
+							-48.61977477340497
+						],
+						"size": {
+							"widthBase": 1.5,
+							"heightBase": 1.5
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "fCb3AaqOY0iKhkWq",
+			"c": [
+				5489.358185854702,
+				2057.5093333532154,
+				5544.522646138457,
+				2051.6884810443225
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -9.641814145297758,
+						"y": -17.31151895567723,
+						"rot": 230,
+						"centerX": 17.94041599657976,
+						"centerY": -14.401092801230789,
+						"offRot": 0,
+						"c": [
+							-9.641814145297758,
+							-11.490666646784575,
+							45.522646138457276,
+							-17.31151895567723
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "2Y0LGh7X6IjXpS5z",
+			"c": [
+				5544.522646138457,
+				2051.6884810443225,
+				5552.9583953919555,
+				2085.077672926309
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": 45.522646138457276,
+						"y": -17.31151895567723,
+						"rot": 230,
+						"centerX": 49.740520765206384,
+						"centerY": -0.6169230146840619,
+						"offRot": 0,
+						"c": [
+							45.522646138457276,
+							-17.31151895567723,
+							53.95839539195549,
+							16.077672926309106
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "OPAOLsC5MMUBRGRL",
+			"c": [
+				5466.816873009814,
+				2055.537224018296,
+				5445.68439221773,
+				2053.6883715168096
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -53.31560778226958,
+						"y": -15.311628483190134,
+						"rot": 230,
+						"centerX": -42.74936738622819,
+						"centerY": -14.387202232446953,
+						"offRot": 0,
+						"c": [
+							-32.18312699018588,
+							-13.462775981703771,
+							-53.31560778226958,
+							-15.311628483190134
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "ZuwhDavPArXhY1PP",
+			"c": [
+				5482.894545936123,
+				2001.5788286263405,
+				5526.568339573094,
+				2005.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -16.105454063877005,
+						"y": -67.42117137365949,
+						"rot": 230,
+						"centerX": 5.731442754607997,
+						"centerY": -65.5106904554566,
+						"offRot": 0,
+						"c": [
+							-16.105454063877005,
+							-67.42117137365949,
+							27.56833957309391,
+							-63.600209537253704
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "DR3yM0LElvJhK2zj",
+			"c": [
+				5500.972109334919,
+				2046.4586871551119,
+				5526.568339573094,
+				2005.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": 1.9721093349189687,
+						"y": -63.600209537253704,
+						"rot": 230,
+						"centerX": 14.770224454006893,
+						"centerY": -43.070761191070915,
+						"offRot": 0,
+						"c": [
+							1.9721093349189687,
+							-22.541312844888125,
+							27.56833957309391,
+							-63.600209537253704
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Bphm6tuMga2im0vI",
+			"c": [
+				5552.9583953919555,
+				2085.077672926309,
+				5489.358185854702,
+				2057.5093333532154
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -9.641814145297758,
+						"y": -11.490666646784575,
+						"rot": 230,
+						"centerX": 22.158290623328867,
+						"centerY": 2.293503139762379,
+						"offRot": 0,
+						"c": [
+							53.95839539195549,
+							16.077672926309106,
+							-9.641814145297758,
+							-11.490666646784575
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "zV3YxaoeOPxyR61W",
+			"c": [
+				5465.610808118014,
+				2077.435749253498,
+				5466.816873009814,
+				2055.537224018296
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -33.389191881986335,
+						"y": -13.462775981703771,
+						"rot": 230,
+						"centerX": -32.786159436085654,
+						"centerY": -2.5135133641028915,
+						"offRot": 0,
+						"c": [
+							-33.389191881986335,
+							8.435749253498216,
+							-32.18312699018588,
+							-13.462775981703771
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "QDYZqaTYExa4mHfk",
+			"c": [
+				5445.68439221773,
+				2053.6883715168096,
+				5465.610808118014,
+				2077.435749253498
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -53.31560778226958,
+						"y": -15.311628483190134,
+						"rot": 230,
+						"centerX": -43.35239983212796,
+						"centerY": -3.437939614846073,
+						"offRot": 0,
+						"c": [
+							-53.31560778226958,
+							-15.311628483190134,
+							-33.389191881986335,
+							8.435749253498216
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "M5pB9ksKaDjZ046t",
+			"c": [
+				5482.894545936123,
+				2001.5788286263405,
+				5500.972109334919,
+				2046.4586871551119
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -16.105454063877005,
+						"y": -67.42117137365949,
+						"rot": 230,
+						"centerX": -7.066672364479018,
+						"centerY": -44.98124210927381,
+						"offRot": 0,
+						"c": [
+							-16.105454063877005,
+							-67.42117137365949,
+							1.9721093349189687,
+							-22.541312844888125
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Mc5A6KdaxhbRoWlT",
+			"c": [
+				5506.669704810379,
+				2103.031979491673,
+				5502.8487429739735,
+				2146.705773128644
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": 3.848742973973458,
+						"y": 34.03197949167293,
+						"rot": 230,
+						"centerX": 5.759223892176124,
+						"centerY": 55.86887631015861,
+						"offRot": 0,
+						"c": [
+							7.669704810378789,
+							34.03197949167293,
+							3.848742973973458,
+							77.70577312864407
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "AWitQq9uGdCHAVH5",
+			"c": [
+				5502.8487429739735,
+				2146.705773128644,
+				5486.743288910096,
+				2079.2846017549846
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -12.256711089903547,
+						"y": 10.284601754984578,
+						"rot": 230,
+						"centerX": -4.203984057965499,
+						"centerY": 43.99518744181432,
+						"offRot": 0,
+						"c": [
+							3.848742973973458,
+							77.70577312864407,
+							-12.256711089903547,
+							10.284601754984578
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "ssqcDaN5F3FTHIcI",
+			"c": [
+				5486.743288910096,
+				2079.2846017549846,
+				5506.669704810379,
+				2103.031979491673
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "gvuNStnAonXBQ6cD",
+					"offset": {
+						"x": -12.256711089903547,
+						"y": 10.284601754984578,
+						"rot": 230,
+						"centerX": -2.2935031397628336,
+						"centerY": 22.158290623328867,
+						"offRot": 0,
+						"c": [
+							-12.256711089903547,
+							10.284601754984578,
+							7.669704810378789,
+							34.03197949167293
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "PcUbGn25Zkm1wal7",
+			"c": [
+				5136.358185854702,
+				1662.5093333532154,
+				5191.522646138457,
+				1656.6884810443228
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -9.641814145297758,
+						"y": -17.31151895567723,
+						"rot": 230,
+						"centerX": 17.94041599657976,
+						"centerY": -14.401092801230789,
+						"offRot": 0,
+						"c": [
+							-9.641814145297758,
+							-11.490666646784575,
+							45.522646138457276,
+							-17.31151895567723
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "UVjRHht24TGcyAPs",
+			"c": [
+				5191.522646138457,
+				1656.6884810443228,
+				5199.9583953919555,
+				1690.077672926309
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": 45.522646138457276,
+						"y": -17.31151895567723,
+						"rot": 230,
+						"centerX": 49.740520765206384,
+						"centerY": -0.6169230146840619,
+						"offRot": 0,
+						"c": [
+							45.522646138457276,
+							-17.31151895567723,
+							53.95839539195549,
+							16.077672926309106
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "OwJQ2fWs4DCxfrtT",
+			"c": [
+				5113.816873009814,
+				1660.5372240182962,
+				5092.68439221773,
+				1658.6883715168099
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -53.31560778226958,
+						"y": -15.311628483190134,
+						"rot": 230,
+						"centerX": -42.74936738622819,
+						"centerY": -14.387202232446953,
+						"offRot": 0,
+						"c": [
+							-32.18312699018588,
+							-13.462775981703771,
+							-53.31560778226958,
+							-15.311628483190134
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "frYiRr9hlLHcZuec",
+			"c": [
+				5129.894545936123,
+				1606.5788286263405,
+				5173.568339573094,
+				1610.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -16.105454063877005,
+						"y": -67.42117137365949,
+						"rot": 230,
+						"centerX": 5.731442754607997,
+						"centerY": -65.5106904554566,
+						"offRot": 0,
+						"c": [
+							-16.105454063877005,
+							-67.42117137365949,
+							27.56833957309391,
+							-63.600209537253704
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "cVci03drK1xQGha0",
+			"c": [
+				5147.972109334919,
+				1651.4586871551119,
+				5173.568339573094,
+				1610.3997904627463
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": 1.9721093349189687,
+						"y": -63.600209537253704,
+						"rot": 230,
+						"centerX": 14.770224454006893,
+						"centerY": -43.070761191070915,
+						"offRot": 0,
+						"c": [
+							1.9721093349189687,
+							-22.541312844888125,
+							27.56833957309391,
+							-63.600209537253704
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "CZQP1o9zT9XkkRL3",
+			"c": [
+				5199.9583953919555,
+				1690.077672926309,
+				5136.358185854702,
+				1662.5093333532154
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -9.641814145297758,
+						"y": -11.490666646784575,
+						"rot": 230,
+						"centerX": 22.158290623328867,
+						"centerY": 2.293503139762379,
+						"offRot": 0,
+						"c": [
+							53.95839539195549,
+							16.077672926309106,
+							-9.641814145297758,
+							-11.490666646784575
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "L7OwOV5C5KlVKvpa",
+			"c": [
+				5112.610808118014,
+				1682.4357492534982,
+				5113.816873009814,
+				1660.5372240182962
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -33.389191881986335,
+						"y": -13.462775981703771,
+						"rot": 230,
+						"centerX": -32.786159436085654,
+						"centerY": -2.5135133641028915,
+						"offRot": 0,
+						"c": [
+							-33.389191881986335,
+							8.435749253498216,
+							-32.18312699018588,
+							-13.462775981703771
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "H4KNe0kvZOr4sJr1",
+			"c": [
+				5092.68439221773,
+				1658.6883715168099,
+				5112.610808118014,
+				1682.4357492534982
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -53.31560778226958,
+						"y": -15.311628483190134,
+						"rot": 230,
+						"centerX": -43.35239983212796,
+						"centerY": -3.437939614846073,
+						"offRot": 0,
+						"c": [
+							-53.31560778226958,
+							-15.311628483190134,
+							-33.389191881986335,
+							8.435749253498216
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "GKoZ93288bGC2gUR",
+			"c": [
+				5129.894545936123,
+				1606.5788286263405,
+				5147.972109334919,
+				1651.4586871551119
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -16.105454063877005,
+						"y": -67.42117137365949,
+						"rot": 230,
+						"centerX": -7.066672364479018,
+						"centerY": -44.98124210927381,
+						"offRot": 0,
+						"c": [
+							-16.105454063877005,
+							-67.42117137365949,
+							1.9721093349189687,
+							-22.541312844888125
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "GFstZDLPBITWJqur",
+			"c": [
+				5153.669704810379,
+				1708.031979491673,
+				5149.8487429739735,
+				1751.705773128644
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": 3.848742973973458,
+						"y": 34.03197949167293,
+						"rot": 230,
+						"centerX": 5.759223892176124,
+						"centerY": 55.86887631015861,
+						"offRot": 0,
+						"c": [
+							7.669704810378789,
+							34.03197949167293,
+							3.848742973973458,
+							77.70577312864407
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "Y5Wv7o9u3kw0fMbq",
+			"c": [
+				5149.8487429739735,
+				1751.705773128644,
+				5133.743288910096,
+				1684.2846017549846
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -12.256711089903547,
+						"y": 10.284601754984578,
+						"rot": 230,
+						"centerX": -4.203984057965499,
+						"centerY": 43.99518744181432,
+						"offRot": 0,
+						"c": [
+							3.848742973973458,
+							77.70577312864407,
+							-12.256711089903547,
+							10.284601754984578
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "yFR2OWkDUt5aCaIO",
+			"c": [
+				5133.743288910096,
+				1684.2846017549846,
+				5153.669704810379,
+				1708.031979491673
+			],
+			"light": 10,
+			"move": 20,
+			"sight": 10,
+			"sound": 10,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {
+				"token-attacher": {
+					"parent": "9EiY8ViFhUArGuLw",
+					"offset": {
+						"x": -12.256711089903547,
+						"y": 10.284601754984578,
+						"rot": 230,
+						"centerX": -2.2935031397628336,
+						"centerY": 22.158290623328867,
+						"offRot": 0,
+						"c": [
+							-12.256711089903547,
+							10.284601754984578,
+							7.669704810378789,
+							34.03197949167293
+						],
+						"size": {
+							"widthBase": 1,
+							"heightBase": 1
+						},
+						"elevation": {
+							"flags": {}
+						}
+					}
+				}
+			}
+		},
+		{
+			"_id": "6uwRtWEWsQr9kgAz",
+			"c": [
+				2991,
+				4045,
+				2774,
+				3797
+			],
+			"light": 0,
+			"move": 20,
+			"sight": 10,
+			"sound": 0,
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"flags": {}
+		}
+	],
+	"playlist": null,
+	"playlistSound": null,
+	"journal": "01p6du0w2sS4prbG",
+	"weather": "",
+	"folder": "NweHssUAaKgGQG58",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3,
+		"default": 0
+	},
+	"flags": {
+		"token-attacher": {},
+		"core": {
+			"sourceId": "Compendium.world.sotss-scenes.4AqdgBmbkOW8F02y"
+		},
+		"htmltoscene": {
+			"enable": false,
+			"fileLoc": "",
+			"minUI": true,
+			"keepTop": false,
+			"spaceRight": true,
+			"rightDisabled": false,
+			"hidePaused": false,
+			"hideSmallTime": false
+		},
+		"pinfix": {
+			"enable": true,
+			"pinLocker": true,
+			"aboveFog": true,
+			"zoomFloor": 0.1,
+			"zoomCeil": 3,
+			"minScale": 1,
+			"maxScale": 1,
+			"hudScale": 1
+		},
+		"smalltime": {
+			"darkness-link": true,
+			"player-vis": "0"
+		}
+	}
+}

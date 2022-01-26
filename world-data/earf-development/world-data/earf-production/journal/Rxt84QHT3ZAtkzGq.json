@@ -1,0 +1,12 @@
+{
+	"_id": "Rxt84QHT3ZAtkzGq",
+	"name": "Spellburn",
+	"content": "<div class=\"ecr ecr-journal\n\">\n<div class=\"house-rule\">\n<h1>Regarding Spellburn</h1>\n<p>Characters that can spellburn <strong>must research, meditate, or otherwise discover the appropriate form their next spellburn must take</strong>. This is reflected by a roll on the appropriate <strong>Spellburn Actions</strong> table. Any preparations or actions the result indicates must be performed before the spellburnt casting takes effect.</p>\n<p>A character's next Spellburn Action should always be present as an inventory item on their sheet.</p>\n<p>Casting a spell using spellburn calls for a new roll on the Spellburn Actions table.</p>\n<p>After a night's rest, distant travel, or other major change in circumstances, a character may reroll on the Spellburn Actions table to replace an action that they wish to avoid. (&quot;Bah, the King of Elfland desires golden buttons in addition to my flesh and strength! Let us wait and rest; perhaps tomorrow my changable patron will wish for something I actually have in this dank oubliette.&quot;)</p>\n<p><strong>Some minor spellburn effects are not subject to the above rule</strong>, as they aren't true spellburn. They are side effects of magic.</p>\n<table>\n<thead>\n<tr>\n<th>Minor Magical Action</th>\n<th>Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Cast a spell 'lost' for the day</td>\n<td>1 Strength</td>\n</tr>\n<tr>\n<td>Attempt to 'activate' an unknown magical item or effect</td>\n<td>1 Agility</td>\n</tr>\n<tr>\n<td>Attempt to intuit information about a magical creature</td>\n<td>1 Stamina</td>\n</tr>\n</tbody>\n</table>\n</div>\n\n</div>",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

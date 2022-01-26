@@ -1,0 +1,12 @@
+{
+	"_id": "hJLs5TX3kaFAxJ32",
+	"name": "Curse of Storm and Hate",
+	"content": "<div class=\"ecr ecr-journal\n\">\n<p>Heroes escaping the tomb with either @Item[Felan's Axe] or @Item[Felan's Armor] are subject to two last wards: the curse of storm and hate.</p>\n<p>Judges are encouraged to create their own curse, specific to their home campaign. Following are some sample curses to serve as inspiration:</p>\n<ul>\n<li>The next time the PCs are at sea, their ship is overtaken by\na fearsome storm. Just as their ship is torn asunder, the heroes\nsee an image of Felan, silhouetted in the heart of the\nclouds. To survive the PCs must make it to a jungle island,\nwhere ancient reptiles lie in wait.</li>\n<li>The wielder of @Item[Felan's Axe] is slowly overcome by his\npassions. At the judge’s choosing (at least once per adventure)\nthe wielder must succeed on a <strong>DC 15 Will save</strong> or\nsuccumb to a violent rage, mindlessly attacking his foes\nand savagely pursuing them to the death.</li>\n<li>The next time the PCs are traveling through the wilderness,\nthey are overtaken by towering thunderclouds on\nan otherwise clear day. Just before the rain starts to fall,\nthe PCs spy the silhouette of Felan in the heart of the roiling\nblack clouds. Then comes the lightning. Each PC that\nentered the tomb is attacked by a bolt of lightning: Atk\nlightning bolt +1 missile fire; dmg 2d10.</li>\n</ul>\n\n</div>",
+	"folder": "2fuNcAtNfQ4fRhIv",
+	"sort": 100000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

@@ -1,0 +1,256 @@
+{
+	"_id": "sRiWhVrxtvAc8NXm",
+	"name": "Chaos Leviathan",
+	"type": "NPC",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/tentacled-leviathan.webp",
+	"data": {
+		"abilities": {
+			"str": {
+				"label": "DCC.AbilityStr",
+				"value": 10,
+				"max": 10
+			},
+			"agl": {
+				"label": "DCC.AbilityAgl",
+				"value": 10,
+				"max": 10
+			},
+			"sta": {
+				"label": "DCC.AbilitySta",
+				"value": 10,
+				"max": 10
+			},
+			"per": {
+				"label": "DCC.AbilityPer",
+				"value": 10,
+				"max": 10
+			},
+			"int": {
+				"label": "DCC.AbilityInt",
+				"value": 10,
+				"max": 10
+			},
+			"lck": {
+				"label": "DCC.AbilityLck",
+				"value": 10,
+				"max": 10
+			}
+		},
+		"attributes": {
+			"ac": {
+				"value": 15,
+				"checkPenalty": 0,
+				"speedPenalty": 0
+			},
+			"actionDice": {
+				"value": "1d20",
+				"options": [
+					"1d20"
+				]
+			},
+			"critical": {
+				"die": "1d4",
+				"table": "M"
+			},
+			"fumble": {
+				"die": "1d4"
+			},
+			"hitDice": {
+				"value": "10d10"
+			},
+			"hp": {
+				"value": 66,
+				"min": 0,
+				"max": 66,
+				"temp": 0,
+				"tempmax": 0
+			},
+			"init": {
+				"die": "1d20",
+				"value": 0
+			},
+			"speed": {
+				"value": "50'",
+				"base": 30,
+				"special": "",
+				"other": ""
+			},
+			"special": {
+				"value": "grapple on successful hit (Str DC 20 to escape)"
+			}
+		},
+		"details": {
+			"level": {
+				"value": 0
+			},
+			"alignment": "c",
+			"attackBonus": "+0",
+			"languages": "",
+			"occupation": "",
+			"title": "",
+			"notes": {
+				"value": "<div class=\"ecr ecr-actors\n\">\n<p>Chaos Leviathan: Init +0; Atk tentacle +6 melee (1d8+2); AC 15; HD 10d10; HP 66; MV 50’; Act 6d20; SP grapple on successful hit (Str DC 20 to escape); SV Fort +10, Ref -2, Will +6; AL C.</p>\n\n</div>"
+			}
+		},
+		"saves": {
+			"frt": {
+				"label": "DCC.SavesFortitude",
+				"value": 10
+			},
+			"ref": {
+				"label": "DCC.SavesReflex",
+				"value": -2
+			},
+			"wil": {
+				"label": "DCC.SavesWill",
+				"value": 6
+			}
+		},
+		"currency": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"attackBonusMode": "flat",
+			"actionDice": "6d20",
+			"capLevel": false,
+			"maxLevel": 10,
+			"rollAttackBonus": false,
+			"computeAC": false,
+			"baseACAbility": "agl",
+			"computeSpeed": false,
+			"computeCheckPenalty": false,
+			"sortInventory": true,
+			"removeEmptyItems": true,
+			"showSpells": false,
+			"showSkills": false,
+			"showMaxAbilities": true,
+			"showBackstab": false
+		},
+		"class": {
+			"spellCheck": 1,
+			"spellCheckAbility": "int"
+		}
+	},
+	"token": {
+		"name": "Chaos Leviathan",
+		"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/tentacled-leviathan.webp",
+		"displayName": 0,
+		"actorLink": false,
+		"width": 5,
+		"height": 5,
+		"scale": 1,
+		"mirrorX": false,
+		"mirrorY": false,
+		"lockRotation": false,
+		"rotation": 0,
+		"alpha": 1,
+		"vision": false,
+		"dimSight": 0,
+		"brightSight": 0,
+		"sightAngle": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 0,
+			"bright": 0,
+			"coloration": 1,
+			"dim": 0,
+			"gradual": true,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			},
+			"color": null
+		},
+		"disposition": -1,
+		"displayBars": 0,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": ""
+		},
+		"flags": {
+			"monks-little-details": {
+				"token-highlight": "",
+				"bloodsplat-colour": ""
+			}
+		},
+		"randomImg": false,
+		"tint": null,
+		"x": null,
+		"y": null,
+		"elevation": null
+	},
+	"items": [
+		{
+			"name": "tentacle",
+			"type": "weapon",
+			"img": "systems/dcc/styles/images/weapon.webp",
+			"data": {
+				"description": {
+					"value": "<div class=\"ecr ecr-items\">\n\n</div>",
+					"chat": "",
+					"unidentified": "",
+					"summary": ""
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": 0,
+					"ep": 0,
+					"gp": 0,
+					"sp": 0,
+					"cp": 0
+				},
+				"config": {
+					"inheritActionDie": true,
+					"inheritCritRange": true
+				},
+				"actionDie": "1d20",
+				"toHit": "+6",
+				"damage": "1d8+2",
+				"range": "",
+				"twoHanded": false,
+				"melee": true,
+				"shortRangeStrength": 0,
+				"subdual": 0,
+				"backstab": false,
+				"backstabDamage": null,
+				"doubleIfMounted": 0,
+				"critRange": 20
+			},
+			"_id": "k24gtqp63zswsxm2",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"permission": {
+				"default": 0
+			},
+			"flags": {}
+		}
+	],
+	"effects": [],
+	"folder": "fwWoguE22YzdKjRo",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

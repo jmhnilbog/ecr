@@ -1,0 +1,22 @@
+{
+	"name": "Setup Player Token",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/aura.svg",
+	"scope": "global",
+	"command": "if (actor && token) { \n  token.document.update({\n    \"name\": actor.data.name,\n    \"displayName\": CONST.TOKEN_DISPLAY_MODES.HOVER,\n    \"img\": actor.data.img,\n    \"bar1\": {\n      attribute: \"attributes.hp\"\n    },\n    \"bar2\": {\n      attribute: \"attributes.ac.value\"\n    },\n    \"displayBars\": CONST.TOKEN_DISPLAY_MODES.ALWAYS,\n    \"vision\": true,\n    \"actorLink\": true\n  })\n} else {\n \n ui.notifications.warn(game.i18n.localize(\"DCC.MacroNoTokenSelected\"))\n}",
+	"folder": null,
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.t5crrNVau7wgKpIT"
+		},
+		"combat-utility-belt": {
+			"macroTrigger": ""
+		}
+	},
+	"_id": "nyz2ct97NTKjToK7"
+}

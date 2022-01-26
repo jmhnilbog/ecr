@@ -1,0 +1,5 @@
+{
+	"key": "fxmaster.specialEffects",
+	"value": "[{\"folder\":\"Custom\",\"label\":\"Acid Line\",\"file\":\"modules/fxmaster/assets/specialEffects/jinker/dragonBornBlack-CopperAcid30x5Line.webm\",\"scale\":{\"x\":1,\"y\":1},\"angle\":0,\"anchor\":{\"x\":0,\"y\":0.5},\"speed\":0,\"animationDelay\":{\"start\":0,\"end\":0},\"ease\":\"Linear\",\"preset\":false,\"author\":\"\"}]",
+	"_id": "pbwMn6cv85q7fEtl"
+}

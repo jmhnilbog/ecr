@@ -1,0 +1,22 @@
+{
+	"_id": "3KprDZmBw8Q1euUQ",
+	"name": "Lightsource: Torch",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "icons/svg/fire.svg",
+	"scope": "global",
+	"command": "if (token) { \n  token.document.update({\n    light: {\n      dim: 35,\n      bright: 25,\n      animation: {\n        speed: 1,\n        intensity: 1,\n        type: 'torch'\n      },\n      color: '#9c6d0c',\n      alpha: 0.1\n    }\n  })\n\n  // TODO: set a timer for about an hour from now -- if this torch didn't burn out for some other reason, it goes out then.\n} else {\n \n ui.notifications.warn(game.i18n.localize(\"DCC.MacroNoTokenSelected\"))\n}",
+	"folder": "I8w0vgyaB72cmWtG",
+	"sort": 100000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.plZe7KH6AVX0Tb6t"
+		},
+		"combat-utility-belt": {
+			"macroTrigger": ""
+		}
+	}
+}

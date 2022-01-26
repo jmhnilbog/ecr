@@ -1,0 +1,19 @@
+{
+	"name": "Update Flame Lighting",
+	"type": "script",
+	"author": "oVvfrcHQErm1ON0p",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/fire-large-4color.webp",
+	"scope": "global",
+	"command": "//This can be automated with the 'lightingRefresh' hook.\n\n\n// Turns on the 'Flame' lights if dark. Turns them off if light.\n\nconst DARK = .55;\n\nlet flames = canvas.scene.tokens.filter(t => t.actor.folder.name === \"Lights\");\n\nlet setFlamesVisible = canvas.scene.data.darkness >= DARK;\n\nflames.forEach(f => {\n f.update( {hidden: !setFlamesVisible})\n})",
+	"folder": "I8w0vgyaB72cmWtG",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Macro.Ot6BG3pDVBktAARW"
+		}
+	},
+	"_id": "SyBBUk37zkrGLMto"
+}

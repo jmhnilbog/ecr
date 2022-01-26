@@ -1,0 +1,53 @@
+{
+	"_id": "RTvYX0JHfx7QMarA",
+	"name": "Blackened Mace",
+	"type": "weapon",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/flanged-mace.svg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>It was found in the burnt wreck of a spooky chapel.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": "*bonk*"
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "5",
+			"sp": "0",
+			"cp": "0"
+		},
+		"config": {
+			"inheritActionDie": true,
+			"inheritCritRange": true
+		},
+		"actionDie": "",
+		"toHit": "+0",
+		"damage": "1d6",
+		"range": "-",
+		"twoHanded": false,
+		"melee": true,
+		"shortRangeStrength": false,
+		"subdual": false,
+		"backstab": false,
+		"backstabDamage": null,
+		"doubleIfMounted": false,
+		"critRange": 20
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 150000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-weapons.h0jWXxrk4w8G0oBl"
+		}
+	}
+}

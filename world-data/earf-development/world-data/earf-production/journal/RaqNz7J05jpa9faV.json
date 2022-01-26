@@ -1,0 +1,12 @@
+{
+	"_id": "RaqNz7J05jpa9faV",
+	"name": "Movement",
+	"content": "<div class=\"ecr ecr-journal\n\">\n<div class=\"house-rule\">\n<h2>Regarding Overland Movement</h2>\n<ul>\n<li>You can march (Move * 6 / 10) miles per day in good conditions. If on foot, add your Stamina modifier in miles.</li>\n<li>You can travel an additional 50% of that distance with a forced march of 12 hours. Each day of forced march performed after the first inflicts [[/r 1d6]] damage on the characters, and also inflicts this damage on animals from the first day. An animal that suffers 5 or 6 points of damage in this manner dies at the end of a day’s journey.</li>\n</ul>\n<h3>Terrain and Weather Effects on Movement</h3>\n<table>\n<thead>\n<tr>\n<th>Terrain</th>\n<th>Modifier</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Jungle, Mountains, Swamp</td>\n<td>× ⅓</td>\n</tr>\n<tr>\n<td>Desert, Forest, Hills</td>\n<td>× ½</td>\n</tr>\n<tr>\n<td>Clear, Plains, Trail</td>\n<td>× ⅔</td>\n</tr>\n<tr>\n<td>Road</td>\n<td>× 1</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>Weather</th>\n<th>Modifier</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>High Winds or Precipitation</td>\n<td>× ½</td>\n</tr>\n<tr>\n<td>Storm Conditions</td>\n<td>× ⅓</td>\n</tr>\n</tbody>\n</table>\n</div>\n\n</div>",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

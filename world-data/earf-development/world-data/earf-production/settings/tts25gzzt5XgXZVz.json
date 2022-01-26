@@ -1,0 +1,5 @@
+{
+	"_id": "tts25gzzt5XgXZVz",
+	"key": "about-time.store",
+	"value": "{\"_eventQueue\":{\"size\":2,\"compare\":\"function (a, b) {\\n    if (a._time !== b._time)\\n        return a._time < b._time;\\n    return a._uid < b._uid;\\n}\",\"array\":[{\"time\":-28028032977,\"recurring\":true,\"increment\":{\"minute\":60},\"handler\":{\"type\":\"function\",\"val\":\"() => {\\n        console.log(\\\"I'd roll on  a table if I knew how\\\");\\n    }\"},\"uid\":1642737228480,\"args\":[]},{\"time\":-28028032977,\"recurring\":true,\"increment\":{\"minute\":60},\"handler\":{\"type\":\"function\",\"val\":\"async () => {\\n        const table = await game.tables.getName('The Ruined Keep: Random Encounter Check').draw();\\n        console.log(\\\"I'd roll on  a table if I knew how\\\");\\n    }\"},\"uid\":1642737380815,\"args\":[]}]}}"
+}

@@ -1,0 +1,16 @@
+{
+	"_id": "tSuWazwe9BppeDwa",
+	"name": "Invisibility",
+	"content": "<div class=\"ecr ecr-journal\n\">\n<div class=\"house-rule\">\n<dl>\n<dt>Regarding Invisibility</dt>\n<dd>\n<p>Invisible creatures <em>usually</em> receive <strong>+2 to attacks and are difficult to locate.</strong> These bonuses are reduced or eliminated against creatures not visually-oriented.</p>\n</dd>\n<dd>\n<p>Illusions or mental affects that mask the presence of an item or creature are <em><strong>not</strong></em> invisibility.</p>\n</dd>\n<dd>\n<p>Visible <strong>light travels through invisible creatures</strong> without affecting them in any way.</p>\n</dd>\n<dd>\n<p>If the correct location of an invisible creature is targeted by an attack, it may be attacked normally, but <strong>a miss chance of up to 50% is applied</strong> on otherwise successful attacks.</p>\n<table>\n<thead>\n<tr>\n<th>Miss Chance</th>\n<th>Example Circumstances</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0%</td>\n<td>An explosion larger that the guessed location; a successful <strong>Mighty Deed</strong></td>\n</tr>\n<tr>\n<td>10%</td>\n<td>The attack of a giant naked mole rat; a powerful blind swordsman's attack</td>\n</tr>\n<tr>\n<td>25%</td>\n<td>A cloud of flour gives away the outline of the invisible creature; the attack of a blind ooze</td>\n</tr>\n<tr>\n<td>50%</td>\n<td>Normal attacks without mitigating circumstances</td>\n</tr>\n</tbody>\n</table>\n</dd>\n</dl>\n</div>\n\n</div>",
+	"folder": "Md3o9BqoGzYqA9eL",
+	"sort": 0,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"monks-enhanced-journal": {
+			"scrollPos": "{\".description\":0}"
+		}
+	}
+}

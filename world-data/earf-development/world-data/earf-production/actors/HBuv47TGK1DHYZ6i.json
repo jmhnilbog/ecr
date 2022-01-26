@@ -1,0 +1,433 @@
+{
+	"_id": "HBuv47TGK1DHYZ6i",
+	"name": "Hunter",
+	"type": "Player",
+	"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+	"data": {
+		"abilities": {
+			"str": {
+				"label": "DCC.AbilityStr",
+				"value": 12,
+				"max": 12
+			},
+			"agl": {
+				"label": "DCC.AbilityAgl",
+				"value": 14,
+				"max": 14
+			},
+			"sta": {
+				"label": "DCC.AbilitySta",
+				"value": 10,
+				"max": 10
+			},
+			"per": {
+				"label": "DCC.AbilityPer",
+				"value": 12,
+				"max": 12
+			},
+			"int": {
+				"label": "DCC.AbilityInt",
+				"value": 10,
+				"max": 10
+			},
+			"lck": {
+				"label": "DCC.AbilityLck",
+				"value": 11,
+				"max": 11
+			}
+		},
+		"attributes": {
+			"ac": {
+				"value": "11",
+				"checkPenalty": 0,
+				"speedPenalty": 0
+			},
+			"actionDice": {
+				"value": "1d20",
+				"options": [
+					"1d20"
+				]
+			},
+			"critical": {
+				"die": "1d4",
+				"table": "I"
+			},
+			"fumble": {
+				"die": "1d4"
+			},
+			"hitDice": {
+				"value": "1d4"
+			},
+			"hp": {
+				"value": 3,
+				"min": 0,
+				"max": 3,
+				"temp": 0,
+				"tempmax": 0
+			},
+			"init": {
+				"die": "1d20",
+				"value": 1
+			},
+			"speed": {
+				"value": "30'",
+				"base": 30,
+				"special": ""
+			}
+		},
+		"details": {
+			"level": {
+				"value": 0
+			},
+			"alignment": "l",
+			"attackBonus": "+0",
+			"languages": "Common",
+			"occupation": {
+				"value": "Hunter"
+			},
+			"title": "",
+			"notes": {
+				"value": "<div class=\"ecr ecr-actors\n\">\n<p>Equipment:<br/>  Holy water (1 vial) (25 gp)<br/>  Deer pelt (Trade Goods)<br/><br/>Starting Funds: 31 cp<br/>Birth Augur: Born on the battlefield (Damage rolls)<br/>Languages: Common<br/></p>\n\n</div>"
+			},
+			"birthAugur": "Born on the battlefield (Damage rolls)",
+			"critRange": 20,
+			"xp": {
+				"value": 0,
+				"min": 0,
+				"max": 10
+			},
+			"sheetClass": "Zero"
+		},
+		"saves": {
+			"frt": {
+				"label": "DCC.SavesFortitude",
+				"value": 0
+			},
+			"ref": {
+				"label": "DCC.SavesReflex",
+				"value": 1
+			},
+			"wil": {
+				"label": "DCC.SavesWill",
+				"value": 0
+			}
+		},
+		"currency": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "31"
+		},
+		"config": {
+			"attackBonusMode": "flat",
+			"actionDice": "1d20",
+			"capLevel": false,
+			"maxLevel": 10,
+			"rollAttackBonus": false,
+			"computeAC": true,
+			"baseACAbility": "agl",
+			"computeSpeed": false,
+			"computeCheckPenalty": false,
+			"sortInventory": true,
+			"removeEmptyItems": true,
+			"showSpells": false,
+			"showSkills": false,
+			"showMaxAbilities": true,
+			"showBackstab": false
+		},
+		"skills": {
+			"findSecretDoors": {
+				"label": "DCC.HeightenedSenses",
+				"value": 0,
+				"ability": "int"
+			},
+			"divineAid": {
+				"label": "DCC.DivineAid",
+				"ability": "per",
+				"value": 0,
+				"useDisapprovalRange": true
+			},
+			"turnUnholy": {
+				"label": "DCC.TurnUnholy",
+				"ability": "per",
+				"value": 0,
+				"useDisapprovalRange": true
+			},
+			"layOnHands": {
+				"label": "DCC.LayOnHands",
+				"ability": "per",
+				"value": 0,
+				"useDisapprovalRange": true
+			},
+			"sneakSilently": {
+				"label": "DCC.SneakSilently",
+				"ability": "agl",
+				"value": "0"
+			},
+			"hideInShadows": {
+				"label": "DCC.HideInShadows",
+				"ability": "agl",
+				"value": "0"
+			},
+			"pickPockets": {
+				"label": "DCC.PickPockets",
+				"ability": "agl",
+				"value": "0"
+			},
+			"climbSheerSurfaces": {
+				"label": "DCC.ClimbSheerSurfaces",
+				"ability": "agl",
+				"value": "0"
+			},
+			"pickLock": {
+				"label": "DCC.PickLock",
+				"ability": "agl",
+				"value": "0"
+			},
+			"findTrap": {
+				"label": "DCC.FindTrap",
+				"ability": "int",
+				"value": "0"
+			},
+			"disableTrap": {
+				"label": "DCC.DisableTrap",
+				"ability": "agl",
+				"value": "0"
+			},
+			"forgeDocument": {
+				"label": "DCC.ForgeDocument",
+				"ability": "agl",
+				"value": "0"
+			},
+			"disguiseSelf": {
+				"label": "DCC.DisguiseSelf",
+				"ability": "per",
+				"value": "0"
+			},
+			"readLanguages": {
+				"label": "DCC.ReadLanguages",
+				"ability": "int",
+				"value": "0"
+			},
+			"handlePoison": {
+				"label": "DCC.HandlePoison",
+				"value": "0"
+			},
+			"castSpellFromScroll": {
+				"label": "DCC.CastSpellFromScroll",
+				"ability": "int",
+				"die": "1d10",
+				"value": "0"
+			},
+			"sneakAndHide": {
+				"label": "DCC.SneakAndHide",
+				"value": "+3"
+			},
+			"shieldBash": {
+				"label": "DCC.ShieldBash",
+				"ability": "str",
+				"die": "1d14",
+				"value": "+0",
+				"useDeed": true
+			}
+		},
+		"inventory": {
+			"weapons": [],
+			"ammunition": [],
+			"armor": [],
+			"equipment": [],
+			"mount": []
+		},
+		"class": {
+			"spellCheck": 1,
+			"spellCheckAbility": "int",
+			"deity": null,
+			"disapproval": "1",
+			"disapprovalTable": "Disapproval",
+			"luckDie": "1d3",
+			"backstab": "0",
+			"luckyWeapon": null,
+			"patron": null,
+			"familiar": null,
+			"corruption": [],
+			"className": "Zero-Level"
+		}
+	},
+	"token": {
+		"name": "Hunter",
+		"img": "modules/ecr/images/basilisk-asterisk/sailors-on-the-starless-sea/tokens/villagers/elf-artificer.webp",
+		"displayName": 30,
+		"actorLink": false,
+		"width": 1,
+		"height": 1,
+		"scale": 1,
+		"mirrorX": false,
+		"mirrorY": false,
+		"lockRotation": true,
+		"rotation": 0,
+		"alpha": 1,
+		"vision": false,
+		"dimSight": 0,
+		"brightSight": 0,
+		"sightAngle": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 0,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"dim": 0,
+			"gradual": true,
+			"luminosity": 0.5,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"animation": {
+				"speed": 5,
+				"intensity": 5,
+				"reverse": false
+			},
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"disposition": -1,
+		"displayBars": 30,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": "attributes.ac.value"
+		},
+		"flags": {},
+		"randomImg": false
+	},
+	"items": [
+		{
+			"name": "Shortbow",
+			"type": "weapon",
+			"img": "systems/dcc/styles/images/weapon.webp",
+			"data": {
+				"description": {
+					"value": "<div class=\"ecr ecr-items\">\n\n</div>",
+					"chat": "",
+					"unidentified": "",
+					"summary": ""
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": 0,
+					"ep": 0,
+					"gp": 0,
+					"sp": 0,
+					"cp": 0
+				},
+				"config": {
+					"inheritActionDie": true,
+					"inheritCritRange": true
+				},
+				"actionDie": "1d20",
+				"toHit": "+1",
+				"damage": "1d6",
+				"range": "",
+				"twoHanded": 0,
+				"melee": true,
+				"shortRangeStrength": 0,
+				"subdual": 0,
+				"backstab": false,
+				"backstabDamage": null,
+				"doubleIfMounted": 0,
+				"critRange": 20
+			},
+			"_id": "pvhdlrpzy951y7in",
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"permission": {
+				"default": 0
+			},
+			"flags": {}
+		},
+		{
+			"name": "Holy water (1 vial) (25 gp)",
+			"type": "equipment",
+			"img": "systems/dcc/styles/images/item.webp",
+			"_id": "9ulhosd5jtqj75q2",
+			"data": {
+				"description": {
+					"value": "<div class=\"ecr ecr-items\">\n\n</div>",
+					"chat": "",
+					"unidentified": "",
+					"summary": ""
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": 0,
+					"ep": 0,
+					"gp": 0,
+					"sp": 0,
+					"cp": 0
+				}
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"permission": {
+				"default": 0
+			},
+			"flags": {}
+		},
+		{
+			"name": "Deer pelt",
+			"type": "equipment",
+			"img": "systems/dcc/styles/images/item.webp",
+			"_id": "x90jxskx3gk1m0s7",
+			"data": {
+				"description": {
+					"value": "<div class=\"ecr ecr-items\">\n\n</div>",
+					"chat": "",
+					"unidentified": "",
+					"summary": ""
+				},
+				"source": "",
+				"quantity": 1,
+				"weight": 0,
+				"equipped": true,
+				"identified": true,
+				"value": {
+					"pp": 0,
+					"ep": 0,
+					"gp": 0,
+					"sp": 0,
+					"cp": 0
+				}
+			},
+			"effects": [],
+			"folder": null,
+			"sort": 0,
+			"permission": {
+				"default": 0
+			},
+			"flags": {}
+		}
+	],
+	"effects": [],
+	"folder": "L4T3xQUP6Zm44Yud",
+	"sort": 0,
+	"permission": {
+		"default": 1,
+		"oVvfrcHQErm1ON0p": 3,
+		"isgopEru0XjL8nVj": 3
+	},
+	"flags": {}
+}

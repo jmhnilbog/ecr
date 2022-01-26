@@ -1,0 +1,35 @@
+{
+	"_id": "vEpulaWSkRxjplAy",
+	"name": "Effigy of Molan",
+	"type": "treasure",
+	"img": "moulinette/tiles/oixxo-art/oixxo-art-wheel-of-the-year/5-lammas/corn-doll.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>An effigy of the Chaos Lord Molan. If thrown into the fires atop the Ziggurat of the Starless Sea during a particular ritual, it could return him to life, maybe? Uh-oh.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "0"
+		},
+		"isCoins": false,
+		"weight": 100
+	},
+	"effects": [],
+	"folder": "SesK7iNkpwCgx4q4",
+	"sort": 0,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Item.ayojN4fV8WBxRy8V"
+		}
+	}
+}

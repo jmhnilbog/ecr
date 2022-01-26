@@ -1,0 +1,34 @@
+{
+	"_id": "TEH6nApgJ0hB2TjD",
+	"name": "Bejeweled Scabbard",
+	"type": "equipment",
+	"img": "icons/commodities/gems/gem-rough-rose-red.webp",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>It's covered in semi-precious stones, and was found holding a milky steel longsword.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 1,
+		"equipped": true,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "65",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 200000,
+	"permission": {
+		"default": 0,
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {}
+}

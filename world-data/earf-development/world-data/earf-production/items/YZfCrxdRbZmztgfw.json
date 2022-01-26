@@ -1,0 +1,37 @@
+{
+	"_id": "YZfCrxdRbZmztgfw",
+	"name": "Ancient Quiver of Arrows",
+	"type": "ammunition",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/arrowhead.svg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>It's old! It was found under a big rock.</p>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 25,
+		"weight": 0,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "5",
+			"sp": "0",
+			"cp": "0"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 2000000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-ammunition.O0i7qsp8ZPwb9OB8"
+		}
+	}
+}

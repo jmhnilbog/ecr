@@ -1,0 +1,10 @@
+{
+	"_id": "WHTT7AKYOXY4FfZt",
+	"name": "PCs",
+	"type": "Actor",
+	"parent": null,
+	"sorting": "a",
+	"sort": 100000,
+	"color": "#009491",
+	"flags": {}
+}

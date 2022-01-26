@@ -1,0 +1,40 @@
+{
+	"_id": "gWWRrFZBcxtvjfnX",
+	"name": "Pouch of Powder & Bandages",
+	"type": "equipment",
+	"img": "modules/dcc-core-book/assets/svg/game-icons-net/swap-bag.svg",
+	"data": {
+		"description": {
+			"value": "<div class=\"ecr ecr-items\n\">\n<p>When found, it held 5 cloth bandages and enough powder to cover them all thoroughly. Currently:</p>\n<ul>\n<li>5 bandages</li>\n<li>All the powder.</li>\n</ul>\n\n</div>",
+			"chat": "",
+			"unidentified": "",
+			"summary": ""
+		},
+		"source": "",
+		"quantity": 1,
+		"weight": 1,
+		"equipped": false,
+		"identified": true,
+		"value": {
+			"pp": "0",
+			"ep": "0",
+			"gp": "0",
+			"sp": "0",
+			"cp": "8"
+		}
+	},
+	"effects": [],
+	"folder": "ztHwgOhqF15njNll",
+	"sort": 1900000,
+	"permission": {
+		"oVvfrcHQErm1ON0p": 3
+	},
+	"flags": {
+		"core": {
+			"sourceId": "Compendium.dcc-core-book.dcc-core-equipment.gTlBWoTvwpIpclI7"
+		},
+		"gm-notes": {
+			"notes": "<div class=\"ecr ecr-items\n\">\n<p>The bag started with 5 bandages and 10 doses of powder.</p>\n<p>When <strong>wine or water is added</strong> to the green powder, it forms a poultice that heals [[/r 1d4+1]] hp of damage.</p>\n<p>Any <strong>healer, herbalist, shaman, or cleric</strong> can readily identify the powder.</p>\n\n</div>"
+		}
+	}
+}

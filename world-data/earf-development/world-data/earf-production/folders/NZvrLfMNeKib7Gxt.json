@@ -1,0 +1,12 @@
+{
+	"_id": "NZvrLfMNeKib7Gxt",
+	"name": "SotSS",
+	"type": "Item",
+	"parent": null,
+	"sorting": "a",
+	"sort": 600000,
+	"color": null,
+	"flags": {
+		"textColour": ""
+	}
+}
